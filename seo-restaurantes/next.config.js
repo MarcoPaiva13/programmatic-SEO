@@ -14,10 +14,8 @@ module.exports = withBundleAnalyzer({
     minimumCacheTTL: 60, // Cache em segundos
   },
   
-  // Configurações de ISR para otimização de regeneração
+  // Configurações de otimização para Pages Router
   experimental: {
-    // Habilitar cache entre builds
-    isrMemoryCacheSize: 50, // Aumenta o número de páginas em cache durante o build
     // Otimização para páginas estáticas
     optimizeCss: true,
     scrollRestoration: true,

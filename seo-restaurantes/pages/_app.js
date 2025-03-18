@@ -6,6 +6,7 @@ import { Analytics } from '@vercel/analytics/react';
 import { SpeedInsights } from '@vercel/speed-insights/next';
 import { ErrorBoundary } from 'react-error-boundary';
 import { useRouter } from 'next/router';
+import { Geist, Geist_Mono } from 'next/font/google';
 
 // Importar estilos globais
 import '@/styles/globals.css';
@@ -29,6 +30,17 @@ import {
   trackPageView,
   initHeatmap
 } from '@/lib/analytics';
+
+// Configurar fontes Geist
+const geistSans = Geist({
+  variable: "--font-geist-sans",
+  subsets: ["latin"],
+});
+
+const geistMono = Geist_Mono({
+  variable: "--font-geist-mono",
+  subsets: ["latin"],
+});
 
 // Componente de fallback para erros
 function ErrorFallback({ error }) {
@@ -231,7 +243,9 @@ function MyApp({ Component, pageProps }) {
       
       {/* Componente principal com tratamento de erros */}
       <ErrorBoundary FallbackComponent={ErrorFallback}>
-        <Component {...pageProps} />
+        <main className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+          <Component {...pageProps} />
+        </main>
       </ErrorBoundary>
       
       {/* Integrações com Vercel para analytics e performance */}
