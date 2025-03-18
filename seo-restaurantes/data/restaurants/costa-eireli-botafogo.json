@@ -1,0 +1,149 @@
+{
+  "id": "costa-eireli-botafogo",
+  "name": "Costa EIRELI",
+  "slug": "costa-eireli-botafogo",
+  "city": "Rio de Janeiro",
+  "neighborhood": "Botafogo",
+  "state": "RJ",
+  "address": {
+    "street": "Reis Avenida",
+    "number": "1592",
+    "zipCode": "63153-450",
+    "coordinates": {
+      "latitude": -22.907,
+      "longitude": -43.173
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Yakisoba",
+    "Sushi",
+    "Tempura"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": false,
+  "delivery": false,
+  "takeout": false,
+  "phone": "(09) 1119-8234",
+  "website": "https://www.costa-eireli-botafogo.com.br",
+  "socialMedia": {
+    "instagram": "@costaeirelibotafogo",
+    "facebook": "costaeirelibotafogo"
+  },
+  "rating": 4.5,
+  "reviewCount": 383,
+  "ambience": [
+    "Tradicional",
+    "Casual Elegante"
+  ],
+  "features": [
+    "Terraço",
+    "Estacionamento",
+    "Acessibilidade"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1992,
+    "founder": "Maria Júlia Xavier",
+    "story": "Debitis facilis sit voluptates. Ut fugiat sequi ea ipsa maxime ipsam corrupti id. Quia facere fugiat. Magnam vel alias. Dolores dolorem vel alias. Odit autem corrupti est."
+  },
+  "chef": {
+    "name": "Arthur Moreira",
+    "background": "Nemo minus vel."
+  },
+  "keywords": [
+    "japonesa",
+    "botafogo",
+    "rio de janeiro"
+  ],
+  "nearbyAttractions": [
+    "Shopping",
+    "Museu",
+    "Centro Comercial"
+  ],
+  "relatedQueries": [
+    "melhor restaurante japonesa em rio de janeiro",
+    "restaurante japonesa tradicional",
+    "japonesa em botafogo"
+  ],
+  "images": [
+    {
+      "url": "/images/costa-eireli-botafogo/fachada.jpg",
+      "alt": "Fachada do Costa EIRELI em Botafogo",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/costa-eireli-botafogo/interior.jpg",
+      "alt": "Ambiente interno do Costa EIRELI",
+      "type": "interior"
+    },
+    {
+      "url": "/images/costa-eireli-botafogo/prato.jpg",
+      "alt": "Prato especial do Costa EIRELI",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2019",
+    "Melhor Restaurante Japonesa de Rio de Janeiro 2023"
+  ],
+  "events": [
+    "Menu Degustação",
+    "Festival Gastronômico"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções sem Glúten"
+  ]
+}

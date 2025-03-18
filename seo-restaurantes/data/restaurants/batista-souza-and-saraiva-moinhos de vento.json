@@ -1,0 +1,149 @@
+{
+  "id": "batista-souza-and-saraiva-moinhos de vento",
+  "name": "Batista, Souza and Saraiva",
+  "slug": "batista-souza-and-saraiva-moinhos de vento",
+  "city": "Porto Alegre",
+  "neighborhood": "Moinhos de Vento",
+  "state": "RS",
+  "address": {
+    "street": "Moraes Travessa",
+    "number": "7018",
+    "zipCode": "17529-644",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Sashimi",
+    "Tempura",
+    "Temaki"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": false,
+  "delivery": false,
+  "takeout": true,
+  "phone": "(81) 2530-7025",
+  "website": "https://www.batista-souza-and-saraiva-moinhos de vento.com.br",
+  "socialMedia": {
+    "instagram": "@batistasouzaandsaraivamoinhos de vento",
+    "facebook": "batistasouzaandsaraivamoinhos de vento"
+  },
+  "rating": 3.7,
+  "reviewCount": 379,
+  "ambience": [
+    "Romântico",
+    "Tradicional"
+  ],
+  "features": [
+    "Ar Condicionado",
+    "Wi-Fi",
+    "Terraço"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1982,
+    "founder": "Gael Nogueira",
+    "story": "Praesentium perspiciatis dolorum. Excepturi quae velit et optio et quia. Velit vel amet earum libero earum. Perspiciatis cumque tempora voluptatem ipsam inventore. Blanditiis qui consequuntur repellendus. Quia corporis voluptas non nisi quia."
+  },
+  "chef": {
+    "name": "Gustavo Moraes",
+    "background": "Id est mollitia et illum autem nesciunt quis inventore quia."
+  },
+  "keywords": [
+    "japonesa",
+    "moinhos de vento",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Centro Comercial",
+    "Museu",
+    "Shopping"
+  ],
+  "relatedQueries": [
+    "restaurante japonesa tradicional",
+    "japonesa em moinhos de vento",
+    "melhor restaurante japonesa em porto alegre"
+  ],
+  "images": [
+    {
+      "url": "/images/batista-souza-and-saraiva-moinhos de vento/fachada.jpg",
+      "alt": "Fachada do Batista, Souza and Saraiva em Moinhos de Vento",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/batista-souza-and-saraiva-moinhos de vento/interior.jpg",
+      "alt": "Ambiente interno do Batista, Souza and Saraiva",
+      "type": "interior"
+    },
+    {
+      "url": "/images/batista-souza-and-saraiva-moinhos de vento/prato.jpg",
+      "alt": "Prato especial do Batista, Souza and Saraiva",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Japonesa de Porto Alegre 2023",
+    "Destaque Gastronômico - Revista Gourmet 2023"
+  ],
+  "events": [
+    "Happy Hour Especial",
+    "Menu Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções Vegetarianas"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "santos-costa-jardim social",
+  "name": "Santos - Costa",
+  "slug": "santos-costa-jardim social",
+  "city": "Curitiba",
+  "neighborhood": "Jardim Social",
+  "state": "PR",
+  "address": {
+    "street": "Macedo Alameda",
+    "number": "3764",
+    "zipCode": "05422-105",
+    "coordinates": {
+      "latitude": -25.429,
+      "longitude": -49.274
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Feijoada",
+    "Churrasco",
+    "Moqueca"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": true,
+  "delivery": true,
+  "takeout": false,
+  "phone": "(15) 3366-7312",
+  "website": "https://www.santos-costa-jardim social.com.br",
+  "socialMedia": {
+    "instagram": "@santoscostajardim social",
+    "facebook": "santoscostajardim social"
+  },
+  "rating": 4.3,
+  "reviewCount": 141,
+  "ambience": [
+    "Moderno",
+    "Casual Elegante"
+  ],
+  "features": [
+    "Wi-Fi",
+    "Acessibilidade",
+    "Estacionamento"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1997,
+    "founder": "Eloá Saraiva",
+    "story": "Cumque ut velit tempora enim vel voluptas ullam voluptas aliquam. Laudantium non quasi. Magni quae est necessitatibus natus modi occaecati. Et voluptatibus enim tenetur assumenda. Inventore ea illo consequatur id dolor in qui necessitatibus."
+  },
+  "chef": {
+    "name": "Kléber Albuquerque Filho",
+    "background": "Ad non debitis architecto placeat dolores."
+  },
+  "keywords": [
+    "brasileira",
+    "jardim social",
+    "curitiba"
+  ],
+  "nearbyAttractions": [
+    "Parque",
+    "Centro Comercial",
+    "Museu"
+  ],
+  "relatedQueries": [
+    "restaurante brasileira tradicional",
+    "melhor restaurante brasileira em curitiba",
+    "brasileira em jardim social"
+  ],
+  "images": [
+    {
+      "url": "/images/santos-costa-jardim social/fachada.jpg",
+      "alt": "Fachada do Santos - Costa em Jardim Social",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/santos-costa-jardim social/interior.jpg",
+      "alt": "Ambiente interno do Santos - Costa",
+      "type": "interior"
+    },
+    {
+      "url": "/images/santos-costa-jardim social/prato.jpg",
+      "alt": "Prato especial do Santos - Costa",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2018",
+    "Melhor Restaurante Brasileira de Curitiba 2023"
+  ],
+  "events": [
+    "Menu Degustação",
+    "Festival Gastronômico"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções Veganas"
+  ]
+}

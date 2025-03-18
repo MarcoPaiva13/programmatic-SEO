@@ -1,0 +1,149 @@
+{
+  "id": "moraes-moreira-and-moreira-santa efigênia",
+  "name": "Moraes, Moreira and Moreira",
+  "slug": "moraes-moreira-and-moreira-santa efigênia",
+  "city": "Belo Horizonte",
+  "neighborhood": "Santa Efigênia",
+  "state": "MG",
+  "address": {
+    "street": "Xavier Avenida",
+    "number": "3194",
+    "zipCode": "98796-477",
+    "coordinates": {
+      "latitude": -19.917,
+      "longitude": -43.935
+    }
+  },
+  "cuisine": [
+    "Italiana"
+  ],
+  "specialties": [
+    "Pasta",
+    "Ravioli",
+    "Tiramisu"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(85) 1449-6853",
+  "website": "https://www.moraes-moreira-and-moreira-santa efigênia.com.br",
+  "socialMedia": {
+    "instagram": "@moraesmoreiraandmoreirasanta efigênia",
+    "facebook": "moraesmoreiraandmoreirasanta efigênia"
+  },
+  "rating": 4.8,
+  "reviewCount": 243,
+  "ambience": [
+    "Casual Elegante",
+    "Moderno"
+  ],
+  "features": [
+    "Terraço",
+    "Bar",
+    "Estacionamento"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1999,
+    "founder": "Júlio César Moraes",
+    "story": "Et quaerat similique enim eum impedit autem earum fugiat voluptatem. Voluptatum impedit similique. Praesentium hic quibusdam tenetur molestiae aut consequatur. Eos possimus reiciendis distinctio. Veritatis sunt sunt et quibusdam rem atque distinctio sit. Dolorem doloremque iste pariatur tempore adipisci esse quia."
+  },
+  "chef": {
+    "name": "Marcela Saraiva",
+    "background": "Velit ab molestiae harum sunt exercitationem eligendi distinctio."
+  },
+  "keywords": [
+    "italiana",
+    "santa efigênia",
+    "belo horizonte"
+  ],
+  "nearbyAttractions": [
+    "Parque",
+    "Teatro",
+    "Museu"
+  ],
+  "relatedQueries": [
+    "italiana em santa efigênia",
+    "restaurante italiana tradicional",
+    "melhor restaurante italiana em belo horizonte"
+  ],
+  "images": [
+    {
+      "url": "/images/moraes-moreira-and-moreira-santa efigênia/fachada.jpg",
+      "alt": "Fachada do Moraes, Moreira and Moreira em Santa Efigênia",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/moraes-moreira-and-moreira-santa efigênia/interior.jpg",
+      "alt": "Ambiente interno do Moraes, Moreira and Moreira",
+      "type": "interior"
+    },
+    {
+      "url": "/images/moraes-moreira-and-moreira-santa efigênia/prato.jpg",
+      "alt": "Prato especial do Moraes, Moreira and Moreira",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Spaghetti alla Carbonara",
+      "preco": 58,
+      "descricao": "Massa fresca com molho cremoso de ovos, queijo pecorino e pancetta",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Risotto ai Funghi",
+      "preco": 65,
+      "descricao": "Arroz arbóreo com mix de cogumelos frescos e parmesão",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Pizza Margherita",
+      "preco": 45,
+      "descricao": "Pizza tradicional com molho de tomate, mussarela e manjericão",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2019",
+    "Melhor Restaurante Italiana de Belo Horizonte 2019"
+  ],
+  "events": [
+    "Menu Degustação",
+    "Noites de Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções sem Glúten"
+  ]
+}

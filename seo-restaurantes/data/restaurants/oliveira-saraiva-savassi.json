@@ -1,0 +1,149 @@
+{
+  "id": "oliveira-saraiva-savassi",
+  "name": "Oliveira - Saraiva",
+  "slug": "oliveira-saraiva-savassi",
+  "city": "Belo Horizonte",
+  "neighborhood": "Savassi",
+  "state": "MG",
+  "address": {
+    "street": "João Travessa",
+    "number": "8142",
+    "zipCode": "47160-248",
+    "coordinates": {
+      "latitude": -19.917,
+      "longitude": -43.935
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Pão de Queijo",
+    "Churrasco",
+    "Acarajé"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": true,
+  "delivery": false,
+  "takeout": false,
+  "phone": "(43) 7907-8655",
+  "website": "https://www.oliveira-saraiva-savassi.com.br",
+  "socialMedia": {
+    "instagram": "@oliveirasaraivasavassi",
+    "facebook": "oliveirasaraivasavassi"
+  },
+  "rating": 4.2,
+  "reviewCount": 372,
+  "ambience": [
+    "Moderno",
+    "Familiar"
+  ],
+  "features": [
+    "Estacionamento",
+    "Wi-Fi",
+    "Terraço"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2011,
+    "founder": "Benício Batista",
+    "story": "Distinctio neque ea voluptatibus eum sint aperiam est. Repellendus consequuntur saepe velit dolorum provident itaque. Quam iste iusto quo eum eligendi ea maiores natus earum. Odit voluptatem quidem unde consequatur amet aut maiores. Dolorem libero qui perferendis earum magnam totam aut."
+  },
+  "chef": {
+    "name": "Ladislau Silva",
+    "background": "Et facere commodi ipsa aut pariatur."
+  },
+  "keywords": [
+    "brasileira",
+    "savassi",
+    "belo horizonte"
+  ],
+  "nearbyAttractions": [
+    "Teatro",
+    "Shopping",
+    "Centro Comercial"
+  ],
+  "relatedQueries": [
+    "brasileira em savassi",
+    "melhor restaurante brasileira em belo horizonte",
+    "restaurante brasileira tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/oliveira-saraiva-savassi/fachada.jpg",
+      "alt": "Fachada do Oliveira - Saraiva em Savassi",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/oliveira-saraiva-savassi/interior.jpg",
+      "alt": "Ambiente interno do Oliveira - Saraiva",
+      "type": "interior"
+    },
+    {
+      "url": "/images/oliveira-saraiva-savassi/prato.jpg",
+      "alt": "Prato especial do Oliveira - Saraiva",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2019",
+    "Melhor Restaurante Brasileira de Belo Horizonte 2023"
+  ],
+  "events": [
+    "Festival Gastronômico",
+    "Menu Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções Veganas"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "pereira-barros-boa vista",
+  "name": "Pereira - Barros",
+  "slug": "pereira-barros-boa vista",
+  "city": "Porto Alegre",
+  "neighborhood": "Boa Vista",
+  "state": "RS",
+  "address": {
+    "street": "Batista Avenida",
+    "number": "5294",
+    "zipCode": "02108-291",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Tempura",
+    "Sashimi",
+    "Temaki"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": true,
+  "delivery": false,
+  "takeout": true,
+  "phone": "(75) 8909-5776",
+  "website": "https://www.pereira-barros-boa vista.com.br",
+  "socialMedia": {
+    "instagram": "@pereirabarrosboa vista",
+    "facebook": "pereirabarrosboa vista"
+  },
+  "rating": 4.3,
+  "reviewCount": 351,
+  "ambience": [
+    "Familiar",
+    "Moderno"
+  ],
+  "features": [
+    "Wi-Fi",
+    "Terraço",
+    "Ar Condicionado"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2016,
+    "founder": "Henrique Reis",
+    "story": "Qui doloribus officiis et cupiditate. Et ad reiciendis illo sunt eaque. Aut et dolorem dolorum quia accusamus. Et temporibus distinctio perspiciatis quo. Dolor assumenda qui incidunt quaerat. Quibusdam nulla quaerat nam occaecati asperiores similique rerum sapiente."
+  },
+  "chef": {
+    "name": "Emanuelly Xavier",
+    "background": "Aspernatur blanditiis et."
+  },
+  "keywords": [
+    "japonesa",
+    "boa vista",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Teatro",
+    "Museu",
+    "Parque"
+  ],
+  "relatedQueries": [
+    "melhor restaurante japonesa em porto alegre",
+    "japonesa em boa vista",
+    "restaurante japonesa tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/pereira-barros-boa vista/fachada.jpg",
+      "alt": "Fachada do Pereira - Barros em Boa Vista",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/pereira-barros-boa vista/interior.jpg",
+      "alt": "Ambiente interno do Pereira - Barros",
+      "type": "interior"
+    },
+    {
+      "url": "/images/pereira-barros-boa vista/prato.jpg",
+      "alt": "Prato especial do Pereira - Barros",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Japonesa de Porto Alegre 2019",
+    "Destaque Gastronômico - Revista Gourmet 2019"
+  ],
+  "events": [
+    "Menu Degustação",
+    "Festival Gastronômico"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções Veganas"
+  ]
+}

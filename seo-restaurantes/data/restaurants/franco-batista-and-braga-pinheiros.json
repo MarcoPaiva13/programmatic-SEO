@@ -1,0 +1,149 @@
+{
+  "id": "franco-batista-and-braga-pinheiros",
+  "name": "Franco, Batista and Braga",
+  "slug": "franco-batista-and-braga-pinheiros",
+  "city": "São Paulo",
+  "neighborhood": "Pinheiros",
+  "state": "SP",
+  "address": {
+    "street": "Silva Rua",
+    "number": "6647",
+    "zipCode": "24347-460",
+    "coordinates": {
+      "latitude": -23.555,
+      "longitude": -46.637
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Acarajé",
+    "Feijoada",
+    "Moqueca"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": true,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(29) 3318-3234",
+  "website": "https://www.franco-batista-and-braga-pinheiros.com.br",
+  "socialMedia": {
+    "instagram": "@francobatistaandbragapinheiros",
+    "facebook": "francobatistaandbragapinheiros"
+  },
+  "rating": 4.6,
+  "reviewCount": 359,
+  "ambience": [
+    "Moderno",
+    "Familiar"
+  ],
+  "features": [
+    "Ar Condicionado",
+    "Wi-Fi",
+    "Estacionamento"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1994,
+    "founder": "Elisa Santos Neto",
+    "story": "Odit accusantium id ab ut facilis possimus suscipit ad. Dolorem unde assumenda occaecati architecto ut tenetur dignissimos. Omnis impedit voluptatem eveniet iusto voluptatibus. Ex quia quos odio voluptatem placeat numquam velit."
+  },
+  "chef": {
+    "name": "Isabella Carvalho",
+    "background": "Maxime ut consectetur accusantium at."
+  },
+  "keywords": [
+    "brasileira",
+    "pinheiros",
+    "são paulo"
+  ],
+  "nearbyAttractions": [
+    "Teatro",
+    "Museu",
+    "Parque"
+  ],
+  "relatedQueries": [
+    "melhor restaurante brasileira em são paulo",
+    "restaurante brasileira tradicional",
+    "brasileira em pinheiros"
+  ],
+  "images": [
+    {
+      "url": "/images/franco-batista-and-braga-pinheiros/fachada.jpg",
+      "alt": "Fachada do Franco, Batista and Braga em Pinheiros",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/franco-batista-and-braga-pinheiros/interior.jpg",
+      "alt": "Ambiente interno do Franco, Batista and Braga",
+      "type": "interior"
+    },
+    {
+      "url": "/images/franco-batista-and-braga-pinheiros/prato.jpg",
+      "alt": "Prato especial do Franco, Batista and Braga",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2022",
+    "Melhor Restaurante Brasileira de São Paulo 2019"
+  ],
+  "events": [
+    "Menu Degustação",
+    "Happy Hour Especial"
+  ],
+  "dietaryOptions": [
+    "Opções sem Glúten",
+    "Opções Vegetarianas"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "saraiva-melo-sion",
+  "name": "Saraiva - Melo",
+  "slug": "saraiva-melo-sion",
+  "city": "Belo Horizonte",
+  "neighborhood": "Sion",
+  "state": "MG",
+  "address": {
+    "street": "Margarida Marginal",
+    "number": "6433",
+    "zipCode": "73714-395",
+    "coordinates": {
+      "latitude": -19.917,
+      "longitude": -43.935
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Temaki",
+    "Tempura",
+    "Yakisoba"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": false,
+  "phone": "(22) 4227-6996",
+  "website": "https://www.saraiva-melo-sion.com.br",
+  "socialMedia": {
+    "instagram": "@saraivamelosion",
+    "facebook": "saraivamelosion"
+  },
+  "rating": 4.8,
+  "reviewCount": 221,
+  "ambience": [
+    "Romântico",
+    "Tradicional"
+  ],
+  "features": [
+    "Terraço",
+    "Wi-Fi",
+    "Ar Condicionado"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1980,
+    "founder": "Natália Costa",
+    "story": "Et id hic. Tempore ut itaque. Totam mollitia recusandae et quisquam accusantium nemo et. Quod est molestiae voluptatem reiciendis exercitationem dolor."
+  },
+  "chef": {
+    "name": "Salvador Carvalho",
+    "background": "Explicabo sunt asperiores."
+  },
+  "keywords": [
+    "japonesa",
+    "sion",
+    "belo horizonte"
+  ],
+  "nearbyAttractions": [
+    "Museu",
+    "Shopping",
+    "Centro Comercial"
+  ],
+  "relatedQueries": [
+    "melhor restaurante japonesa em belo horizonte",
+    "japonesa em sion",
+    "restaurante japonesa tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/saraiva-melo-sion/fachada.jpg",
+      "alt": "Fachada do Saraiva - Melo em Sion",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/saraiva-melo-sion/interior.jpg",
+      "alt": "Ambiente interno do Saraiva - Melo",
+      "type": "interior"
+    },
+    {
+      "url": "/images/saraiva-melo-sion/prato.jpg",
+      "alt": "Prato especial do Saraiva - Melo",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2021",
+    "Melhor Restaurante Japonesa de Belo Horizonte 2018"
+  ],
+  "events": [
+    "Festival Gastronômico",
+    "Menu Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções Vegetarianas"
+  ]
+}

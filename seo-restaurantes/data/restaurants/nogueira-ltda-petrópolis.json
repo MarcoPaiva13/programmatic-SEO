@@ -1,0 +1,149 @@
+{
+  "id": "nogueira-ltda-petrópolis",
+  "name": "Nogueira LTDA",
+  "slug": "nogueira-ltda-petrópolis",
+  "city": "Porto Alegre",
+  "neighborhood": "Petrópolis",
+  "state": "RS",
+  "address": {
+    "street": "Ígor Alameda",
+    "number": "6338",
+    "zipCode": "39190-735",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Acarajé",
+    "Churrasco",
+    "Feijoada"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": false,
+  "phone": "(01) 7699-3488",
+  "website": "https://www.nogueira-ltda-petrópolis.com.br",
+  "socialMedia": {
+    "instagram": "@nogueiraltdapetrópolis",
+    "facebook": "nogueiraltdapetrópolis"
+  },
+  "rating": 4.6,
+  "reviewCount": 213,
+  "ambience": [
+    "Moderno",
+    "Romântico"
+  ],
+  "features": [
+    "Estacionamento",
+    "Wi-Fi",
+    "Bar"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2017,
+    "founder": "Mércia Pereira",
+    "story": "Ad officia atque. Est eum dignissimos. Modi qui non. Soluta id aut voluptas necessitatibus rerum repudiandae nisi quos aut. Doloribus ea et officia."
+  },
+  "chef": {
+    "name": "Washington Carvalho",
+    "background": "Aut unde sit eaque quae voluptas tempore laborum."
+  },
+  "keywords": [
+    "brasileira",
+    "petrópolis",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Parque",
+    "Shopping",
+    "Museu"
+  ],
+  "relatedQueries": [
+    "restaurante brasileira tradicional",
+    "brasileira em petrópolis",
+    "melhor restaurante brasileira em porto alegre"
+  ],
+  "images": [
+    {
+      "url": "/images/nogueira-ltda-petrópolis/fachada.jpg",
+      "alt": "Fachada do Nogueira LTDA em Petrópolis",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/nogueira-ltda-petrópolis/interior.jpg",
+      "alt": "Ambiente interno do Nogueira LTDA",
+      "type": "interior"
+    },
+    {
+      "url": "/images/nogueira-ltda-petrópolis/prato.jpg",
+      "alt": "Prato especial do Nogueira LTDA",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2021",
+    "Melhor Restaurante Brasileira de Porto Alegre 2019"
+  ],
+  "events": [
+    "Festival Gastronômico",
+    "Menu Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções sem Glúten"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "moreira-carvalho-and-saraiva-higienópolis",
+  "name": "Moreira, Carvalho and Saraiva",
+  "slug": "moreira-carvalho-and-saraiva-higienópolis",
+  "city": "São Paulo",
+  "neighborhood": "Higienópolis",
+  "state": "SP",
+  "address": {
+    "street": "Reis Alameda",
+    "number": "4407",
+    "zipCode": "56109-309",
+    "coordinates": {
+      "latitude": -23.56,
+      "longitude": -46.66
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Moqueca",
+    "Feijoada",
+    "Acarajé"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": false,
+  "delivery": false,
+  "takeout": false,
+  "phone": "(35) 7470-8405",
+  "website": "https://www.moreira-carvalho-and-saraiva-higienópolis.com.br",
+  "socialMedia": {
+    "instagram": "@moreiracarvalhoandsaraivahigienópolis",
+    "facebook": "moreiracarvalhoandsaraivahigienópolis"
+  },
+  "rating": 4.9,
+  "reviewCount": 181,
+  "ambience": [
+    "Familiar",
+    "Casual Elegante"
+  ],
+  "features": [
+    "Ar Condicionado",
+    "Bar",
+    "Wi-Fi"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2006,
+    "founder": "Lorena Macedo Jr.",
+    "story": "Aperiam ab laborum sit quo molestiae velit quae autem voluptatem. Rerum suscipit id aut et accusantium dolore. Asperiores omnis natus harum architecto vero omnis eos vel. Minus et consequuntur iusto facilis corrupti delectus earum aut. Error facere voluptatum illum aut pariatur est natus expedita et."
+  },
+  "chef": {
+    "name": "Ana Luiza Reis",
+    "background": "Non accusantium est."
+  },
+  "keywords": [
+    "brasileira",
+    "higienópolis",
+    "são paulo"
+  ],
+  "nearbyAttractions": [
+    "Shopping",
+    "Parque",
+    "Teatro"
+  ],
+  "relatedQueries": [
+    "brasileira em higienópolis",
+    "restaurante brasileira tradicional",
+    "melhor restaurante brasileira em são paulo"
+  ],
+  "images": [
+    {
+      "url": "/images/moreira-carvalho-and-saraiva-higienópolis/fachada.jpg",
+      "alt": "Fachada do Moreira, Carvalho and Saraiva em Higienópolis",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/moreira-carvalho-and-saraiva-higienópolis/interior.jpg",
+      "alt": "Ambiente interno do Moreira, Carvalho and Saraiva",
+      "type": "interior"
+    },
+    {
+      "url": "/images/moreira-carvalho-and-saraiva-higienópolis/prato.jpg",
+      "alt": "Prato especial do Moreira, Carvalho and Saraiva",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Brasileira de São Paulo 2021",
+    "Destaque Gastronômico - Revista Gourmet 2018"
+  ],
+  "events": [
+    "Happy Hour Especial",
+    "Noites de Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções sem Glúten"
+  ]
+}

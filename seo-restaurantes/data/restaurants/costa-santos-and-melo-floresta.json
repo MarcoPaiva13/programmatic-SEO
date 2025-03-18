@@ -1,0 +1,149 @@
+{
+  "id": "costa-santos-and-melo-floresta",
+  "name": "Costa, Santos and Melo",
+  "slug": "costa-santos-and-melo-floresta",
+  "city": "Porto Alegre",
+  "neighborhood": "Floresta",
+  "state": "RS",
+  "address": {
+    "street": "Maria Clara Marginal",
+    "number": "1544",
+    "zipCode": "87963-990",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Temaki",
+    "Sashimi",
+    "Yakisoba"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": true,
+  "delivery": true,
+  "takeout": false,
+  "phone": "(44) 8253-2408",
+  "website": "https://www.costa-santos-and-melo-floresta.com.br",
+  "socialMedia": {
+    "instagram": "@costasantosandmelofloresta",
+    "facebook": "costasantosandmelofloresta"
+  },
+  "rating": 3.8,
+  "reviewCount": 281,
+  "ambience": [
+    "Tradicional",
+    "Familiar"
+  ],
+  "features": [
+    "Acessibilidade",
+    "Wi-Fi",
+    "Bar"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2018,
+    "founder": "Rafael Barros",
+    "story": "Reprehenderit fugiat quo ea mollitia fugiat debitis in sint. Omnis voluptatem eaque labore nulla placeat blanditiis. Ex laborum repudiandae molestiae."
+  },
+  "chef": {
+    "name": "Vicente Macedo",
+    "background": "Numquam aut mollitia rerum aut vel incidunt."
+  },
+  "keywords": [
+    "japonesa",
+    "floresta",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Parque",
+    "Teatro",
+    "Centro Comercial"
+  ],
+  "relatedQueries": [
+    "melhor restaurante japonesa em porto alegre",
+    "japonesa em floresta",
+    "restaurante japonesa tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/costa-santos-and-melo-floresta/fachada.jpg",
+      "alt": "Fachada do Costa, Santos and Melo em Floresta",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/costa-santos-and-melo-floresta/interior.jpg",
+      "alt": "Ambiente interno do Costa, Santos and Melo",
+      "type": "interior"
+    },
+    {
+      "url": "/images/costa-santos-and-melo-floresta/prato.jpg",
+      "alt": "Prato especial do Costa, Santos and Melo",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2023",
+    "Melhor Restaurante Japonesa de Porto Alegre 2019"
+  ],
+  "events": [
+    "Happy Hour Especial",
+    "Noites de Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções Veganas"
+  ]
+}

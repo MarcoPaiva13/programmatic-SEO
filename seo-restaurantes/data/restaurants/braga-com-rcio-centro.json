@@ -1,0 +1,149 @@
+{
+  "id": "braga-com-rcio-centro",
+  "name": "Braga Comércio",
+  "slug": "braga-com-rcio-centro",
+  "city": "Porto Alegre",
+  "neighborhood": "Centro",
+  "state": "RS",
+  "address": {
+    "street": "Valentina Avenida",
+    "number": "2784",
+    "zipCode": "94131-542",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Feijoada",
+    "Moqueca",
+    "Churrasco"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": false,
+  "phone": "(05) 8032-8710",
+  "website": "https://www.braga-com-rcio-centro.com.br",
+  "socialMedia": {
+    "instagram": "@bragacomrciocentro",
+    "facebook": "bragacomrciocentro"
+  },
+  "rating": 4.6,
+  "reviewCount": 93,
+  "ambience": [
+    "Moderno",
+    "Casual Elegante"
+  ],
+  "features": [
+    "Terraço",
+    "Wi-Fi",
+    "Estacionamento"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1999,
+    "founder": "Dra. Natália Silva",
+    "story": "Molestiae eveniet autem voluptatem praesentium architecto tempore reprehenderit dolores aut. Similique ullam ut et aut. Ab neque ut expedita qui enim eum. Molestiae hic laudantium nesciunt sed. Iusto sit doloribus voluptates modi similique dolorem possimus. Porro impedit sint mollitia."
+  },
+  "chef": {
+    "name": "Félix Xavier",
+    "background": "Inventore rerum ullam atque."
+  },
+  "keywords": [
+    "brasileira",
+    "centro",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Museu",
+    "Parque",
+    "Shopping"
+  ],
+  "relatedQueries": [
+    "restaurante brasileira tradicional",
+    "melhor restaurante brasileira em porto alegre",
+    "brasileira em centro"
+  ],
+  "images": [
+    {
+      "url": "/images/braga-com-rcio-centro/fachada.jpg",
+      "alt": "Fachada do Braga Comércio em Centro",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/braga-com-rcio-centro/interior.jpg",
+      "alt": "Ambiente interno do Braga Comércio",
+      "type": "interior"
+    },
+    {
+      "url": "/images/braga-com-rcio-centro/prato.jpg",
+      "alt": "Prato especial do Braga Comércio",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Brasileira de Porto Alegre 2018",
+    "Destaque Gastronômico - Revista Gourmet 2020"
+  ],
+  "events": [
+    "Happy Hour Especial",
+    "Noites de Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções sem Glúten",
+    "Opções Vegetarianas"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "santos-s-a--boa vista",
+  "name": "Santos S.A.",
+  "slug": "santos-s-a--boa vista",
+  "city": "Porto Alegre",
+  "neighborhood": "Boa Vista",
+  "state": "RS",
+  "address": {
+    "street": "Aline Travessa",
+    "number": "4178",
+    "zipCode": "60094-916",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Italiana"
+  ],
+  "specialties": [
+    "Tiramisu",
+    "Ravioli",
+    "Risotto"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": false,
+  "phone": "(41) 4886-9895",
+  "website": "https://www.santos-s-a--boa vista.com.br",
+  "socialMedia": {
+    "instagram": "@santossaboa vista",
+    "facebook": "santossaboa vista"
+  },
+  "rating": 4.4,
+  "reviewCount": 125,
+  "ambience": [
+    "Familiar",
+    "Romântico"
+  ],
+  "features": [
+    "Bar",
+    "Estacionamento",
+    "Terraço"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1984,
+    "founder": "Vitória Souza",
+    "story": "Voluptatem doloremque sit animi numquam perspiciatis eligendi perspiciatis. Dicta impedit molestiae. Impedit nihil animi. Ut ipsum sapiente tempore sed."
+  },
+  "chef": {
+    "name": "Henrique Albuquerque",
+    "background": "Cupiditate aut fugiat similique et sed."
+  },
+  "keywords": [
+    "italiana",
+    "boa vista",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Shopping",
+    "Centro Comercial",
+    "Parque"
+  ],
+  "relatedQueries": [
+    "restaurante italiana tradicional",
+    "melhor restaurante italiana em porto alegre",
+    "italiana em boa vista"
+  ],
+  "images": [
+    {
+      "url": "/images/santos-s-a--boa vista/fachada.jpg",
+      "alt": "Fachada do Santos S.A. em Boa Vista",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/santos-s-a--boa vista/interior.jpg",
+      "alt": "Ambiente interno do Santos S.A.",
+      "type": "interior"
+    },
+    {
+      "url": "/images/santos-s-a--boa vista/prato.jpg",
+      "alt": "Prato especial do Santos S.A.",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Spaghetti alla Carbonara",
+      "preco": 58,
+      "descricao": "Massa fresca com molho cremoso de ovos, queijo pecorino e pancetta",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Risotto ai Funghi",
+      "preco": 65,
+      "descricao": "Arroz arbóreo com mix de cogumelos frescos e parmesão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Pizza Margherita",
+      "preco": 45,
+      "descricao": "Pizza tradicional com molho de tomate, mussarela e manjericão",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2018",
+    "Melhor Restaurante Italiana de Porto Alegre 2020"
+  ],
+  "events": [
+    "Happy Hour Especial",
+    "Noites de Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções Veganas"
+  ]
+}

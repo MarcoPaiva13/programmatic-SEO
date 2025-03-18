@@ -1,0 +1,149 @@
+{
+  "id": "costa-silva-petrópolis",
+  "name": "Costa - Silva",
+  "slug": "costa-silva-petrópolis",
+  "city": "Porto Alegre",
+  "neighborhood": "Petrópolis",
+  "state": "RS",
+  "address": {
+    "street": "Martins Marginal",
+    "number": "8478",
+    "zipCode": "46579-248",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Feijoada",
+    "Pão de Queijo",
+    "Acarajé"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": true,
+  "delivery": true,
+  "takeout": false,
+  "phone": "(26) 0484-4781",
+  "website": "https://www.costa-silva-petrópolis.com.br",
+  "socialMedia": {
+    "instagram": "@costasilvapetrópolis",
+    "facebook": "costasilvapetrópolis"
+  },
+  "rating": 4.4,
+  "reviewCount": 373,
+  "ambience": [
+    "Casual Elegante",
+    "Tradicional"
+  ],
+  "features": [
+    "Acessibilidade",
+    "Wi-Fi",
+    "Estacionamento"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1995,
+    "founder": "João Souza Filho",
+    "story": "Qui non fugit et sit eos nostrum voluptas est. Nesciunt consequatur neque architecto at est sint. Culpa modi delectus molestiae asperiores doloribus saepe."
+  },
+  "chef": {
+    "name": "Alícia Souza",
+    "background": "Occaecati sint dolores vero aliquam voluptatum ea itaque a est."
+  },
+  "keywords": [
+    "brasileira",
+    "petrópolis",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Museu",
+    "Shopping",
+    "Teatro"
+  ],
+  "relatedQueries": [
+    "melhor restaurante brasileira em porto alegre",
+    "restaurante brasileira tradicional",
+    "brasileira em petrópolis"
+  ],
+  "images": [
+    {
+      "url": "/images/costa-silva-petrópolis/fachada.jpg",
+      "alt": "Fachada do Costa - Silva em Petrópolis",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/costa-silva-petrópolis/interior.jpg",
+      "alt": "Ambiente interno do Costa - Silva",
+      "type": "interior"
+    },
+    {
+      "url": "/images/costa-silva-petrópolis/prato.jpg",
+      "alt": "Prato especial do Costa - Silva",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Brasileira de Porto Alegre 2021",
+    "Destaque Gastronômico - Revista Gourmet 2023"
+  ],
+  "events": [
+    "Noites de Degustação",
+    "Festival Gastronômico"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções sem Glúten"
+  ]
+}

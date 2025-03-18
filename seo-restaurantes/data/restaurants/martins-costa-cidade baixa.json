@@ -1,0 +1,149 @@
+{
+  "id": "martins-costa-cidade baixa",
+  "name": "Martins - Costa",
+  "slug": "martins-costa-cidade baixa",
+  "city": "Porto Alegre",
+  "neighborhood": "Cidade Baixa",
+  "state": "RS",
+  "address": {
+    "street": "Carvalho Rodovia",
+    "number": "4782",
+    "zipCode": "28711-095",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Moqueca",
+    "Churrasco",
+    "Acarajé"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": true,
+  "delivery": false,
+  "takeout": true,
+  "phone": "(38) 6626-4149",
+  "website": "https://www.martins-costa-cidade baixa.com.br",
+  "socialMedia": {
+    "instagram": "@martinscostacidade baixa",
+    "facebook": "martinscostacidade baixa"
+  },
+  "rating": 5,
+  "reviewCount": 362,
+  "ambience": [
+    "Tradicional",
+    "Casual Elegante"
+  ],
+  "features": [
+    "Wi-Fi",
+    "Ar Condicionado",
+    "Bar"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1993,
+    "founder": "Marcela Macedo",
+    "story": "Rerum distinctio temporibus tenetur quam et sit nihil totam. Ab deserunt eius modi voluptatem sint reprehenderit quasi. Ducimus iste cumque consequatur et."
+  },
+  "chef": {
+    "name": "Maria Júlia Martins",
+    "background": "Et inventore quibusdam et in ut consequatur ut eos enim."
+  },
+  "keywords": [
+    "brasileira",
+    "cidade baixa",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Teatro",
+    "Shopping",
+    "Parque"
+  ],
+  "relatedQueries": [
+    "melhor restaurante brasileira em porto alegre",
+    "restaurante brasileira tradicional",
+    "brasileira em cidade baixa"
+  ],
+  "images": [
+    {
+      "url": "/images/martins-costa-cidade baixa/fachada.jpg",
+      "alt": "Fachada do Martins - Costa em Cidade Baixa",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/martins-costa-cidade baixa/interior.jpg",
+      "alt": "Ambiente interno do Martins - Costa",
+      "type": "interior"
+    },
+    {
+      "url": "/images/martins-costa-cidade baixa/prato.jpg",
+      "alt": "Prato especial do Martins - Costa",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2022",
+    "Melhor Restaurante Brasileira de Porto Alegre 2021"
+  ],
+  "events": [
+    "Noites de Degustação",
+    "Happy Hour Especial"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções Vegetarianas"
+  ]
+}

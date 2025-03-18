@@ -1,0 +1,149 @@
+{
+  "id": "silva-e-associados-barra da tijuca",
+  "name": "Silva e Associados",
+  "slug": "silva-e-associados-barra da tijuca",
+  "city": "Rio de Janeiro",
+  "neighborhood": "Barra da Tijuca",
+  "state": "RJ",
+  "address": {
+    "street": "Samuel Travessa",
+    "number": "8625",
+    "zipCode": "90878-743",
+    "coordinates": {
+      "latitude": -22.907,
+      "longitude": -43.173
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Tempura",
+    "Yakisoba",
+    "Sushi"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": false,
+  "phone": "(00) 0872-4158",
+  "website": "https://www.silva-e-associados-barra da tijuca.com.br",
+  "socialMedia": {
+    "instagram": "@silvaeassociadosbarra da tijuca",
+    "facebook": "silvaeassociadosbarra da tijuca"
+  },
+  "rating": 4.1,
+  "reviewCount": 313,
+  "ambience": [
+    "Romântico",
+    "Moderno"
+  ],
+  "features": [
+    "Bar",
+    "Ar Condicionado",
+    "Acessibilidade"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2018,
+    "founder": "Valentina Franco Filho",
+    "story": "Autem quis illum sed beatae voluptatem recusandae. Ratione corrupti saepe sed tempora minus eaque neque ut quia. Optio quia hic. Doloribus accusantium nihil voluptas. Fugiat quaerat provident aspernatur dolores rerum eaque quis suscipit distinctio."
+  },
+  "chef": {
+    "name": "Maria Júlia Albuquerque",
+    "background": "Quasi et blanditiis eius ullam nihil est."
+  },
+  "keywords": [
+    "japonesa",
+    "barra da tijuca",
+    "rio de janeiro"
+  ],
+  "nearbyAttractions": [
+    "Museu",
+    "Parque",
+    "Shopping"
+  ],
+  "relatedQueries": [
+    "restaurante japonesa tradicional",
+    "japonesa em barra da tijuca",
+    "melhor restaurante japonesa em rio de janeiro"
+  ],
+  "images": [
+    {
+      "url": "/images/silva-e-associados-barra da tijuca/fachada.jpg",
+      "alt": "Fachada do Silva e Associados em Barra da Tijuca",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/silva-e-associados-barra da tijuca/interior.jpg",
+      "alt": "Ambiente interno do Silva e Associados",
+      "type": "interior"
+    },
+    {
+      "url": "/images/silva-e-associados-barra da tijuca/prato.jpg",
+      "alt": "Prato especial do Silva e Associados",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2022",
+    "Melhor Restaurante Japonesa de Rio de Janeiro 2021"
+  ],
+  "events": [
+    "Menu Degustação",
+    "Festival Gastronômico"
+  ],
+  "dietaryOptions": [
+    "Opções sem Glúten",
+    "Opções Veganas"
+  ]
+}

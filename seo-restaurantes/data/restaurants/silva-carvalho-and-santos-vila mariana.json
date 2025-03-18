@@ -1,0 +1,149 @@
+{
+  "id": "silva-carvalho-and-santos-vila mariana",
+  "name": "Silva, Carvalho and Santos",
+  "slug": "silva-carvalho-and-santos-vila mariana",
+  "city": "São Paulo",
+  "neighborhood": "Vila Mariana",
+  "state": "SP",
+  "address": {
+    "street": "Pereira Travessa",
+    "number": "9400",
+    "zipCode": "64394-993",
+    "coordinates": {
+      "latitude": -23.554,
+      "longitude": -46.645
+    }
+  },
+  "cuisine": [
+    "Italiana"
+  ],
+  "specialties": [
+    "Tiramisu",
+    "Risotto",
+    "Pizza"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": false,
+  "phone": "(67) 1734-8227",
+  "website": "https://www.silva-carvalho-and-santos-vila mariana.com.br",
+  "socialMedia": {
+    "instagram": "@silvacarvalhoandsantosvila mariana",
+    "facebook": "silvacarvalhoandsantosvila mariana"
+  },
+  "rating": 4.1,
+  "reviewCount": 296,
+  "ambience": [
+    "Casual Elegante",
+    "Romântico"
+  ],
+  "features": [
+    "Acessibilidade",
+    "Wi-Fi",
+    "Terraço"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2011,
+    "founder": "Rafaela Carvalho",
+    "story": "Officiis qui sit. Ea quam culpa voluptas error ratione non quo perspiciatis accusamus. Debitis sit ut non voluptatem laboriosam pariatur vel et. Eos eum tempora hic accusantium dicta cupiditate quasi vel suscipit."
+  },
+  "chef": {
+    "name": "Joaquim Carvalho",
+    "background": "Molestiae porro voluptatem eum vel et delectus."
+  },
+  "keywords": [
+    "italiana",
+    "vila mariana",
+    "são paulo"
+  ],
+  "nearbyAttractions": [
+    "Museu",
+    "Teatro",
+    "Centro Comercial"
+  ],
+  "relatedQueries": [
+    "italiana em vila mariana",
+    "melhor restaurante italiana em são paulo",
+    "restaurante italiana tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/silva-carvalho-and-santos-vila mariana/fachada.jpg",
+      "alt": "Fachada do Silva, Carvalho and Santos em Vila Mariana",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/silva-carvalho-and-santos-vila mariana/interior.jpg",
+      "alt": "Ambiente interno do Silva, Carvalho and Santos",
+      "type": "interior"
+    },
+    {
+      "url": "/images/silva-carvalho-and-santos-vila mariana/prato.jpg",
+      "alt": "Prato especial do Silva, Carvalho and Santos",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Spaghetti alla Carbonara",
+      "preco": 58,
+      "descricao": "Massa fresca com molho cremoso de ovos, queijo pecorino e pancetta",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Risotto ai Funghi",
+      "preco": 65,
+      "descricao": "Arroz arbóreo com mix de cogumelos frescos e parmesão",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Pizza Margherita",
+      "preco": 45,
+      "descricao": "Pizza tradicional com molho de tomate, mussarela e manjericão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Italiana de São Paulo 2018",
+    "Destaque Gastronômico - Revista Gourmet 2019"
+  ],
+  "events": [
+    "Festival Gastronômico",
+    "Noites de Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções Vegetarianas"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "costa-silva-and-saraiva-batel",
+  "name": "Costa, Silva and Saraiva",
+  "slug": "costa-silva-and-saraiva-batel",
+  "city": "Curitiba",
+  "neighborhood": "Batel",
+  "state": "PR",
+  "address": {
+    "street": "Pablo Rua",
+    "number": "1337",
+    "zipCode": "89419-532",
+    "coordinates": {
+      "latitude": -25.429,
+      "longitude": -49.274
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Tempura",
+    "Sashimi",
+    "Temaki"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(03) 0294-0150",
+  "website": "https://www.costa-silva-and-saraiva-batel.com.br",
+  "socialMedia": {
+    "instagram": "@costasilvaandsaraivabatel",
+    "facebook": "costasilvaandsaraivabatel"
+  },
+  "rating": 3.8,
+  "reviewCount": 181,
+  "ambience": [
+    "Familiar",
+    "Tradicional"
+  ],
+  "features": [
+    "Wi-Fi",
+    "Ar Condicionado",
+    "Bar"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1980,
+    "founder": "Fabiano Franco",
+    "story": "Corporis odio ea est excepturi omnis assumenda rerum. Debitis ratione enim est. Deserunt culpa ab et ut ex qui ab dignissimos dolor. Aut ut nobis. Hic debitis sint et sapiente accusamus."
+  },
+  "chef": {
+    "name": "Suélen Franco",
+    "background": "Nostrum exercitationem et eaque voluptates nobis voluptatem molestias temporibus."
+  },
+  "keywords": [
+    "japonesa",
+    "batel",
+    "curitiba"
+  ],
+  "nearbyAttractions": [
+    "Museu",
+    "Parque",
+    "Centro Comercial"
+  ],
+  "relatedQueries": [
+    "melhor restaurante japonesa em curitiba",
+    "japonesa em batel",
+    "restaurante japonesa tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/costa-silva-and-saraiva-batel/fachada.jpg",
+      "alt": "Fachada do Costa, Silva and Saraiva em Batel",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/costa-silva-and-saraiva-batel/interior.jpg",
+      "alt": "Ambiente interno do Costa, Silva and Saraiva",
+      "type": "interior"
+    },
+    {
+      "url": "/images/costa-silva-and-saraiva-batel/prato.jpg",
+      "alt": "Prato especial do Costa, Silva and Saraiva",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2018",
+    "Melhor Restaurante Japonesa de Curitiba 2020"
+  ],
+  "events": [
+    "Menu Degustação",
+    "Noites de Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções Veganas"
+  ]
+}

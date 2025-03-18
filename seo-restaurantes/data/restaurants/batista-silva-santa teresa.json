@@ -1,0 +1,149 @@
+{
+  "id": "batista-silva-santa teresa",
+  "name": "Batista - Silva",
+  "slug": "batista-silva-santa teresa",
+  "city": "Rio de Janeiro",
+  "neighborhood": "Santa Teresa",
+  "state": "RJ",
+  "address": {
+    "street": "Melo Rodovia",
+    "number": "3938",
+    "zipCode": "59663-611",
+    "coordinates": {
+      "latitude": -22.907,
+      "longitude": -43.173
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Sashimi",
+    "Sushi",
+    "Yakisoba"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": false,
+  "phone": "(76) 8456-8481",
+  "website": "https://www.batista-silva-santa teresa.com.br",
+  "socialMedia": {
+    "instagram": "@batistasilvasanta teresa",
+    "facebook": "batistasilvasanta teresa"
+  },
+  "rating": 4.7,
+  "reviewCount": 394,
+  "ambience": [
+    "Tradicional",
+    "Familiar"
+  ],
+  "features": [
+    "Estacionamento",
+    "Bar",
+    "Wi-Fi"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1999,
+    "founder": "Mércia Xavier",
+    "story": "Quibusdam sit nisi quod quam inventore labore aut. Aut deserunt suscipit quis reprehenderit sed rerum et molestiae. Ut velit quo modi voluptate ut est ut qui. Temporibus unde unde nemo neque expedita ad."
+  },
+  "chef": {
+    "name": "Cecília Xavier",
+    "background": "Ex modi ipsa atque."
+  },
+  "keywords": [
+    "japonesa",
+    "santa teresa",
+    "rio de janeiro"
+  ],
+  "nearbyAttractions": [
+    "Shopping",
+    "Centro Comercial",
+    "Teatro"
+  ],
+  "relatedQueries": [
+    "melhor restaurante japonesa em rio de janeiro",
+    "japonesa em santa teresa",
+    "restaurante japonesa tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/batista-silva-santa teresa/fachada.jpg",
+      "alt": "Fachada do Batista - Silva em Santa Teresa",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/batista-silva-santa teresa/interior.jpg",
+      "alt": "Ambiente interno do Batista - Silva",
+      "type": "interior"
+    },
+    {
+      "url": "/images/batista-silva-santa teresa/prato.jpg",
+      "alt": "Prato especial do Batista - Silva",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2021",
+    "Melhor Restaurante Japonesa de Rio de Janeiro 2018"
+  ],
+  "events": [
+    "Festival Gastronômico",
+    "Menu Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções Veganas"
+  ]
+}

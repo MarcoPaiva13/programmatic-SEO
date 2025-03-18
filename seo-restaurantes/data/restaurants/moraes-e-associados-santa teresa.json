@@ -1,0 +1,149 @@
+{
+  "id": "moraes-e-associados-santa teresa",
+  "name": "Moraes e Associados",
+  "slug": "moraes-e-associados-santa teresa",
+  "city": "Rio de Janeiro",
+  "neighborhood": "Santa Teresa",
+  "state": "RJ",
+  "address": {
+    "street": "Moraes Avenida",
+    "number": "3230",
+    "zipCode": "30120-109",
+    "coordinates": {
+      "latitude": -22.907,
+      "longitude": -43.173
+    }
+  },
+  "cuisine": [
+    "Italiana"
+  ],
+  "specialties": [
+    "Pasta",
+    "Ravioli",
+    "Risotto"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(93) 2817-7476",
+  "website": "https://www.moraes-e-associados-santa teresa.com.br",
+  "socialMedia": {
+    "instagram": "@moraeseassociadossanta teresa",
+    "facebook": "moraeseassociadossanta teresa"
+  },
+  "rating": 4.6,
+  "reviewCount": 92,
+  "ambience": [
+    "Casual Elegante",
+    "Familiar"
+  ],
+  "features": [
+    "Acessibilidade",
+    "Bar",
+    "Wi-Fi"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1989,
+    "founder": "Alexandre Santos",
+    "story": "Perspiciatis cumque ex placeat fuga ad magnam. Ut at ut delectus doloribus error non omnis odit ullam. Alias at repellat. Eaque amet cupiditate deserunt architecto eos corrupti alias ipsum. Quod aut et dolores recusandae aliquam quaerat."
+  },
+  "chef": {
+    "name": "Marcos Santos",
+    "background": "Aut vero alias et et."
+  },
+  "keywords": [
+    "italiana",
+    "santa teresa",
+    "rio de janeiro"
+  ],
+  "nearbyAttractions": [
+    "Parque",
+    "Museu",
+    "Shopping"
+  ],
+  "relatedQueries": [
+    "italiana em santa teresa",
+    "restaurante italiana tradicional",
+    "melhor restaurante italiana em rio de janeiro"
+  ],
+  "images": [
+    {
+      "url": "/images/moraes-e-associados-santa teresa/fachada.jpg",
+      "alt": "Fachada do Moraes e Associados em Santa Teresa",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/moraes-e-associados-santa teresa/interior.jpg",
+      "alt": "Ambiente interno do Moraes e Associados",
+      "type": "interior"
+    },
+    {
+      "url": "/images/moraes-e-associados-santa teresa/prato.jpg",
+      "alt": "Prato especial do Moraes e Associados",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Spaghetti alla Carbonara",
+      "preco": 58,
+      "descricao": "Massa fresca com molho cremoso de ovos, queijo pecorino e pancetta",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Risotto ai Funghi",
+      "preco": 65,
+      "descricao": "Arroz arbóreo com mix de cogumelos frescos e parmesão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Pizza Margherita",
+      "preco": 45,
+      "descricao": "Pizza tradicional com molho de tomate, mussarela e manjericão",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Italiana de Rio de Janeiro 2021",
+    "Destaque Gastronômico - Revista Gourmet 2023"
+  ],
+  "events": [
+    "Festival Gastronômico",
+    "Happy Hour Especial"
+  ],
+  "dietaryOptions": [
+    "Opções sem Glúten",
+    "Opções Vegetarianas"
+  ]
+}

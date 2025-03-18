@@ -1,0 +1,96 @@
+/* AdvancedSearchBar.module.css */
+.searchBar {
+  display: flex;
+  width: 100%;
+  position: relative;
+  max-width: 800px;
+  margin-right: 15px;
+}
+
+.searchInput {
+  flex: 1;
+  padding: 12px 40px 12px 15px;
+  border: 2px solid #eaeaea;
+  border-radius: 8px 0 0 8px;
+  font-size: 1rem;
+  outline: none;
+  transition: border-color 0.3s;
+}
+
+.searchInput:focus {
+  border-color: #2563eb;
+}
+
+.searchButton {
+  padding: 0 20px;
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 0 8px 8px 0;
+  font-size: 0.95rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.searchButton:hover {
+  background-color: #1d4ed8;
+}
+
+.searchButton:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.4);
+}
+
+.clearButton {
+  position: absolute;
+  right: 70px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  color: #777;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  padding: 0;
+  line-height: 1;
+}
+
+.clearButton:hover {
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .searchBar {
+    max-width: 100%;
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .searchInput {
+    padding: 10px 35px 10px 12px;
+    font-size: 0.9rem;
+  }
+  
+  .searchButton {
+    padding: 0 15px;
+    font-size: 0.85rem;
+  }
+  
+  .clearButton {
+    right: 60px;
+    width: 20px;
+    height: 20px;
+    font-size: 1.2rem;
+  }
+} 

@@ -1,0 +1,123 @@
+/* RestaurantGallery.module.css */
+.gallery {
+  display: grid;
+  gap: 10px;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+/* Layouts de grade com base no número de imagens */
+.gridSingle {
+  grid-template-columns: 1fr;
+}
+
+.gridTwo {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.gridThree {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.gridFour {
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+}
+
+.gridMany {
+  grid-template-columns: 2fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  grid-template-areas: 
+    "main side1 side2"
+    "main side3 side4";
+}
+
+.gridMany .imageContainer:first-child {
+  grid-area: main;
+}
+
+.imageContainer {
+  position: relative;
+  cursor: pointer;
+  overflow: hidden;
+  border-radius: 8px;
+  transition: transform 0.2s ease;
+  background-color: #f0f0f0;
+}
+
+.imageContainer:hover {
+  transform: scale(1.01);
+}
+
+.imageType {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  font-size: 0.75rem;
+  padding: 3px 8px;
+  border-radius: 4px;
+  text-transform: capitalize;
+  z-index: 2;
+}
+
+.moreImages {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  z-index: 2;
+}
+
+.noImages {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f0f0f0;
+  border-radius: 8px;
+  color: #666;
+  font-style: italic;
+}
+
+.hasError {
+  border: 1px solid rgba(220, 53, 69, 0.3);
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .gallery {
+    gap: 6px;
+  }
+  
+  .gridMany, .gridFour, .gridThree {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    grid-template-areas: initial;
+  }
+  
+  .imageType {
+    font-size: 0.7rem;
+    padding: 2px 6px;
+  }
+  
+  .moreImages {
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .gridTwo {
+    grid-template-columns: 1fr;
+  }
+} 

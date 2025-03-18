@@ -1,0 +1,149 @@
+{
+  "id": "carvalho-santos-and-macedo-perdizes",
+  "name": "Carvalho, Santos and Macedo",
+  "slug": "carvalho-santos-and-macedo-perdizes",
+  "city": "São Paulo",
+  "neighborhood": "Perdizes",
+  "state": "SP",
+  "address": {
+    "street": "Silva Marginal",
+    "number": "256",
+    "zipCode": "23129-789",
+    "coordinates": {
+      "latitude": -23.561,
+      "longitude": -46.657
+    }
+  },
+  "cuisine": [
+    "Italiana"
+  ],
+  "specialties": [
+    "Ravioli",
+    "Risotto",
+    "Pizza"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": true,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(85) 5126-0966",
+  "website": "https://www.carvalho-santos-and-macedo-perdizes.com.br",
+  "socialMedia": {
+    "instagram": "@carvalhosantosandmacedoperdizes",
+    "facebook": "carvalhosantosandmacedoperdizes"
+  },
+  "rating": 3.7,
+  "reviewCount": 244,
+  "ambience": [
+    "Moderno",
+    "Familiar"
+  ],
+  "features": [
+    "Estacionamento",
+    "Acessibilidade",
+    "Wi-Fi"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2001,
+    "founder": "Elisa Barros Jr.",
+    "story": "Reiciendis nihil vel inventore ut rerum rem. Qui odio at et veritatis fugiat facilis. Sequi aut sit odit suscipit ea aut nesciunt. Consequuntur excepturi et autem neque asperiores magnam est voluptatem omnis."
+  },
+  "chef": {
+    "name": "Benício Franco",
+    "background": "Et repellendus praesentium modi."
+  },
+  "keywords": [
+    "italiana",
+    "perdizes",
+    "são paulo"
+  ],
+  "nearbyAttractions": [
+    "Shopping",
+    "Teatro",
+    "Centro Comercial"
+  ],
+  "relatedQueries": [
+    "restaurante italiana tradicional",
+    "melhor restaurante italiana em são paulo",
+    "italiana em perdizes"
+  ],
+  "images": [
+    {
+      "url": "/images/carvalho-santos-and-macedo-perdizes/fachada.jpg",
+      "alt": "Fachada do Carvalho, Santos and Macedo em Perdizes",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/carvalho-santos-and-macedo-perdizes/interior.jpg",
+      "alt": "Ambiente interno do Carvalho, Santos and Macedo",
+      "type": "interior"
+    },
+    {
+      "url": "/images/carvalho-santos-and-macedo-perdizes/prato.jpg",
+      "alt": "Prato especial do Carvalho, Santos and Macedo",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Spaghetti alla Carbonara",
+      "preco": 58,
+      "descricao": "Massa fresca com molho cremoso de ovos, queijo pecorino e pancetta",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Risotto ai Funghi",
+      "preco": 65,
+      "descricao": "Arroz arbóreo com mix de cogumelos frescos e parmesão",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Pizza Margherita",
+      "preco": 45,
+      "descricao": "Pizza tradicional com molho de tomate, mussarela e manjericão",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Italiana de São Paulo 2018",
+    "Destaque Gastronômico - Revista Gourmet 2019"
+  ],
+  "events": [
+    "Happy Hour Especial",
+    "Menu Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções Vegetarianas"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "barros-com-rcio-bela vista",
+  "name": "Barros Comércio",
+  "slug": "barros-com-rcio-bela vista",
+  "city": "Porto Alegre",
+  "neighborhood": "Bela Vista",
+  "state": "RS",
+  "address": {
+    "street": "Maria Helena Avenida",
+    "number": "3241",
+    "zipCode": "29550-861",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Italiana"
+  ],
+  "specialties": [
+    "Pizza",
+    "Tiramisu",
+    "Pasta"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": false,
+  "delivery": false,
+  "takeout": true,
+  "phone": "(08) 0656-4452",
+  "website": "https://www.barros-com-rcio-bela vista.com.br",
+  "socialMedia": {
+    "instagram": "@barroscomrciobela vista",
+    "facebook": "barroscomrciobela vista"
+  },
+  "rating": 4.2,
+  "reviewCount": 244,
+  "ambience": [
+    "Familiar",
+    "Moderno"
+  ],
+  "features": [
+    "Acessibilidade",
+    "Estacionamento",
+    "Bar"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2004,
+    "founder": "Janaína Franco",
+    "story": "Porro voluptate quo facere quod et laboriosam adipisci enim. Inventore qui quasi delectus. Ut aperiam suscipit unde veritatis cum. Dolorum omnis et quos aut rerum. Voluptas vero molestiae consequuntur eos quisquam."
+  },
+  "chef": {
+    "name": "Sra. Margarida Batista",
+    "background": "Nesciunt id rerum eos omnis nihil aspernatur voluptatem reiciendis."
+  },
+  "keywords": [
+    "italiana",
+    "bela vista",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Museu",
+    "Parque",
+    "Teatro"
+  ],
+  "relatedQueries": [
+    "melhor restaurante italiana em porto alegre",
+    "restaurante italiana tradicional",
+    "italiana em bela vista"
+  ],
+  "images": [
+    {
+      "url": "/images/barros-com-rcio-bela vista/fachada.jpg",
+      "alt": "Fachada do Barros Comércio em Bela Vista",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/barros-com-rcio-bela vista/interior.jpg",
+      "alt": "Ambiente interno do Barros Comércio",
+      "type": "interior"
+    },
+    {
+      "url": "/images/barros-com-rcio-bela vista/prato.jpg",
+      "alt": "Prato especial do Barros Comércio",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Spaghetti alla Carbonara",
+      "preco": 58,
+      "descricao": "Massa fresca com molho cremoso de ovos, queijo pecorino e pancetta",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Risotto ai Funghi",
+      "preco": 65,
+      "descricao": "Arroz arbóreo com mix de cogumelos frescos e parmesão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Pizza Margherita",
+      "preco": 45,
+      "descricao": "Pizza tradicional com molho de tomate, mussarela e manjericão",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Italiana de Porto Alegre 2022",
+    "Destaque Gastronômico - Revista Gourmet 2019"
+  ],
+  "events": [
+    "Festival Gastronômico",
+    "Happy Hour Especial"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções sem Glúten"
+  ]
+}

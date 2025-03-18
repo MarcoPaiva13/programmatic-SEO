@@ -1,0 +1,149 @@
+{
+  "id": "moreira-s-a--boa vista",
+  "name": "Moreira S.A.",
+  "slug": "moreira-s-a--boa vista",
+  "city": "Curitiba",
+  "neighborhood": "Boa Vista",
+  "state": "PR",
+  "address": {
+    "street": "Alexandre Alameda",
+    "number": "1528",
+    "zipCode": "90882-319",
+    "coordinates": {
+      "latitude": -25.429,
+      "longitude": -49.274
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Sashimi",
+    "Sushi",
+    "Temaki"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(86) 1190-4043",
+  "website": "https://www.moreira-s-a--boa vista.com.br",
+  "socialMedia": {
+    "instagram": "@moreirasaboa vista",
+    "facebook": "moreirasaboa vista"
+  },
+  "rating": 3.7,
+  "reviewCount": 423,
+  "ambience": [
+    "Romântico",
+    "Casual Elegante"
+  ],
+  "features": [
+    "Acessibilidade",
+    "Terraço",
+    "Ar Condicionado"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2005,
+    "founder": "João Pedro Nogueira",
+    "story": "Unde odit velit voluptatibus quas fuga. Iusto in et est consectetur totam rem aspernatur. Repellendus sint asperiores eligendi reiciendis fugiat expedita provident. Blanditiis possimus consectetur reprehenderit qui officiis aut pariatur quibusdam quae."
+  },
+  "chef": {
+    "name": "Danilo Oliveira",
+    "background": "Pariatur ipsa in sed mollitia recusandae."
+  },
+  "keywords": [
+    "japonesa",
+    "boa vista",
+    "curitiba"
+  ],
+  "nearbyAttractions": [
+    "Centro Comercial",
+    "Teatro",
+    "Shopping"
+  ],
+  "relatedQueries": [
+    "restaurante japonesa tradicional",
+    "melhor restaurante japonesa em curitiba",
+    "japonesa em boa vista"
+  ],
+  "images": [
+    {
+      "url": "/images/moreira-s-a--boa vista/fachada.jpg",
+      "alt": "Fachada do Moreira S.A. em Boa Vista",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/moreira-s-a--boa vista/interior.jpg",
+      "alt": "Ambiente interno do Moreira S.A.",
+      "type": "interior"
+    },
+    {
+      "url": "/images/moreira-s-a--boa vista/prato.jpg",
+      "alt": "Prato especial do Moreira S.A.",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Japonesa de Curitiba 2021",
+    "Destaque Gastronômico - Revista Gourmet 2022"
+  ],
+  "events": [
+    "Noites de Degustação",
+    "Festival Gastronômico"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções sem Glúten"
+  ]
+}

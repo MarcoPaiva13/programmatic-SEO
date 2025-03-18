@@ -1,0 +1,149 @@
+{
+  "id": "silva-eireli-centro",
+  "name": "Silva EIRELI",
+  "slug": "silva-eireli-centro",
+  "city": "Porto Alegre",
+  "neighborhood": "Centro",
+  "state": "RS",
+  "address": {
+    "street": "Macedo Rua",
+    "number": "1799",
+    "zipCode": "43273-564",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Italiana"
+  ],
+  "specialties": [
+    "Pizza",
+    "Tiramisu",
+    "Ravioli"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": false,
+  "phone": "(04) 4209-1724",
+  "website": "https://www.silva-eireli-centro.com.br",
+  "socialMedia": {
+    "instagram": "@silvaeirelicentro",
+    "facebook": "silvaeirelicentro"
+  },
+  "rating": 4.9,
+  "reviewCount": 472,
+  "ambience": [
+    "Romântico",
+    "Casual Elegante"
+  ],
+  "features": [
+    "Ar Condicionado",
+    "Bar",
+    "Estacionamento"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2019,
+    "founder": "Srta. Anthony Barros",
+    "story": "Aut iste perferendis veniam ad. Ex sint repudiandae harum commodi voluptas illo et quos. Ut cupiditate fugiat molestiae repellendus id aliquam officia dolore. Quaerat et saepe laboriosam eligendi occaecati dolorum."
+  },
+  "chef": {
+    "name": "Karla Costa Filho",
+    "background": "Nihil animi facilis quasi sed."
+  },
+  "keywords": [
+    "italiana",
+    "centro",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Parque",
+    "Museu",
+    "Centro Comercial"
+  ],
+  "relatedQueries": [
+    "restaurante italiana tradicional",
+    "melhor restaurante italiana em porto alegre",
+    "italiana em centro"
+  ],
+  "images": [
+    {
+      "url": "/images/silva-eireli-centro/fachada.jpg",
+      "alt": "Fachada do Silva EIRELI em Centro",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/silva-eireli-centro/interior.jpg",
+      "alt": "Ambiente interno do Silva EIRELI",
+      "type": "interior"
+    },
+    {
+      "url": "/images/silva-eireli-centro/prato.jpg",
+      "alt": "Prato especial do Silva EIRELI",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Spaghetti alla Carbonara",
+      "preco": 58,
+      "descricao": "Massa fresca com molho cremoso de ovos, queijo pecorino e pancetta",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Risotto ai Funghi",
+      "preco": 65,
+      "descricao": "Arroz arbóreo com mix de cogumelos frescos e parmesão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Pizza Margherita",
+      "preco": 45,
+      "descricao": "Pizza tradicional com molho de tomate, mussarela e manjericão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2018",
+    "Melhor Restaurante Italiana de Porto Alegre 2021"
+  ],
+  "events": [
+    "Noites de Degustação",
+    "Happy Hour Especial"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções Vegetarianas"
+  ]
+}

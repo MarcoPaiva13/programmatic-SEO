@@ -1,0 +1,149 @@
+{
+  "id": "silva-silva-lourdes",
+  "name": "Silva - Silva",
+  "slug": "silva-silva-lourdes",
+  "city": "Belo Horizonte",
+  "neighborhood": "Lourdes",
+  "state": "MG",
+  "address": {
+    "street": "Eduardo Travessa",
+    "number": "347",
+    "zipCode": "37202-520",
+    "coordinates": {
+      "latitude": -19.917,
+      "longitude": -43.935
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Yakisoba",
+    "Sushi",
+    "Tempura"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": false,
+  "delivery": false,
+  "takeout": true,
+  "phone": "(07) 3612-2495",
+  "website": "https://www.silva-silva-lourdes.com.br",
+  "socialMedia": {
+    "instagram": "@silvasilvalourdes",
+    "facebook": "silvasilvalourdes"
+  },
+  "rating": 4.6,
+  "reviewCount": 414,
+  "ambience": [
+    "Casual Elegante",
+    "Romântico"
+  ],
+  "features": [
+    "Wi-Fi",
+    "Estacionamento",
+    "Acessibilidade"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2014,
+    "founder": "Marcela Barros",
+    "story": "Quaerat dolores eveniet itaque laudantium omnis eos nostrum quis et. Quam iste labore velit cumque nostrum. Ex quam quas occaecati cum aliquid velit blanditiis. Animi laborum autem nostrum cupiditate ut. Omnis autem enim optio ullam. Omnis ipsa minima et beatae."
+  },
+  "chef": {
+    "name": "Ígor Souza Neto",
+    "background": "Odit iure ea nostrum ut."
+  },
+  "keywords": [
+    "japonesa",
+    "lourdes",
+    "belo horizonte"
+  ],
+  "nearbyAttractions": [
+    "Teatro",
+    "Shopping",
+    "Centro Comercial"
+  ],
+  "relatedQueries": [
+    "melhor restaurante japonesa em belo horizonte",
+    "restaurante japonesa tradicional",
+    "japonesa em lourdes"
+  ],
+  "images": [
+    {
+      "url": "/images/silva-silva-lourdes/fachada.jpg",
+      "alt": "Fachada do Silva - Silva em Lourdes",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/silva-silva-lourdes/interior.jpg",
+      "alt": "Ambiente interno do Silva - Silva",
+      "type": "interior"
+    },
+    {
+      "url": "/images/silva-silva-lourdes/prato.jpg",
+      "alt": "Prato especial do Silva - Silva",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2021",
+    "Melhor Restaurante Japonesa de Belo Horizonte 2022"
+  ],
+  "events": [
+    "Festival Gastronômico",
+    "Happy Hour Especial"
+  ],
+  "dietaryOptions": [
+    "Opções sem Glúten",
+    "Opções Vegetarianas"
+  ]
+}

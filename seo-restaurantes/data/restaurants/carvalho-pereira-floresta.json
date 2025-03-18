@@ -1,0 +1,149 @@
+{
+  "id": "carvalho-pereira-floresta",
+  "name": "Carvalho - Pereira",
+  "slug": "carvalho-pereira-floresta",
+  "city": "Porto Alegre",
+  "neighborhood": "Floresta",
+  "state": "RS",
+  "address": {
+    "street": "Nogueira Travessa",
+    "number": "3537",
+    "zipCode": "31187-971",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Pão de Queijo",
+    "Moqueca",
+    "Churrasco"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(05) 7289-9610",
+  "website": "https://www.carvalho-pereira-floresta.com.br",
+  "socialMedia": {
+    "instagram": "@carvalhopereirafloresta",
+    "facebook": "carvalhopereirafloresta"
+  },
+  "rating": 4.6,
+  "reviewCount": 454,
+  "ambience": [
+    "Romântico",
+    "Tradicional"
+  ],
+  "features": [
+    "Ar Condicionado",
+    "Estacionamento",
+    "Bar"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1980,
+    "founder": "Noah Macedo",
+    "story": "Cupiditate repellat officia et et maiores. Repellendus dolorum omnis eius quae reprehenderit consequuntur doloremque. Molestiae voluptas omnis voluptate nemo. Et et commodi quia veritatis. Et hic atque optio atque non dolorem ipsa. Maxime aut a quam sunt."
+  },
+  "chef": {
+    "name": "Marcela Pereira",
+    "background": "At ratione enim ea."
+  },
+  "keywords": [
+    "brasileira",
+    "floresta",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Parque",
+    "Shopping",
+    "Teatro"
+  ],
+  "relatedQueries": [
+    "melhor restaurante brasileira em porto alegre",
+    "brasileira em floresta",
+    "restaurante brasileira tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/carvalho-pereira-floresta/fachada.jpg",
+      "alt": "Fachada do Carvalho - Pereira em Floresta",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/carvalho-pereira-floresta/interior.jpg",
+      "alt": "Ambiente interno do Carvalho - Pereira",
+      "type": "interior"
+    },
+    {
+      "url": "/images/carvalho-pereira-floresta/prato.jpg",
+      "alt": "Prato especial do Carvalho - Pereira",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2021",
+    "Melhor Restaurante Brasileira de Porto Alegre 2020"
+  ],
+  "events": [
+    "Menu Degustação",
+    "Happy Hour Especial"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções sem Glúten"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "nogueira-silva-cristo rei",
+  "name": "Nogueira - Silva",
+  "slug": "nogueira-silva-cristo rei",
+  "city": "Curitiba",
+  "neighborhood": "Cristo Rei",
+  "state": "PR",
+  "address": {
+    "street": "Souza Rua",
+    "number": "4491",
+    "zipCode": "57039-063",
+    "coordinates": {
+      "latitude": -25.429,
+      "longitude": -49.274
+    }
+  },
+  "cuisine": [
+    "Italiana"
+  ],
+  "specialties": [
+    "Pizza",
+    "Ravioli",
+    "Tiramisu"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": false,
+  "delivery": false,
+  "takeout": false,
+  "phone": "(85) 8990-0573",
+  "website": "https://www.nogueira-silva-cristo rei.com.br",
+  "socialMedia": {
+    "instagram": "@nogueirasilvacristo rei",
+    "facebook": "nogueirasilvacristo rei"
+  },
+  "rating": 4.7,
+  "reviewCount": 199,
+  "ambience": [
+    "Tradicional",
+    "Moderno"
+  ],
+  "features": [
+    "Ar Condicionado",
+    "Bar",
+    "Wi-Fi"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2006,
+    "founder": "Eloá Batista",
+    "story": "Aut ad sapiente dolore molestias blanditiis earum non est est. Reprehenderit ducimus quis omnis fuga mollitia exercitationem est consectetur cupiditate. Explicabo consectetur consequatur. Alias non totam iure quidem qui mollitia ex. Est sed et minus. Nisi necessitatibus nihil dolore consequatur nam eos."
+  },
+  "chef": {
+    "name": "César Moraes",
+    "background": "Qui quos accusamus est quas."
+  },
+  "keywords": [
+    "italiana",
+    "cristo rei",
+    "curitiba"
+  ],
+  "nearbyAttractions": [
+    "Shopping",
+    "Museu",
+    "Teatro"
+  ],
+  "relatedQueries": [
+    "melhor restaurante italiana em curitiba",
+    "italiana em cristo rei",
+    "restaurante italiana tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/nogueira-silva-cristo rei/fachada.jpg",
+      "alt": "Fachada do Nogueira - Silva em Cristo Rei",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/nogueira-silva-cristo rei/interior.jpg",
+      "alt": "Ambiente interno do Nogueira - Silva",
+      "type": "interior"
+    },
+    {
+      "url": "/images/nogueira-silva-cristo rei/prato.jpg",
+      "alt": "Prato especial do Nogueira - Silva",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Spaghetti alla Carbonara",
+      "preco": 58,
+      "descricao": "Massa fresca com molho cremoso de ovos, queijo pecorino e pancetta",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Risotto ai Funghi",
+      "preco": 65,
+      "descricao": "Arroz arbóreo com mix de cogumelos frescos e parmesão",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Pizza Margherita",
+      "preco": 45,
+      "descricao": "Pizza tradicional com molho de tomate, mussarela e manjericão",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Italiana de Curitiba 2022",
+    "Destaque Gastronômico - Revista Gourmet 2023"
+  ],
+  "events": [
+    "Happy Hour Especial",
+    "Festival Gastronômico"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções sem Glúten"
+  ]
+}

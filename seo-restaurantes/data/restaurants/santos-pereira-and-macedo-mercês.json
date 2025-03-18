@@ -1,0 +1,149 @@
+{
+  "id": "santos-pereira-and-macedo-mercês",
+  "name": "Santos, Pereira and Macedo",
+  "slug": "santos-pereira-and-macedo-mercês",
+  "city": "Curitiba",
+  "neighborhood": "Mercês",
+  "state": "PR",
+  "address": {
+    "street": "Silva Alameda",
+    "number": "2861",
+    "zipCode": "43456-036",
+    "coordinates": {
+      "latitude": -25.429,
+      "longitude": -49.274
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Acarajé",
+    "Feijoada",
+    "Moqueca"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": true,
+  "delivery": false,
+  "takeout": true,
+  "phone": "(56) 2095-2215",
+  "website": "https://www.santos-pereira-and-macedo-mercês.com.br",
+  "socialMedia": {
+    "instagram": "@santospereiraandmacedomercês",
+    "facebook": "santospereiraandmacedomercês"
+  },
+  "rating": 4.1,
+  "reviewCount": 62,
+  "ambience": [
+    "Familiar",
+    "Tradicional"
+  ],
+  "features": [
+    "Terraço",
+    "Bar",
+    "Wi-Fi"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1983,
+    "founder": "Cauã Oliveira",
+    "story": "Rem quis et odit et suscipit exercitationem. Dolore atque id. Illum excepturi ratione minus sed impedit illum ratione. Officia eius odit sit. Est dignissimos nihil debitis dignissimos maxime."
+  },
+  "chef": {
+    "name": "Hugo Silva",
+    "background": "Libero veniam soluta delectus minima earum amet."
+  },
+  "keywords": [
+    "brasileira",
+    "mercês",
+    "curitiba"
+  ],
+  "nearbyAttractions": [
+    "Museu",
+    "Shopping",
+    "Parque"
+  ],
+  "relatedQueries": [
+    "restaurante brasileira tradicional",
+    "melhor restaurante brasileira em curitiba",
+    "brasileira em mercês"
+  ],
+  "images": [
+    {
+      "url": "/images/santos-pereira-and-macedo-mercês/fachada.jpg",
+      "alt": "Fachada do Santos, Pereira and Macedo em Mercês",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/santos-pereira-and-macedo-mercês/interior.jpg",
+      "alt": "Ambiente interno do Santos, Pereira and Macedo",
+      "type": "interior"
+    },
+    {
+      "url": "/images/santos-pereira-and-macedo-mercês/prato.jpg",
+      "alt": "Prato especial do Santos, Pereira and Macedo",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Brasileira de Curitiba 2018",
+    "Destaque Gastronômico - Revista Gourmet 2022"
+  ],
+  "events": [
+    "Happy Hour Especial",
+    "Menu Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções Veganas"
+  ]
+}

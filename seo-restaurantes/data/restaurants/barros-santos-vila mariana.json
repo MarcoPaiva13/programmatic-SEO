@@ -1,0 +1,149 @@
+{
+  "id": "barros-santos-vila mariana",
+  "name": "Barros - Santos",
+  "slug": "barros-santos-vila mariana",
+  "city": "São Paulo",
+  "neighborhood": "Vila Mariana",
+  "state": "SP",
+  "address": {
+    "street": "Martins Alameda",
+    "number": "5884",
+    "zipCode": "46243-230",
+    "coordinates": {
+      "latitude": -23.553,
+      "longitude": -46.639
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Feijoada",
+    "Moqueca",
+    "Pão de Queijo"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": true,
+  "delivery": true,
+  "takeout": false,
+  "phone": "(58) 2107-8134",
+  "website": "https://www.barros-santos-vila mariana.com.br",
+  "socialMedia": {
+    "instagram": "@barrossantosvila mariana",
+    "facebook": "barrossantosvila mariana"
+  },
+  "rating": 4.6,
+  "reviewCount": 385,
+  "ambience": [
+    "Familiar",
+    "Tradicional"
+  ],
+  "features": [
+    "Bar",
+    "Ar Condicionado",
+    "Estacionamento"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1982,
+    "founder": "Lívia Martins",
+    "story": "Velit et incidunt distinctio eius qui quibusdam. Numquam ipsum aut numquam fuga doloremque. Labore omnis eum sequi et harum saepe illum neque. Nam omnis molestiae dolores. Dolore in repellendus atque voluptatum. Ab omnis et ducimus aliquid nemo quis quis quia sed."
+  },
+  "chef": {
+    "name": "Dalila Nogueira",
+    "background": "Vitae et illum suscipit incidunt reiciendis."
+  },
+  "keywords": [
+    "brasileira",
+    "vila mariana",
+    "são paulo"
+  ],
+  "nearbyAttractions": [
+    "Museu",
+    "Centro Comercial",
+    "Teatro"
+  ],
+  "relatedQueries": [
+    "melhor restaurante brasileira em são paulo",
+    "brasileira em vila mariana",
+    "restaurante brasileira tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/barros-santos-vila mariana/fachada.jpg",
+      "alt": "Fachada do Barros - Santos em Vila Mariana",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/barros-santos-vila mariana/interior.jpg",
+      "alt": "Ambiente interno do Barros - Santos",
+      "type": "interior"
+    },
+    {
+      "url": "/images/barros-santos-vila mariana/prato.jpg",
+      "alt": "Prato especial do Barros - Santos",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Brasileira de São Paulo 2022",
+    "Destaque Gastronômico - Revista Gourmet 2018"
+  ],
+  "events": [
+    "Noites de Degustação",
+    "Festival Gastronômico"
+  ],
+  "dietaryOptions": [
+    "Opções sem Glúten",
+    "Opções Vegetarianas"
+  ]
+}

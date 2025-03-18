@@ -1,0 +1,149 @@
+{
+  "id": "martins-martins-and-moraes-perdizes",
+  "name": "Martins, Martins and Moraes",
+  "slug": "martins-martins-and-moraes-perdizes",
+  "city": "São Paulo",
+  "neighborhood": "Perdizes",
+  "state": "SP",
+  "address": {
+    "street": "Xavier Marginal",
+    "number": "7555",
+    "zipCode": "36900-583",
+    "coordinates": {
+      "latitude": -23.556,
+      "longitude": -46.64
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Yakisoba",
+    "Sashimi",
+    "Temaki"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": true,
+  "delivery": false,
+  "takeout": false,
+  "phone": "(52) 7695-2402",
+  "website": "https://www.martins-martins-and-moraes-perdizes.com.br",
+  "socialMedia": {
+    "instagram": "@martinsmartinsandmoraesperdizes",
+    "facebook": "martinsmartinsandmoraesperdizes"
+  },
+  "rating": 4.2,
+  "reviewCount": 106,
+  "ambience": [
+    "Casual Elegante",
+    "Romântico"
+  ],
+  "features": [
+    "Estacionamento",
+    "Acessibilidade",
+    "Bar"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1983,
+    "founder": "Davi Lucca Melo",
+    "story": "Incidunt dignissimos dolores id et placeat quia aperiam dolores. Voluptatibus neque illum qui perspiciatis ut rerum et perferendis. Placeat eum reiciendis adipisci. Iure reiciendis quam distinctio exercitationem."
+  },
+  "chef": {
+    "name": "Srta. Clara Santos",
+    "background": "Dolor delectus dicta."
+  },
+  "keywords": [
+    "japonesa",
+    "perdizes",
+    "são paulo"
+  ],
+  "nearbyAttractions": [
+    "Centro Comercial",
+    "Shopping",
+    "Teatro"
+  ],
+  "relatedQueries": [
+    "restaurante japonesa tradicional",
+    "melhor restaurante japonesa em são paulo",
+    "japonesa em perdizes"
+  ],
+  "images": [
+    {
+      "url": "/images/martins-martins-and-moraes-perdizes/fachada.jpg",
+      "alt": "Fachada do Martins, Martins and Moraes em Perdizes",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/martins-martins-and-moraes-perdizes/interior.jpg",
+      "alt": "Ambiente interno do Martins, Martins and Moraes",
+      "type": "interior"
+    },
+    {
+      "url": "/images/martins-martins-and-moraes-perdizes/prato.jpg",
+      "alt": "Prato especial do Martins, Martins and Moraes",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2023",
+    "Melhor Restaurante Japonesa de São Paulo 2023"
+  ],
+  "events": [
+    "Happy Hour Especial",
+    "Noites de Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções sem Glúten",
+    "Opções Veganas"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "saraiva-carvalho-and-moraes-jardins",
+  "name": "Saraiva, Carvalho and Moraes",
+  "slug": "saraiva-carvalho-and-moraes-jardins",
+  "city": "São Paulo",
+  "neighborhood": "Jardins",
+  "state": "SP",
+  "address": {
+    "street": "Júlio Alameda",
+    "number": "8778",
+    "zipCode": "54341-396",
+    "coordinates": {
+      "latitude": -23.556,
+      "longitude": -46.634
+    }
+  },
+  "cuisine": [
+    "Italiana"
+  ],
+  "specialties": [
+    "Ravioli",
+    "Tiramisu",
+    "Pasta"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": true,
+  "delivery": false,
+  "takeout": false,
+  "phone": "(35) 6161-9914",
+  "website": "https://www.saraiva-carvalho-and-moraes-jardins.com.br",
+  "socialMedia": {
+    "instagram": "@saraivacarvalhoandmoraesjardins",
+    "facebook": "saraivacarvalhoandmoraesjardins"
+  },
+  "rating": 3.7,
+  "reviewCount": 313,
+  "ambience": [
+    "Casual Elegante",
+    "Tradicional"
+  ],
+  "features": [
+    "Wi-Fi",
+    "Terraço",
+    "Ar Condicionado"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2004,
+    "founder": "Larissa Reis",
+    "story": "Deleniti nulla quisquam assumenda dolor consequuntur ad. Ab rerum et rem. Rerum quidem cum est veniam."
+  },
+  "chef": {
+    "name": "Fabrício Moreira",
+    "background": "Mollitia nulla quam."
+  },
+  "keywords": [
+    "italiana",
+    "jardins",
+    "são paulo"
+  ],
+  "nearbyAttractions": [
+    "Museu",
+    "Centro Comercial",
+    "Shopping"
+  ],
+  "relatedQueries": [
+    "restaurante italiana tradicional",
+    "italiana em jardins",
+    "melhor restaurante italiana em são paulo"
+  ],
+  "images": [
+    {
+      "url": "/images/saraiva-carvalho-and-moraes-jardins/fachada.jpg",
+      "alt": "Fachada do Saraiva, Carvalho and Moraes em Jardins",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/saraiva-carvalho-and-moraes-jardins/interior.jpg",
+      "alt": "Ambiente interno do Saraiva, Carvalho and Moraes",
+      "type": "interior"
+    },
+    {
+      "url": "/images/saraiva-carvalho-and-moraes-jardins/prato.jpg",
+      "alt": "Prato especial do Saraiva, Carvalho and Moraes",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Spaghetti alla Carbonara",
+      "preco": 58,
+      "descricao": "Massa fresca com molho cremoso de ovos, queijo pecorino e pancetta",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Risotto ai Funghi",
+      "preco": 65,
+      "descricao": "Arroz arbóreo com mix de cogumelos frescos e parmesão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Pizza Margherita",
+      "preco": 45,
+      "descricao": "Pizza tradicional com molho de tomate, mussarela e manjericão",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2018",
+    "Melhor Restaurante Italiana de São Paulo 2020"
+  ],
+  "events": [
+    "Menu Degustação",
+    "Noites de Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções sem Glúten"
+  ]
+}

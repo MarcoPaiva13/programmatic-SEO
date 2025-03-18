@@ -1,0 +1,89 @@
+# robots.txt para SEO de Restaurantes
+# Última atualização: 2024
+# Este arquivo define as regras de indexação para os principais crawlers
+
+# Regras para todos os crawlers
+User-agent: *
+Allow: /
+Allow: /restaurantes/
+Allow: /categorias/
+Allow: /images/
+Allow: /sitemap.xml
+Allow: /sitemap-*.xml
+Allow: /*.js$
+Allow: /*.css$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.gif$
+Allow: /*.svg$
+Allow: /*.ico$
+
+# Bloqueio de áreas administrativas e desenvolvimento
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /draft/
+Disallow: /preview/
+
+# Regras específicas para Google
+User-agent: Googlebot
+Allow: /
+Allow: /restaurantes/
+Allow: /categorias/
+Allow: /images/
+Allow: /sitemap.xml
+Allow: /sitemap-*.xml
+Crawl-delay: 1
+
+# Regras específicas para Bing
+User-agent: Bingbot
+Allow: /
+Allow: /restaurantes/
+Allow: /categorias/
+Allow: /images/
+Allow: /sitemap.xml
+Allow: /sitemap-*.xml
+Crawl-delay: 1
+
+# Regras específicas para Yandex
+User-agent: Yandex
+Allow: /
+Allow: /restaurantes/
+Allow: /categorias/
+Allow: /images/
+Allow: /sitemap.xml
+Allow: /sitemap-*.xml
+Crawl-delay: 1
+
+# Regras para mobile crawlers
+User-agent: Googlebot-Mobile
+Allow: /
+Allow: /restaurantes/
+Allow: /categorias/
+Allow: /images/
+Allow: /sitemap.xml
+Allow: /sitemap-*.xml
+Crawl-delay: 1
+
+# Regras para desktop crawlers
+User-agent: Googlebot-Desktop
+Allow: /
+Allow: /restaurantes/
+Allow: /categorias/
+Allow: /images/
+Allow: /sitemap.xml
+Allow: /sitemap-*.xml
+Crawl-delay: 1
+
+# Sitemap principal
+Sitemap: https://www.seurestaurante.com.br/sitemap.xml
+
+# Comentários adicionais:
+# - Crawl-delay: 1 indica que os crawlers devem esperar 1 segundo entre requisições
+# - Allow: /*.js$ e Allow: /*.css$ permitem indexação de recursos estáticos
+# - Disallow: /_next/ bloqueia acesso à pasta de build do Next.js
+# - Allow: /images/ permite indexação de imagens de restaurantes
+# - Regras específicas para mobile/desktop otimizam a indexação por dispositivo 

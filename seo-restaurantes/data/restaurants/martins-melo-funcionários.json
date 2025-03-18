@@ -1,0 +1,149 @@
+{
+  "id": "martins-melo-funcionários",
+  "name": "Martins - Melo",
+  "slug": "martins-melo-funcionários",
+  "city": "Belo Horizonte",
+  "neighborhood": "Funcionários",
+  "state": "MG",
+  "address": {
+    "street": "Moreira Avenida",
+    "number": "793",
+    "zipCode": "83720-027",
+    "coordinates": {
+      "latitude": -19.917,
+      "longitude": -43.935
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Moqueca",
+    "Feijoada",
+    "Acarajé"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": true,
+  "delivery": false,
+  "takeout": false,
+  "phone": "(37) 2831-6388",
+  "website": "https://www.martins-melo-funcionários.com.br",
+  "socialMedia": {
+    "instagram": "@martinsmelofuncionários",
+    "facebook": "martinsmelofuncionários"
+  },
+  "rating": 3.8,
+  "reviewCount": 383,
+  "ambience": [
+    "Tradicional",
+    "Romântico"
+  ],
+  "features": [
+    "Ar Condicionado",
+    "Estacionamento",
+    "Acessibilidade"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1982,
+    "founder": "Rebeca Carvalho",
+    "story": "Veniam aliquam molestiae debitis maiores cupiditate odit dolorum. Nesciunt modi molestiae omnis velit molestiae inventore. Officia maxime nam aut sed est natus et. Voluptatem sed ut nostrum fuga dolorum et possimus. Architecto quo et hic voluptas quia similique aut."
+  },
+  "chef": {
+    "name": "Maria Luiza Batista",
+    "background": "Dicta quis ipsam quo."
+  },
+  "keywords": [
+    "brasileira",
+    "funcionários",
+    "belo horizonte"
+  ],
+  "nearbyAttractions": [
+    "Teatro",
+    "Parque",
+    "Centro Comercial"
+  ],
+  "relatedQueries": [
+    "brasileira em funcionários",
+    "restaurante brasileira tradicional",
+    "melhor restaurante brasileira em belo horizonte"
+  ],
+  "images": [
+    {
+      "url": "/images/martins-melo-funcionários/fachada.jpg",
+      "alt": "Fachada do Martins - Melo em Funcionários",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/martins-melo-funcionários/interior.jpg",
+      "alt": "Ambiente interno do Martins - Melo",
+      "type": "interior"
+    },
+    {
+      "url": "/images/martins-melo-funcionários/prato.jpg",
+      "alt": "Prato especial do Martins - Melo",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2020",
+    "Melhor Restaurante Brasileira de Belo Horizonte 2023"
+  ],
+  "events": [
+    "Happy Hour Especial",
+    "Festival Gastronômico"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções sem Glúten"
+  ]
+}

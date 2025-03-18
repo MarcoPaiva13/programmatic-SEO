@@ -1,0 +1,149 @@
+{
+  "id": "batista-xavier-and-silva-jardim botânico",
+  "name": "Batista, Xavier and Silva",
+  "slug": "batista-xavier-and-silva-jardim botânico",
+  "city": "Rio de Janeiro",
+  "neighborhood": "Jardim Botânico",
+  "state": "RJ",
+  "address": {
+    "street": "Barros Marginal",
+    "number": "2082",
+    "zipCode": "18461-156",
+    "coordinates": {
+      "latitude": -22.907,
+      "longitude": -43.173
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Sushi",
+    "Temaki",
+    "Yakisoba"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": true,
+  "delivery": true,
+  "takeout": false,
+  "phone": "(33) 6502-3799",
+  "website": "https://www.batista-xavier-and-silva-jardim botânico.com.br",
+  "socialMedia": {
+    "instagram": "@batistaxavierandsilvajardim botânico",
+    "facebook": "batistaxavierandsilvajardim botânico"
+  },
+  "rating": 4.9,
+  "reviewCount": 85,
+  "ambience": [
+    "Moderno",
+    "Tradicional"
+  ],
+  "features": [
+    "Bar",
+    "Acessibilidade",
+    "Ar Condicionado"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2006,
+    "founder": "Danilo Xavier",
+    "story": "Dolores cum id ipsum dolor numquam qui unde. Distinctio vel et non ad laudantium et quaerat magnam ab. Incidunt consequatur quo repellat aspernatur non quasi sint error ut. Qui tenetur consequatur. Id voluptatem itaque corrupti quis molestiae."
+  },
+  "chef": {
+    "name": "Maria Helena Carvalho",
+    "background": "Voluptas alias aspernatur est explicabo."
+  },
+  "keywords": [
+    "japonesa",
+    "jardim botânico",
+    "rio de janeiro"
+  ],
+  "nearbyAttractions": [
+    "Centro Comercial",
+    "Museu",
+    "Shopping"
+  ],
+  "relatedQueries": [
+    "japonesa em jardim botânico",
+    "melhor restaurante japonesa em rio de janeiro",
+    "restaurante japonesa tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/batista-xavier-and-silva-jardim botânico/fachada.jpg",
+      "alt": "Fachada do Batista, Xavier and Silva em Jardim Botânico",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/batista-xavier-and-silva-jardim botânico/interior.jpg",
+      "alt": "Ambiente interno do Batista, Xavier and Silva",
+      "type": "interior"
+    },
+    {
+      "url": "/images/batista-xavier-and-silva-jardim botânico/prato.jpg",
+      "alt": "Prato especial do Batista, Xavier and Silva",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Japonesa de Rio de Janeiro 2020",
+    "Destaque Gastronômico - Revista Gourmet 2021"
+  ],
+  "events": [
+    "Happy Hour Especial",
+    "Festival Gastronômico"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções sem Glúten"
+  ]
+}

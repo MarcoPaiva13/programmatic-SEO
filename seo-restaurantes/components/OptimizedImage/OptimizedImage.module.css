@@ -1,0 +1,99 @@
+/* OptimizedImage.module.css */
+.imageWrapper {
+  position: relative;
+  width: 100%;
+  background-color: #f0f0f0;
+  overflow: hidden;
+  border-radius: 8px;
+  transition: opacity 0.3s ease;
+}
+
+.optimizedImage {
+  width: 100%;
+  height: 100%;
+  transition: opacity 0.5s ease, transform 0.3s ease;
+}
+
+.loading {
+  opacity: 0;
+}
+
+.error {
+  opacity: 0.8;
+  filter: grayscale(30%);
+}
+
+.skeleton {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #f0f0f0;
+  z-index: 1;
+  animation: pulse 1.5s infinite ease-in-out;
+}
+
+.errorIndicator {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 50%;
+  padding: 5px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  z-index: 2;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Pulsação do skeleton */
+@keyframes pulse {
+  0% {
+    opacity: 0.6;
+  }
+  50% {
+    opacity: 0.8;
+  }
+  100% {
+    opacity: 0.6;
+  }
+}
+
+/* Efeito de blur-up quando a imagem está carregando */
+.optimizedImage:not(.loading) {
+  animation: blurUp 0.5s ease;
+}
+
+@keyframes blurUp {
+  0% {
+    filter: blur(20px);
+    opacity: 0;
+  }
+  100% {
+    filter: blur(0);
+    opacity: 1;
+  }
+}
+
+/* Responsive breakpoints */
+@media (max-width: 768px) {
+  .imageWrapper {
+    border-radius: 6px;
+  }
+  
+  .errorIndicator {
+    width: 24px;
+    height: 24px;
+    font-size: 12px;
+  }
+}
+
+/* Efeito de hover (opcional) */
+.imageWrapper:hover .optimizedImage:not(.error) {
+  transform: scale(1.02);
+} 

@@ -1,0 +1,149 @@
+{
+  "id": "moraes-moraes-and-silva-boa vista",
+  "name": "Moraes, Moraes and Silva",
+  "slug": "moraes-moraes-and-silva-boa vista",
+  "city": "Porto Alegre",
+  "neighborhood": "Boa Vista",
+  "state": "RS",
+  "address": {
+    "street": "Carvalho Rodovia",
+    "number": "4987",
+    "zipCode": "27173-098",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Sashimi",
+    "Sushi",
+    "Temaki"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": false,
+  "phone": "(54) 4397-6272",
+  "website": "https://www.moraes-moraes-and-silva-boa vista.com.br",
+  "socialMedia": {
+    "instagram": "@moraesmoraesandsilvaboa vista",
+    "facebook": "moraesmoraesandsilvaboa vista"
+  },
+  "rating": 4.6,
+  "reviewCount": 364,
+  "ambience": [
+    "Familiar",
+    "Romântico"
+  ],
+  "features": [
+    "Wi-Fi",
+    "Terraço",
+    "Ar Condicionado"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1984,
+    "founder": "Suélen Franco",
+    "story": "Velit eum et. Quia ducimus molestias. Modi a cum."
+  },
+  "chef": {
+    "name": "Fabrícia Moraes",
+    "background": "Incidunt maxime libero omnis maiores maxime tempora nam est."
+  },
+  "keywords": [
+    "japonesa",
+    "boa vista",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Museu",
+    "Shopping",
+    "Teatro"
+  ],
+  "relatedQueries": [
+    "melhor restaurante japonesa em porto alegre",
+    "japonesa em boa vista",
+    "restaurante japonesa tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/moraes-moraes-and-silva-boa vista/fachada.jpg",
+      "alt": "Fachada do Moraes, Moraes and Silva em Boa Vista",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/moraes-moraes-and-silva-boa vista/interior.jpg",
+      "alt": "Ambiente interno do Moraes, Moraes and Silva",
+      "type": "interior"
+    },
+    {
+      "url": "/images/moraes-moraes-and-silva-boa vista/prato.jpg",
+      "alt": "Prato especial do Moraes, Moraes and Silva",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2020",
+    "Melhor Restaurante Japonesa de Porto Alegre 2021"
+  ],
+  "events": [
+    "Menu Degustação",
+    "Noites de Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções sem Glúten",
+    "Opções Vegetarianas"
+  ]
+}

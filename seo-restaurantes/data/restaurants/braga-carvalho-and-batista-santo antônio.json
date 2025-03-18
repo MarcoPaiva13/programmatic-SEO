@@ -1,0 +1,149 @@
+{
+  "id": "braga-carvalho-and-batista-santo antônio",
+  "name": "Braga, Carvalho and Batista",
+  "slug": "braga-carvalho-and-batista-santo antônio",
+  "city": "Belo Horizonte",
+  "neighborhood": "Santo Antônio",
+  "state": "MG",
+  "address": {
+    "street": "Felícia Avenida",
+    "number": "3553",
+    "zipCode": "36605-556",
+    "coordinates": {
+      "latitude": -19.917,
+      "longitude": -43.935
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Yakisoba",
+    "Tempura",
+    "Sashimi"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": true,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(15) 5098-6753",
+  "website": "https://www.braga-carvalho-and-batista-santo antônio.com.br",
+  "socialMedia": {
+    "instagram": "@bragacarvalhoandbatistasanto antônio",
+    "facebook": "bragacarvalhoandbatistasanto antônio"
+  },
+  "rating": 4.3,
+  "reviewCount": 130,
+  "ambience": [
+    "Romântico",
+    "Familiar"
+  ],
+  "features": [
+    "Estacionamento",
+    "Ar Condicionado",
+    "Acessibilidade"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2006,
+    "founder": "Eduarda Carvalho",
+    "story": "Nobis voluptatem debitis. Delectus fugit dolores sunt. Non quos dolor. Atque enim quia. Possimus numquam et error."
+  },
+  "chef": {
+    "name": "Yago Souza",
+    "background": "Odio id maxime reiciendis illum iusto ullam laborum in."
+  },
+  "keywords": [
+    "japonesa",
+    "santo antônio",
+    "belo horizonte"
+  ],
+  "nearbyAttractions": [
+    "Centro Comercial",
+    "Teatro",
+    "Museu"
+  ],
+  "relatedQueries": [
+    "japonesa em santo antônio",
+    "melhor restaurante japonesa em belo horizonte",
+    "restaurante japonesa tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/braga-carvalho-and-batista-santo antônio/fachada.jpg",
+      "alt": "Fachada do Braga, Carvalho and Batista em Santo Antônio",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/braga-carvalho-and-batista-santo antônio/interior.jpg",
+      "alt": "Ambiente interno do Braga, Carvalho and Batista",
+      "type": "interior"
+    },
+    {
+      "url": "/images/braga-carvalho-and-batista-santo antônio/prato.jpg",
+      "alt": "Prato especial do Braga, Carvalho and Batista",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Japonesa de Belo Horizonte 2023",
+    "Destaque Gastronômico - Revista Gourmet 2022"
+  ],
+  "events": [
+    "Noites de Degustação",
+    "Menu Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções sem Glúten"
+  ]
+}

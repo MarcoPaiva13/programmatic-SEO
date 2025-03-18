@@ -1,0 +1,149 @@
+{
+  "id": "franco-s-a--centro",
+  "name": "Franco S.A.",
+  "slug": "franco-s-a--centro",
+  "city": "Porto Alegre",
+  "neighborhood": "Centro",
+  "state": "RS",
+  "address": {
+    "street": "Lorena Travessa",
+    "number": "5499",
+    "zipCode": "93089-550",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Italiana"
+  ],
+  "specialties": [
+    "Pasta",
+    "Tiramisu",
+    "Ravioli"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": true,
+  "delivery": false,
+  "takeout": false,
+  "phone": "(10) 3491-0932",
+  "website": "https://www.franco-s-a--centro.com.br",
+  "socialMedia": {
+    "instagram": "@francosacentro",
+    "facebook": "francosacentro"
+  },
+  "rating": 3.6,
+  "reviewCount": 488,
+  "ambience": [
+    "Familiar",
+    "Romântico"
+  ],
+  "features": [
+    "Acessibilidade",
+    "Ar Condicionado",
+    "Terraço"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1997,
+    "founder": "Liz Melo",
+    "story": "Minus consectetur sed debitis. Iusto qui non pariatur molestiae. Quasi saepe voluptas voluptatem dignissimos rerum laborum repellendus qui."
+  },
+  "chef": {
+    "name": "Gabriel Melo",
+    "background": "Perferendis doloribus expedita aut veritatis nam est."
+  },
+  "keywords": [
+    "italiana",
+    "centro",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Shopping",
+    "Museu",
+    "Teatro"
+  ],
+  "relatedQueries": [
+    "melhor restaurante italiana em porto alegre",
+    "restaurante italiana tradicional",
+    "italiana em centro"
+  ],
+  "images": [
+    {
+      "url": "/images/franco-s-a--centro/fachada.jpg",
+      "alt": "Fachada do Franco S.A. em Centro",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/franco-s-a--centro/interior.jpg",
+      "alt": "Ambiente interno do Franco S.A.",
+      "type": "interior"
+    },
+    {
+      "url": "/images/franco-s-a--centro/prato.jpg",
+      "alt": "Prato especial do Franco S.A.",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Spaghetti alla Carbonara",
+      "preco": 58,
+      "descricao": "Massa fresca com molho cremoso de ovos, queijo pecorino e pancetta",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Risotto ai Funghi",
+      "preco": 65,
+      "descricao": "Arroz arbóreo com mix de cogumelos frescos e parmesão",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Pizza Margherita",
+      "preco": 45,
+      "descricao": "Pizza tradicional com molho de tomate, mussarela e manjericão",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2023",
+    "Melhor Restaurante Italiana de Porto Alegre 2020"
+  ],
+  "events": [
+    "Festival Gastronômico",
+    "Noites de Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções sem Glúten"
+  ]
+}

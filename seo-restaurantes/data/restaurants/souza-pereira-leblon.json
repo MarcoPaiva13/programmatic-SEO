@@ -1,0 +1,149 @@
+{
+  "id": "souza-pereira-leblon",
+  "name": "Souza - Pereira",
+  "slug": "souza-pereira-leblon",
+  "city": "Rio de Janeiro",
+  "neighborhood": "Leblon",
+  "state": "RJ",
+  "address": {
+    "street": "Costa Alameda",
+    "number": "5007",
+    "zipCode": "14684-302",
+    "coordinates": {
+      "latitude": -22.907,
+      "longitude": -43.173
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Pão de Queijo",
+    "Moqueca",
+    "Churrasco"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(09) 4558-3641",
+  "website": "https://www.souza-pereira-leblon.com.br",
+  "socialMedia": {
+    "instagram": "@souzapereiraleblon",
+    "facebook": "souzapereiraleblon"
+  },
+  "rating": 5,
+  "reviewCount": 293,
+  "ambience": [
+    "Casual Elegante",
+    "Moderno"
+  ],
+  "features": [
+    "Estacionamento",
+    "Acessibilidade",
+    "Terraço"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2017,
+    "founder": "Ígor Moreira",
+    "story": "Cum officiis laboriosam deserunt quae explicabo aperiam est voluptate ipsam. Et in aut ducimus quam recusandae quia. Fugiat quo optio. Modi consequatur voluptas. Illo molestiae et ad error delectus est. Dicta consequatur voluptatem necessitatibus reprehenderit voluptatum."
+  },
+  "chef": {
+    "name": "Marcela Moraes",
+    "background": "Reprehenderit voluptatem nemo dolorem."
+  },
+  "keywords": [
+    "brasileira",
+    "leblon",
+    "rio de janeiro"
+  ],
+  "nearbyAttractions": [
+    "Teatro",
+    "Museu",
+    "Shopping"
+  ],
+  "relatedQueries": [
+    "restaurante brasileira tradicional",
+    "brasileira em leblon",
+    "melhor restaurante brasileira em rio de janeiro"
+  ],
+  "images": [
+    {
+      "url": "/images/souza-pereira-leblon/fachada.jpg",
+      "alt": "Fachada do Souza - Pereira em Leblon",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/souza-pereira-leblon/interior.jpg",
+      "alt": "Ambiente interno do Souza - Pereira",
+      "type": "interior"
+    },
+    {
+      "url": "/images/souza-pereira-leblon/prato.jpg",
+      "alt": "Prato especial do Souza - Pereira",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Brasileira de Rio de Janeiro 2022",
+    "Destaque Gastronômico - Revista Gourmet 2022"
+  ],
+  "events": [
+    "Happy Hour Especial",
+    "Festival Gastronômico"
+  ],
+  "dietaryOptions": [
+    "Opções sem Glúten",
+    "Opções Vegetarianas"
+  ]
+}

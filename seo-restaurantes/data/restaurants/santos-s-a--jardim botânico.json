@@ -1,0 +1,149 @@
+{
+  "id": "santos-s-a--jardim botânico",
+  "name": "Santos S.A.",
+  "slug": "santos-s-a--jardim botânico",
+  "city": "Rio de Janeiro",
+  "neighborhood": "Jardim Botânico",
+  "state": "RJ",
+  "address": {
+    "street": "Pablo Rua",
+    "number": "285",
+    "zipCode": "57276-763",
+    "coordinates": {
+      "latitude": -22.907,
+      "longitude": -43.173
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Moqueca",
+    "Churrasco",
+    "Pão de Queijo"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": true,
+  "delivery": false,
+  "takeout": true,
+  "phone": "(32) 5140-1568",
+  "website": "https://www.santos-s-a--jardim botânico.com.br",
+  "socialMedia": {
+    "instagram": "@santossajardim botânico",
+    "facebook": "santossajardim botânico"
+  },
+  "rating": 3.9,
+  "reviewCount": 54,
+  "ambience": [
+    "Casual Elegante",
+    "Tradicional"
+  ],
+  "features": [
+    "Estacionamento",
+    "Terraço",
+    "Wi-Fi"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2002,
+    "founder": "Pedro Costa",
+    "story": "In minus doloribus modi laudantium. Sed eligendi delectus soluta. Dolor rerum maxime id id vel illo. Ipsa cum ut ad omnis quae omnis accusamus praesentium rerum. Cumque natus totam reprehenderit sapiente a dicta aut deleniti. Laboriosam odio dolor fugit ratione sint."
+  },
+  "chef": {
+    "name": "Larissa Moreira Filho",
+    "background": "Dolor architecto aut optio in quo ut optio."
+  },
+  "keywords": [
+    "brasileira",
+    "jardim botânico",
+    "rio de janeiro"
+  ],
+  "nearbyAttractions": [
+    "Teatro",
+    "Museu",
+    "Centro Comercial"
+  ],
+  "relatedQueries": [
+    "restaurante brasileira tradicional",
+    "brasileira em jardim botânico",
+    "melhor restaurante brasileira em rio de janeiro"
+  ],
+  "images": [
+    {
+      "url": "/images/santos-s-a--jardim botânico/fachada.jpg",
+      "alt": "Fachada do Santos S.A. em Jardim Botânico",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/santos-s-a--jardim botânico/interior.jpg",
+      "alt": "Ambiente interno do Santos S.A.",
+      "type": "interior"
+    },
+    {
+      "url": "/images/santos-s-a--jardim botânico/prato.jpg",
+      "alt": "Prato especial do Santos S.A.",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Brasileira de Rio de Janeiro 2022",
+    "Destaque Gastronômico - Revista Gourmet 2023"
+  ],
+  "events": [
+    "Noites de Degustação",
+    "Festival Gastronômico"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções Veganas"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "carvalho-eireli-funcionários",
+  "name": "Carvalho EIRELI",
+  "slug": "carvalho-eireli-funcionários",
+  "city": "Belo Horizonte",
+  "neighborhood": "Funcionários",
+  "state": "MG",
+  "address": {
+    "street": "Maria Helena Alameda",
+    "number": "640",
+    "zipCode": "68974-305",
+    "coordinates": {
+      "latitude": -19.917,
+      "longitude": -43.935
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Temaki",
+    "Tempura",
+    "Sushi"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": true,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(63) 9770-3298",
+  "website": "https://www.carvalho-eireli-funcionários.com.br",
+  "socialMedia": {
+    "instagram": "@carvalhoeirelifuncionários",
+    "facebook": "carvalhoeirelifuncionários"
+  },
+  "rating": 4.1,
+  "reviewCount": 93,
+  "ambience": [
+    "Moderno",
+    "Tradicional"
+  ],
+  "features": [
+    "Bar",
+    "Terraço",
+    "Ar Condicionado"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1982,
+    "founder": "César Pereira",
+    "story": "Sed fugit rerum tempora quo ut facilis. Adipisci nemo quis impedit suscipit debitis non. Sit recusandae delectus autem provident saepe ut. Non eveniet enim exercitationem omnis aperiam eius corporis laudantium. Eius quia debitis ab quasi."
+  },
+  "chef": {
+    "name": "Benjamin Carvalho",
+    "background": "Aut et blanditiis eum officia laudantium magni itaque voluptate."
+  },
+  "keywords": [
+    "japonesa",
+    "funcionários",
+    "belo horizonte"
+  ],
+  "nearbyAttractions": [
+    "Teatro",
+    "Shopping",
+    "Museu"
+  ],
+  "relatedQueries": [
+    "japonesa em funcionários",
+    "restaurante japonesa tradicional",
+    "melhor restaurante japonesa em belo horizonte"
+  ],
+  "images": [
+    {
+      "url": "/images/carvalho-eireli-funcionários/fachada.jpg",
+      "alt": "Fachada do Carvalho EIRELI em Funcionários",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/carvalho-eireli-funcionários/interior.jpg",
+      "alt": "Ambiente interno do Carvalho EIRELI",
+      "type": "interior"
+    },
+    {
+      "url": "/images/carvalho-eireli-funcionários/prato.jpg",
+      "alt": "Prato especial do Carvalho EIRELI",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Japonesa de Belo Horizonte 2021",
+    "Destaque Gastronômico - Revista Gourmet 2023"
+  ],
+  "events": [
+    "Menu Degustação",
+    "Festival Gastronômico"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções Veganas"
+  ]
+}

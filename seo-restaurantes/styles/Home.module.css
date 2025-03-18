@@ -1,0 +1,1002 @@
+/* styles/Home.module.css
+   Estilos para a página inicial do guia de restaurantes */
+
+/* Container principal */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+/* Cabeçalho da página */
+.header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.header h1 {
+  font-size: 2.5rem;
+  color: #2c3e50;
+  margin-bottom: 1rem;
+}
+
+.header p {
+  font-size: 1.2rem;
+  color: #666;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Grid de restaurantes */
+.restaurantGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+/* Cards de restaurantes */
+.restaurantCard {
+  background-color: #fff;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+.restaurantCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+}
+
+.imageContainer {
+  height: 200px;
+  overflow: hidden;
+  position: relative;
+  background-color: #f5f5f5;
+}
+
+.imageContainer img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.restaurantCard:hover .imageContainer img {
+  transform: scale(1.05);
+}
+
+.cardContent {
+  padding: 1.5rem;
+}
+
+.cardContent h2 {
+  font-size: 1.5rem;
+  color: #2c3e50;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.cardContent p {
+  color: #666;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+.restaurantInfo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 0;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.rating {
+  display: flex;
+  align-items: center;
+  color: #f39c12;
+  font-weight: 500;
+}
+
+.cuisineTags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.tag {
+  background-color: #f1f1f1;
+  color: #333;
+  padding: 0.3rem 0.8rem;
+  border-radius: 2rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.viewMore {
+  display: inline-block;
+  background-color: #3498db;
+  color: white;
+  padding: 0.8rem 1.5rem;
+  border-radius: 0.3rem;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background-color 0.3s ease;
+}
+
+.viewMore:hover {
+  background-color: #2980b9;
+}
+
+/* Seção de filtros */
+.filters {
+  background-color: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.filters h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+  color: #2c3e50;
+}
+
+.filterGroup {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.filterSection {
+  margin-bottom: 1.5rem;
+}
+
+.filterSection h3 {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+  color: #2c3e50;
+}
+
+.filterSection h4 {
+  font-size: 1rem;
+  margin-bottom: 0.8rem;
+  color: #555;
+}
+
+.filterContent {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.checkboxLabel {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 0.5rem 0;
+  transition: color 0.2s ease;
+}
+
+.checkboxLabel:hover {
+  color: #3498db;
+}
+
+.checkboxLabel input[type="checkbox"] {
+  margin-right: 0.5rem;
+  cursor: pointer;
+}
+
+.checkboxText {
+  flex-grow: 1;
+}
+
+.activeIndicator {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  background-color: #2ecc71;
+  border-radius: 50%;
+  margin-left: 0.5rem;
+}
+
+.expandButton {
+  background: none;
+  border: none;
+  color: #3498db;
+  cursor: pointer;
+  font-size: 0.9rem;
+  padding: 0.5rem 0;
+  text-align: left;
+  margin-top: 0.5rem;
+}
+
+.expandButton:hover {
+  text-decoration: underline;
+}
+
+.locationGroup {
+  margin-bottom: 1rem;
+}
+
+/* Filtro de preço */
+.priceLabel {
+  display: block;
+  margin-bottom: 0.8rem;
+  cursor: pointer;
+}
+
+.priceOption {
+  display: flex;
+  flex-direction: column;
+  padding: 0.8rem;
+  border: 1px solid #ddd;
+  border-radius: 0.3rem;
+  transition: all 0.2s ease;
+}
+
+.priceLabel.active .priceOption {
+  border-color: #3498db;
+  background-color: #ebf5fb;
+}
+
+.priceSymbol {
+  font-weight: 600;
+  font-size: 1.2rem;
+  margin-bottom: 0.3rem;
+}
+
+.priceDescription {
+  font-weight: 500;
+}
+
+.priceSub {
+  font-size: 0.8rem;
+  color: #777;
+  margin-top: 0.3rem;
+}
+
+.visuallyHidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Filtro de avaliação (slider) */
+.sliderContainer {
+  padding: 0.5rem 0 1rem;
+}
+
+.slider {
+  width: 100%;
+  height: 6px;
+  -webkit-appearance: none;
+  appearance: none;
+  background: #ddd;
+  outline: none;
+  border-radius: 3px;
+  margin: 1rem 0;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  background: #3498db;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.slider::-moz-range-thumb {
+  width: 18px;
+  height: 18px;
+  background: #3498db;
+  border-radius: 50%;
+  cursor: pointer;
+  border: none;
+  transition: background 0.2s ease;
+}
+
+.slider::-webkit-slider-thumb:hover {
+  background: #2980b9;
+}
+
+.slider::-moz-range-thumb:hover {
+  background: #2980b9;
+}
+
+.sliderLabels {
+  display: flex;
+  justify-content: space-between;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.currentRating {
+  display: flex;
+  align-items: center;
+  margin-top: 0.5rem;
+}
+
+.ratingValue {
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-right: 0.5rem;
+}
+
+.starRating {
+  display: flex;
+  margin: 0 0.5rem;
+}
+
+.star {
+  color: #f39c12;
+  margin-right: 2px;
+}
+
+.emptyStar {
+  color: #ddd;
+  margin-right: 2px;
+}
+
+.ratingLabel {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+/* Barra de busca */
+.searchContainer {
+  margin-bottom: 1.5rem;
+}
+
+.searchInputWrapper {
+  display: flex;
+  position: relative;
+}
+
+.searchInput {
+  flex-grow: 1;
+  padding: 0.8rem 1rem;
+  border: 2px solid #ddd;
+  border-radius: 0.3rem 0 0 0.3rem;
+  font-size: 1rem;
+  transition: border-color 0.2s ease;
+}
+
+.searchInput:focus {
+  border-color: #3498db;
+  outline: none;
+}
+
+.searchButton {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 0 1.5rem;
+  border-radius: 0 0.3rem 0.3rem 0;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.searchButton:hover {
+  background-color: #2980b9;
+}
+
+.suggestions {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: white;
+  border: 1px solid #ddd;
+  border-top: none;
+  border-radius: 0 0 0.3rem 0.3rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  z-index: 10;
+  max-height: 200px;
+  overflow-y: auto;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.suggestionItem {
+  padding: 0.8rem 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.suggestionItem:hover {
+  background-color: #f5f5f5;
+}
+
+/* Opções de ordenação e botão para limpar filtros */
+.filtersBottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #ddd;
+}
+
+.sortContainer {
+  display: flex;
+  align-items: center;
+}
+
+.sortLabel {
+  margin-right: 0.8rem;
+  font-weight: 500;
+}
+
+.sortSelect {
+  padding: 0.5rem;
+  border: 1px solid #ddd;
+  border-radius: 0.3rem;
+  background-color: white;
+  min-width: 200px;
+}
+
+.clearFilters {
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.3rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.clearFilters:hover {
+  background-color: #c0392b;
+}
+
+/* Mensagem de carregamento */
+.loading {
+  text-align: center;
+  padding: 2rem;
+  font-size: 1.2rem;
+  color: #666;
+}
+
+/* Mensagem quando não há resultados */
+.noResults {
+  text-align: center;
+  padding: 3rem 1rem;
+  font-size: 1.2rem;
+  color: #666;
+  background-color: #f8f9fa;
+  border-radius: 0.5rem;
+  margin-top: 2rem;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+
+  .header h1 {
+    font-size: 2rem;
+  }
+
+  .filterGroup {
+    grid-template-columns: 1fr;
+  }
+
+  .filtersBottom {
+    flex-direction: column;
+    gap: 1rem;
+    align-items: flex-start;
+  }
+  
+  .sortContainer {
+    width: 100%;
+  }
+  
+  .sortSelect {
+    flex-grow: 1;
+    min-width: auto;
+  }
+  
+  .clearFilters {
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .header h1 {
+    font-size: 1.8rem;
+  }
+
+  .restaurantGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .imageContainer {
+    height: 180px;
+  }
+
+  .cardContent h2 {
+    font-size: 1.3rem;
+  }
+}
+
+/* Animações */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Acessibilidade */
+.restaurantCard {
+  transition: transform 0.3s ease, box-shadow 0.3s ease, outline 0.2s ease;
+}
+
+.restaurantCard:focus-within {
+  outline: 3px solid #3498db;
+  outline-offset: 2px;
+}
+
+.viewMore:focus {
+  outline: 3px solid #3498db;
+  outline-offset: 2px;
+}
+
+/* Redução de movimento */
+@media (prefers-reduced-motion: reduce) {
+  .restaurantCard,
+  .restaurantCard:hover,
+  .imageContainer img,
+  .restaurantCard:hover .imageContainer img,
+  .viewMore {
+    transition: none;
+    animation: none;
+    transform: none;
+  }
+}
+
+/* Layout da busca avançada */
+.searchLayout {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.filterPanel {
+  background-color: #fff;
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.resultsArea {
+  min-height: 600px;
+}
+
+.resultsHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+/* Construtor de filtros */
+.filterBuilder {
+  margin-bottom: 2rem;
+}
+
+.logicalOperator {
+  margin-bottom: 1rem;
+}
+
+.logicalOperator select {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #ddd;
+  border-radius: 0.3rem;
+}
+
+.filterTypeSelector {
+  margin-bottom: 1rem;
+}
+
+.filterTypeSelector select {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #ddd;
+  border-radius: 0.3rem;
+}
+
+.filterOptions {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.filterOption {
+  padding: 0.5rem;
+  border: 1px solid #ddd;
+  border-radius: 0.3rem;
+  background: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.filterOption:hover {
+  background-color: #f5f5f5;
+  border-color: #3498db;
+}
+
+.activeFilters {
+  margin-top: 1.5rem;
+}
+
+.activeFilter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+  background-color: #f8f9fa;
+  border-radius: 0.3rem;
+}
+
+.removeFilter {
+  background: none;
+  border: none;
+  color: #e74c3c;
+  cursor: pointer;
+  font-size: 1.2rem;
+  padding: 0.2rem 0.5rem;
+}
+
+/* Buscas salvas e histórico */
+.savedSearches,
+.searchHistory {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #ddd;
+}
+
+.savedSearchesHeader,
+.searchHistoryHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.savedSearchesList,
+.searchHistoryList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.savedSearchItem,
+.searchHistoryItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.8rem;
+  margin-bottom: 0.5rem;
+  background-color: #f8f9fa;
+  border-radius: 0.3rem;
+}
+
+.savedSearchInfo,
+.searchHistoryInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.savedSearchName,
+.searchTerm {
+  font-weight: 500;
+}
+
+.savedSearchDate,
+.searchDate {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.savedSearchActions,
+.searchHistoryActions {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.loadSearchButton,
+.repeatSearchButton {
+  padding: 0.3rem 0.8rem;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 0.3rem;
+  cursor: pointer;
+}
+
+.deleteSearchButton,
+.clearHistoryButton {
+  padding: 0.3rem 0.8rem;
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  border-radius: 0.3rem;
+  cursor: pointer;
+}
+
+/* Diálogo de salvar busca */
+.saveSearchDialog {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.saveSearchDialogContent {
+  background-color: white;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  width: 90%;
+  max-width: 500px;
+}
+
+.saveSearchInput {
+  width: 100%;
+  padding: 0.8rem;
+  margin: 1rem 0;
+  border: 1px solid #ddd;
+  border-radius: 0.3rem;
+}
+
+.saveSearchDialogActions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+/* Visualização em mapa */
+.mapContainer {
+  position: relative;
+  height: 600px;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.map {
+  width: 100%;
+  height: 100%;
+}
+
+.mapLoading {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 1rem 2rem;
+  border-radius: 0.3rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.mapInfoWindow {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background-color: white;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  max-width: 300px;
+}
+
+.mapInfoHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.closeInfoWindow {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #666;
+}
+
+.mapInfoContent {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+/* Visualização em tabela */
+.tableContainer {
+  overflow-x: auto;
+  background-color: white;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.resultsTable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.resultsTable th,
+.resultsTable td {
+  padding: 1rem;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.resultsTable th {
+  background-color: #f8f9fa;
+  font-weight: 600;
+}
+
+.sortButton {
+  background: none;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.tableRestaurantName {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.tableThumbnail {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 0.3rem;
+}
+
+.tableLocation {
+  display: flex;
+  flex-direction: column;
+}
+
+.tableCity {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.tableRating {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.tableCuisine,
+.tableFeatures {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+}
+
+.featureTag {
+  background-color: #f1f1f1;
+  padding: 0.2rem 0.5rem;
+  border-radius: 1rem;
+  font-size: 0.8rem;
+}
+
+.moreFeatures {
+  background-color: #e8f4f8;
+  color: #3498db;
+  padding: 0.2rem 0.5rem;
+  border-radius: 1rem;
+  font-size: 0.8rem;
+}
+
+.tableActions {
+  display: flex;
+  gap: 0.5rem;
+}
+
+/* Responsividade */
+@media (max-width: 1024px) {
+  .searchLayout {
+    grid-template-columns: 1fr;
+  }
+
+  .filterPanel {
+    position: sticky;
+    top: 1rem;
+    z-index: 100;
+  }
+}
+
+@media (max-width: 768px) {
+  .resultsHeader {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .mapContainer {
+    height: 400px;
+  }
+
+  .tableActions {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 480px) {
+  .filterOptions {
+    grid-template-columns: 1fr;
+  }
+
+  .mapInfoWindow {
+    position: fixed;
+    top: auto;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    max-width: none;
+    border-radius: 0.5rem 0.5rem 0 0;
+  }
+}
+
+/* Acessibilidade */
+@media (prefers-reduced-motion: reduce) {
+  .filterOption,
+  .mapInfoWindow,
+  .tableActions button {
+    transition: none;
+  }
+}
+
+/* Foco visual */
+.filterOption:focus,
+.sortButton:focus,
+.loadSearchButton:focus,
+.repeatSearchButton:focus,
+.deleteSearchButton:focus,
+.clearHistoryButton:focus,
+.saveSearchInput:focus {
+  outline: 3px solid #3498db;
+  outline-offset: 2px;
+} 

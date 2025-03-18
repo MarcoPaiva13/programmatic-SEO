@@ -1,0 +1,149 @@
+{
+  "id": "braga-franco-and-albuquerque-vila madalena",
+  "name": "Braga, Franco and Albuquerque",
+  "slug": "braga-franco-and-albuquerque-vila madalena",
+  "city": "São Paulo",
+  "neighborhood": "Vila Madalena",
+  "state": "SP",
+  "address": {
+    "street": "Morgana Avenida",
+    "number": "2471",
+    "zipCode": "11045-181",
+    "coordinates": {
+      "latitude": -23.557,
+      "longitude": -46.645
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Pão de Queijo",
+    "Feijoada",
+    "Moqueca"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(04) 5871-5294",
+  "website": "https://www.braga-franco-and-albuquerque-vila madalena.com.br",
+  "socialMedia": {
+    "instagram": "@bragafrancoandalbuquerquevila madalena",
+    "facebook": "bragafrancoandalbuquerquevila madalena"
+  },
+  "rating": 5,
+  "reviewCount": 76,
+  "ambience": [
+    "Casual Elegante",
+    "Familiar"
+  ],
+  "features": [
+    "Ar Condicionado",
+    "Estacionamento",
+    "Bar"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1996,
+    "founder": "Lorenzo Santos",
+    "story": "Praesentium corrupti enim nobis. Atque distinctio tempore aut et quasi voluptas eligendi repudiandae. Ut optio animi. Voluptates quaerat atque sed repudiandae molestiae rerum quia omnis ducimus."
+  },
+  "chef": {
+    "name": "Benício Souza",
+    "background": "Dignissimos voluptates aut reiciendis dolorem blanditiis corrupti qui."
+  },
+  "keywords": [
+    "brasileira",
+    "vila madalena",
+    "são paulo"
+  ],
+  "nearbyAttractions": [
+    "Shopping",
+    "Teatro",
+    "Centro Comercial"
+  ],
+  "relatedQueries": [
+    "restaurante brasileira tradicional",
+    "melhor restaurante brasileira em são paulo",
+    "brasileira em vila madalena"
+  ],
+  "images": [
+    {
+      "url": "/images/braga-franco-and-albuquerque-vila madalena/fachada.jpg",
+      "alt": "Fachada do Braga, Franco and Albuquerque em Vila Madalena",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/braga-franco-and-albuquerque-vila madalena/interior.jpg",
+      "alt": "Ambiente interno do Braga, Franco and Albuquerque",
+      "type": "interior"
+    },
+    {
+      "url": "/images/braga-franco-and-albuquerque-vila madalena/prato.jpg",
+      "alt": "Prato especial do Braga, Franco and Albuquerque",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Brasileira de São Paulo 2021",
+    "Destaque Gastronômico - Revista Gourmet 2020"
+  ],
+  "events": [
+    "Menu Degustação",
+    "Noites de Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções sem Glúten",
+    "Opções Vegetarianas"
+  ]
+}

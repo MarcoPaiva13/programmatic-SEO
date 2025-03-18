@@ -1,0 +1,149 @@
+{
+  "id": "batista-eireli-centro",
+  "name": "Batista EIRELI",
+  "slug": "batista-eireli-centro",
+  "city": "Curitiba",
+  "neighborhood": "Centro",
+  "state": "PR",
+  "address": {
+    "street": "Pereira Alameda",
+    "number": "9538",
+    "zipCode": "80058-485",
+    "coordinates": {
+      "latitude": -25.429,
+      "longitude": -49.274
+    }
+  },
+  "cuisine": [
+    "Italiana"
+  ],
+  "specialties": [
+    "Pasta",
+    "Risotto",
+    "Pizza"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": false,
+  "phone": "(44) 5472-0372",
+  "website": "https://www.batista-eireli-centro.com.br",
+  "socialMedia": {
+    "instagram": "@batistaeirelicentro",
+    "facebook": "batistaeirelicentro"
+  },
+  "rating": 4.4,
+  "reviewCount": 373,
+  "ambience": [
+    "Familiar",
+    "Tradicional"
+  ],
+  "features": [
+    "Ar Condicionado",
+    "Acessibilidade",
+    "Wi-Fi"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1994,
+    "founder": "Maria Helena Carvalho",
+    "story": "Sunt omnis voluptatum quisquam ut laboriosam. Et ea autem. Suscipit voluptatum id cumque. Laudantium placeat nesciunt ut possimus. Adipisci autem laborum error reprehenderit ipsum excepturi atque fuga. Accusantium blanditiis dolore provident quaerat sunt et ea explicabo."
+  },
+  "chef": {
+    "name": "Valentina Pereira",
+    "background": "Quo maxime ex."
+  },
+  "keywords": [
+    "italiana",
+    "centro",
+    "curitiba"
+  ],
+  "nearbyAttractions": [
+    "Shopping",
+    "Museu",
+    "Teatro"
+  ],
+  "relatedQueries": [
+    "melhor restaurante italiana em curitiba",
+    "italiana em centro",
+    "restaurante italiana tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/batista-eireli-centro/fachada.jpg",
+      "alt": "Fachada do Batista EIRELI em Centro",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/batista-eireli-centro/interior.jpg",
+      "alt": "Ambiente interno do Batista EIRELI",
+      "type": "interior"
+    },
+    {
+      "url": "/images/batista-eireli-centro/prato.jpg",
+      "alt": "Prato especial do Batista EIRELI",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Spaghetti alla Carbonara",
+      "preco": 58,
+      "descricao": "Massa fresca com molho cremoso de ovos, queijo pecorino e pancetta",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Risotto ai Funghi",
+      "preco": 65,
+      "descricao": "Arroz arbóreo com mix de cogumelos frescos e parmesão",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Pizza Margherita",
+      "preco": 45,
+      "descricao": "Pizza tradicional com molho de tomate, mussarela e manjericão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Italiana de Curitiba 2022",
+    "Destaque Gastronômico - Revista Gourmet 2021"
+  ],
+  "events": [
+    "Festival Gastronômico",
+    "Happy Hour Especial"
+  ],
+  "dietaryOptions": [
+    "Opções sem Glúten",
+    "Opções Veganas"
+  ]
+}

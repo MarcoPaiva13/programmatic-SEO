@@ -1,0 +1,149 @@
+{
+  "id": "braga-s-a--botafogo",
+  "name": "Braga S.A.",
+  "slug": "braga-s-a--botafogo",
+  "city": "Rio de Janeiro",
+  "neighborhood": "Botafogo",
+  "state": "RJ",
+  "address": {
+    "street": "Pablo Avenida",
+    "number": "7784",
+    "zipCode": "19394-580",
+    "coordinates": {
+      "latitude": -22.907,
+      "longitude": -43.173
+    }
+  },
+  "cuisine": [
+    "Italiana"
+  ],
+  "specialties": [
+    "Pizza",
+    "Tiramisu",
+    "Pasta"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": false,
+  "phone": "(84) 7920-9145",
+  "website": "https://www.braga-s-a--botafogo.com.br",
+  "socialMedia": {
+    "instagram": "@bragasabotafogo",
+    "facebook": "bragasabotafogo"
+  },
+  "rating": 3.9,
+  "reviewCount": 104,
+  "ambience": [
+    "Familiar",
+    "Casual Elegante"
+  ],
+  "features": [
+    "Ar Condicionado",
+    "Acessibilidade",
+    "Wi-Fi"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1987,
+    "founder": "Giovanna Santos",
+    "story": "Esse quo quas. Cumque reprehenderit aspernatur itaque. Alias rerum ut voluptas molestias accusantium. Ad qui asperiores iste id rerum placeat. Illo quia dolores delectus neque omnis in cupiditate porro. Enim labore aut laboriosam est culpa eum in et in."
+  },
+  "chef": {
+    "name": "Lara Franco",
+    "background": "Fugiat modi nobis qui aut non blanditiis."
+  },
+  "keywords": [
+    "italiana",
+    "botafogo",
+    "rio de janeiro"
+  ],
+  "nearbyAttractions": [
+    "Parque",
+    "Centro Comercial",
+    "Teatro"
+  ],
+  "relatedQueries": [
+    "melhor restaurante italiana em rio de janeiro",
+    "italiana em botafogo",
+    "restaurante italiana tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/braga-s-a--botafogo/fachada.jpg",
+      "alt": "Fachada do Braga S.A. em Botafogo",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/braga-s-a--botafogo/interior.jpg",
+      "alt": "Ambiente interno do Braga S.A.",
+      "type": "interior"
+    },
+    {
+      "url": "/images/braga-s-a--botafogo/prato.jpg",
+      "alt": "Prato especial do Braga S.A.",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Spaghetti alla Carbonara",
+      "preco": 58,
+      "descricao": "Massa fresca com molho cremoso de ovos, queijo pecorino e pancetta",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Risotto ai Funghi",
+      "preco": 65,
+      "descricao": "Arroz arbóreo com mix de cogumelos frescos e parmesão",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Pizza Margherita",
+      "preco": 45,
+      "descricao": "Pizza tradicional com molho de tomate, mussarela e manjericão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Italiana de Rio de Janeiro 2021",
+    "Destaque Gastronômico - Revista Gourmet 2018"
+  ],
+  "events": [
+    "Festival Gastronômico",
+    "Noites de Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções Vegetarianas"
+  ]
+}

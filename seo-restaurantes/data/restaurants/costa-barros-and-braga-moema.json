@@ -1,0 +1,149 @@
+{
+  "id": "costa-barros-and-braga-moema",
+  "name": "Costa, Barros and Braga",
+  "slug": "costa-barros-and-braga-moema",
+  "city": "São Paulo",
+  "neighborhood": "Moema",
+  "state": "SP",
+  "address": {
+    "street": "Antonella Travessa",
+    "number": "205",
+    "zipCode": "93522-847",
+    "coordinates": {
+      "latitude": -23.561,
+      "longitude": -46.635
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Feijoada",
+    "Acarajé",
+    "Churrasco"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": false,
+  "delivery": false,
+  "takeout": true,
+  "phone": "(04) 5393-5615",
+  "website": "https://www.costa-barros-and-braga-moema.com.br",
+  "socialMedia": {
+    "instagram": "@costabarrosandbragamoema",
+    "facebook": "costabarrosandbragamoema"
+  },
+  "rating": 4.5,
+  "reviewCount": 269,
+  "ambience": [
+    "Romântico",
+    "Tradicional"
+  ],
+  "features": [
+    "Bar",
+    "Ar Condicionado",
+    "Terraço"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2010,
+    "founder": "Helena Martins",
+    "story": "Quidem at reprehenderit et molestiae incidunt iste. Saepe sunt et aut. Officia quia sit dolorum ut molestiae. Sit nihil mollitia nihil illum exercitationem."
+  },
+  "chef": {
+    "name": "Dra. Sophia Barros",
+    "background": "Commodi reprehenderit aperiam et nam quaerat nam laudantium dicta nostrum."
+  },
+  "keywords": [
+    "brasileira",
+    "moema",
+    "são paulo"
+  ],
+  "nearbyAttractions": [
+    "Centro Comercial",
+    "Teatro",
+    "Shopping"
+  ],
+  "relatedQueries": [
+    "melhor restaurante brasileira em são paulo",
+    "brasileira em moema",
+    "restaurante brasileira tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/costa-barros-and-braga-moema/fachada.jpg",
+      "alt": "Fachada do Costa, Barros and Braga em Moema",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/costa-barros-and-braga-moema/interior.jpg",
+      "alt": "Ambiente interno do Costa, Barros and Braga",
+      "type": "interior"
+    },
+    {
+      "url": "/images/costa-barros-and-braga-moema/prato.jpg",
+      "alt": "Prato especial do Costa, Barros and Braga",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2019",
+    "Melhor Restaurante Brasileira de São Paulo 2018"
+  ],
+  "events": [
+    "Noites de Degustação",
+    "Happy Hour Especial"
+  ],
+  "dietaryOptions": [
+    "Opções sem Glúten",
+    "Opções Vegetarianas"
+  ]
+}

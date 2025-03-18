@@ -1,0 +1,149 @@
+{
+  "id": "souza-eireli-pinheiros",
+  "name": "Souza EIRELI",
+  "slug": "souza-eireli-pinheiros",
+  "city": "São Paulo",
+  "neighborhood": "Pinheiros",
+  "state": "SP",
+  "address": {
+    "street": "Saraiva Rua",
+    "number": "6508",
+    "zipCode": "33833-817",
+    "coordinates": {
+      "latitude": -23.552,
+      "longitude": -46.636
+    }
+  },
+  "cuisine": [
+    "Italiana"
+  ],
+  "specialties": [
+    "Risotto",
+    "Pasta",
+    "Ravioli"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": false,
+  "delivery": false,
+  "takeout": false,
+  "phone": "(34) 2855-6608",
+  "website": "https://www.souza-eireli-pinheiros.com.br",
+  "socialMedia": {
+    "instagram": "@souzaeirelipinheiros",
+    "facebook": "souzaeirelipinheiros"
+  },
+  "rating": 3.5,
+  "reviewCount": 333,
+  "ambience": [
+    "Casual Elegante",
+    "Romântico"
+  ],
+  "features": [
+    "Ar Condicionado",
+    "Terraço",
+    "Bar"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1985,
+    "founder": "Vicente Saraiva Filho",
+    "story": "Quo inventore temporibus ea totam quia. Eveniet temporibus iure earum sunt amet id molestiae cumque. Fugit non iste voluptates."
+  },
+  "chef": {
+    "name": "Marcela Macedo",
+    "background": "Maiores ut aut corporis fugiat."
+  },
+  "keywords": [
+    "italiana",
+    "pinheiros",
+    "são paulo"
+  ],
+  "nearbyAttractions": [
+    "Centro Comercial",
+    "Parque",
+    "Teatro"
+  ],
+  "relatedQueries": [
+    "restaurante italiana tradicional",
+    "melhor restaurante italiana em são paulo",
+    "italiana em pinheiros"
+  ],
+  "images": [
+    {
+      "url": "/images/souza-eireli-pinheiros/fachada.jpg",
+      "alt": "Fachada do Souza EIRELI em Pinheiros",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/souza-eireli-pinheiros/interior.jpg",
+      "alt": "Ambiente interno do Souza EIRELI",
+      "type": "interior"
+    },
+    {
+      "url": "/images/souza-eireli-pinheiros/prato.jpg",
+      "alt": "Prato especial do Souza EIRELI",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Spaghetti alla Carbonara",
+      "preco": 58,
+      "descricao": "Massa fresca com molho cremoso de ovos, queijo pecorino e pancetta",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Risotto ai Funghi",
+      "preco": 65,
+      "descricao": "Arroz arbóreo com mix de cogumelos frescos e parmesão",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Pizza Margherita",
+      "preco": 45,
+      "descricao": "Pizza tradicional com molho de tomate, mussarela e manjericão",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Italiana de São Paulo 2022",
+    "Destaque Gastronômico - Revista Gourmet 2018"
+  ],
+  "events": [
+    "Noites de Degustação",
+    "Happy Hour Especial"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções sem Glúten"
+  ]
+}

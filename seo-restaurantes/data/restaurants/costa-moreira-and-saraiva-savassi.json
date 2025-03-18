@@ -1,0 +1,149 @@
+{
+  "id": "costa-moreira-and-saraiva-savassi",
+  "name": "Costa, Moreira and Saraiva",
+  "slug": "costa-moreira-and-saraiva-savassi",
+  "city": "Belo Horizonte",
+  "neighborhood": "Savassi",
+  "state": "MG",
+  "address": {
+    "street": "Souza Rua",
+    "number": "1427",
+    "zipCode": "33637-082",
+    "coordinates": {
+      "latitude": -19.917,
+      "longitude": -43.935
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Churrasco",
+    "Moqueca",
+    "Acarajé"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": true,
+  "delivery": false,
+  "takeout": false,
+  "phone": "(89) 3250-1575",
+  "website": "https://www.costa-moreira-and-saraiva-savassi.com.br",
+  "socialMedia": {
+    "instagram": "@costamoreiraandsaraivasavassi",
+    "facebook": "costamoreiraandsaraivasavassi"
+  },
+  "rating": 4.8,
+  "reviewCount": 334,
+  "ambience": [
+    "Familiar",
+    "Casual Elegante"
+  ],
+  "features": [
+    "Acessibilidade",
+    "Ar Condicionado",
+    "Bar"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2007,
+    "founder": "Lavínia Melo",
+    "story": "Enim odit animi et officia corporis corporis iusto. Ut qui assumenda sed vel ut. Sed quam iste inventore vitae recusandae nobis aliquid debitis temporibus. Provident quia velit dignissimos magni sit. Ad id sed eaque saepe sit sunt officia rerum."
+  },
+  "chef": {
+    "name": "Ricardo Souza Neto",
+    "background": "Dignissimos ullam ad ut impedit dolores alias natus quam enim."
+  },
+  "keywords": [
+    "brasileira",
+    "savassi",
+    "belo horizonte"
+  ],
+  "nearbyAttractions": [
+    "Museu",
+    "Parque",
+    "Centro Comercial"
+  ],
+  "relatedQueries": [
+    "brasileira em savassi",
+    "restaurante brasileira tradicional",
+    "melhor restaurante brasileira em belo horizonte"
+  ],
+  "images": [
+    {
+      "url": "/images/costa-moreira-and-saraiva-savassi/fachada.jpg",
+      "alt": "Fachada do Costa, Moreira and Saraiva em Savassi",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/costa-moreira-and-saraiva-savassi/interior.jpg",
+      "alt": "Ambiente interno do Costa, Moreira and Saraiva",
+      "type": "interior"
+    },
+    {
+      "url": "/images/costa-moreira-and-saraiva-savassi/prato.jpg",
+      "alt": "Prato especial do Costa, Moreira and Saraiva",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2021",
+    "Melhor Restaurante Brasileira de Belo Horizonte 2018"
+  ],
+  "events": [
+    "Festival Gastronômico",
+    "Noites de Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções sem Glúten",
+    "Opções Veganas"
+  ]
+}

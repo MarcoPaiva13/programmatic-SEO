@@ -1,0 +1,98 @@
+{
+  "id": "cantina-italiana-jardins",
+  "name": "Cantina Italiana",
+  "slug": "cantina-italiana-jardins",
+  "city": "São Paulo",
+  "neighborhood": "Jardins",
+  "state": "SP",
+  "address": {
+    "street": "Rua Augusta, 1234",
+    "number": "1234",
+    "zipCode": "01305-000",
+    "coordinates": {
+      "latitude": -23.5616,
+      "longitude": -46.6601
+    }
+  },
+  "cuisine": ["Italiana", "Mediterrânea"],
+  "specialties": ["Pasta", "Risotto", "Tiramisu"],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": true,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(11) 3030-4040",
+  "website": "https://www.cantinaitaliana.com.br",
+  "socialMedia": {
+    "instagram": "@cantinaitaliana",
+    "facebook": "cantinaitalianajardins"
+  },
+  "rating": 4.7,
+  "reviewCount": 358,
+  "ambience": ["Romântico", "Familiar", "Casual Elegante"],
+  "features": ["Wi-Fi", "Estacionamento", "Acessibilidade", "Ar Condicionado"],
+  "paymentOptions": ["Crédito", "Débito", "Dinheiro", "Pix"],
+  "establishment": {
+    "foundedYear": 1987,
+    "founder": "Giuseppe Rossi",
+    "story": "Fundada pelo imigrante italiano Giuseppe Rossi, a Cantina Italiana mantém receitas tradicionais trazidas da região da Toscana há mais de três gerações."
+  },
+  "chef": {
+    "name": "Marco Rossi",
+    "background": "Chef formado pelo Instituto Culinário de Florença, com passagens por restaurantes estrelados na Itália e França."
+  },
+  "keywords": ["restaurante italiano", "cantina", "pasta caseira", "jardins", "são paulo", "gastronomia italiana"],
+  "nearbyAttractions": ["Parque Ibirapuera", "Avenida Paulista", "Shopping Iguatemi"],
+  "relatedQueries": ["melhor restaurante italiano em são paulo", "cantina tradicional", "pasta artesanal"],
+  "images": [
+    {
+      "url": "/images/cantina-italiana/fachada.jpg",
+      "alt": "Fachada da Cantina Italiana nos Jardins",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/cantina-italiana/interior.jpg",
+      "alt": "Ambiente aconchegante com decoração típica italiana",
+      "type": "interior"
+    },
+    {
+      "url": "/images/cantina-italiana/pasta.jpg",
+      "alt": "Prato de pasta fresca com molho pomodoro",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "name": "Spaghetti alla Carbonara",
+      "description": "Massa fresca servida com molho cremoso de ovos, queijo pecorino, pimenta preta e pancetta crocante",
+      "price": 58.00,
+      "ingredients": ["Massa artesanal", "Pancetta", "Ovos", "Queijo Pecorino"],
+      "isSignatureDish": true
+    },
+    {
+      "name": "Risotto ai Funghi",
+      "description": "Arroz arbóreo preparado lentamente com mix de cogumelos frescos, manteiga, vinho branco e finalizado com parmesão",
+      "price": 65.00,
+      "ingredients": ["Arroz Arbóreo", "Cogumelos", "Vinho Branco", "Parmesão"],
+      "isSignatureDish": false
+    },
+    {
+      "name": "Tiramisu Tradicional",
+      "description": "Sobremesa clássica italiana com camadas de biscoito savoiardi embebido em café, creme de mascarpone e cacau em pó",
+      "price": 32.00,
+      "ingredients": ["Mascarpone", "Café", "Biscoito Savoiardi", "Cacau"],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": ["Melhor Restaurante Italiano de São Paulo 2022", "Destaque Gastronômico - Revista Gourmet 2021"],
+  "events": ["Noites de Degustação de Vinhos (quintas-feiras)", "Festival de Trufas (sazonal)"],
+  "dietaryOptions": ["Opções Vegetarianas", "Opções sem Glúten"]
+} 

@@ -1,0 +1,149 @@
+{
+  "id": "melo-e-associados-tristeza",
+  "name": "Melo e Associados",
+  "slug": "melo-e-associados-tristeza",
+  "city": "Porto Alegre",
+  "neighborhood": "Tristeza",
+  "state": "RS",
+  "address": {
+    "street": "Carvalho Marginal",
+    "number": "5902",
+    "zipCode": "63369-848",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Yakisoba",
+    "Sushi",
+    "Temaki"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": false,
+  "phone": "(49) 2516-6559",
+  "website": "https://www.melo-e-associados-tristeza.com.br",
+  "socialMedia": {
+    "instagram": "@meloeassociadostristeza",
+    "facebook": "meloeassociadostristeza"
+  },
+  "rating": 3.7,
+  "reviewCount": 330,
+  "ambience": [
+    "Casual Elegante",
+    "Romântico"
+  ],
+  "features": [
+    "Bar",
+    "Acessibilidade",
+    "Terraço"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1988,
+    "founder": "Calebe Moreira",
+    "story": "Magnam et nulla animi. Sit itaque reprehenderit soluta quisquam sit ab voluptatem. Magnam molestias eos laborum sunt. Neque culpa ea ab culpa. Facere maxime beatae numquam nam est aut non quo blanditiis."
+  },
+  "chef": {
+    "name": "Sra. Sílvia Moreira",
+    "background": "Sint ipsam similique quo dolore nihil."
+  },
+  "keywords": [
+    "japonesa",
+    "tristeza",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Teatro",
+    "Museu",
+    "Shopping"
+  ],
+  "relatedQueries": [
+    "japonesa em tristeza",
+    "melhor restaurante japonesa em porto alegre",
+    "restaurante japonesa tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/melo-e-associados-tristeza/fachada.jpg",
+      "alt": "Fachada do Melo e Associados em Tristeza",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/melo-e-associados-tristeza/interior.jpg",
+      "alt": "Ambiente interno do Melo e Associados",
+      "type": "interior"
+    },
+    {
+      "url": "/images/melo-e-associados-tristeza/prato.jpg",
+      "alt": "Prato especial do Melo e Associados",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2019",
+    "Melhor Restaurante Japonesa de Porto Alegre 2019"
+  ],
+  "events": [
+    "Noites de Degustação",
+    "Menu Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções Veganas"
+  ]
+}

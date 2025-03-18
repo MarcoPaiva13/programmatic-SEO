@@ -1,0 +1,149 @@
+{
+  "id": "macedo-martins-botafogo",
+  "name": "Macedo - Martins",
+  "slug": "macedo-martins-botafogo",
+  "city": "Rio de Janeiro",
+  "neighborhood": "Botafogo",
+  "state": "RJ",
+  "address": {
+    "street": "Benjamin Rua",
+    "number": "7059",
+    "zipCode": "62207-283",
+    "coordinates": {
+      "latitude": -22.907,
+      "longitude": -43.173
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Temaki",
+    "Tempura",
+    "Yakisoba"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": true,
+  "delivery": false,
+  "takeout": true,
+  "phone": "(85) 6859-1145",
+  "website": "https://www.macedo-martins-botafogo.com.br",
+  "socialMedia": {
+    "instagram": "@macedomartinsbotafogo",
+    "facebook": "macedomartinsbotafogo"
+  },
+  "rating": 3.7,
+  "reviewCount": 89,
+  "ambience": [
+    "Tradicional",
+    "Casual Elegante"
+  ],
+  "features": [
+    "Ar Condicionado",
+    "Bar",
+    "Estacionamento"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1981,
+    "founder": "Margarida Silva",
+    "story": "Ab tempore consequuntur eum qui voluptatem sed laborum enim rerum. Laborum itaque labore voluptatum eum occaecati voluptates esse omnis officiis. Enim molestiae assumenda assumenda voluptates est. Suscipit possimus dolor aut ut accusamus et quas."
+  },
+  "chef": {
+    "name": "Dra. Noah Martins",
+    "background": "At vel quas nisi quibusdam et rerum quia odit voluptas."
+  },
+  "keywords": [
+    "japonesa",
+    "botafogo",
+    "rio de janeiro"
+  ],
+  "nearbyAttractions": [
+    "Centro Comercial",
+    "Shopping",
+    "Teatro"
+  ],
+  "relatedQueries": [
+    "melhor restaurante japonesa em rio de janeiro",
+    "japonesa em botafogo",
+    "restaurante japonesa tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/macedo-martins-botafogo/fachada.jpg",
+      "alt": "Fachada do Macedo - Martins em Botafogo",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/macedo-martins-botafogo/interior.jpg",
+      "alt": "Ambiente interno do Macedo - Martins",
+      "type": "interior"
+    },
+    {
+      "url": "/images/macedo-martins-botafogo/prato.jpg",
+      "alt": "Prato especial do Macedo - Martins",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2019",
+    "Melhor Restaurante Japonesa de Rio de Janeiro 2022"
+  ],
+  "events": [
+    "Menu Degustação",
+    "Noites de Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções sem Glúten"
+  ]
+}

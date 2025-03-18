@@ -1,0 +1,149 @@
+{
+  "id": "moreira-costa-savassi",
+  "name": "Moreira - Costa",
+  "slug": "moreira-costa-savassi",
+  "city": "Belo Horizonte",
+  "neighborhood": "Savassi",
+  "state": "MG",
+  "address": {
+    "street": "Heloísa Avenida",
+    "number": "1329",
+    "zipCode": "47941-627",
+    "coordinates": {
+      "latitude": -19.917,
+      "longitude": -43.935
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Churrasco",
+    "Feijoada",
+    "Moqueca"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": false,
+  "delivery": false,
+  "takeout": false,
+  "phone": "(12) 1236-9752",
+  "website": "https://www.moreira-costa-savassi.com.br",
+  "socialMedia": {
+    "instagram": "@moreiracostasavassi",
+    "facebook": "moreiracostasavassi"
+  },
+  "rating": 4.8,
+  "reviewCount": 389,
+  "ambience": [
+    "Tradicional",
+    "Familiar"
+  ],
+  "features": [
+    "Bar",
+    "Wi-Fi",
+    "Estacionamento"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2002,
+    "founder": "Feliciano Moreira",
+    "story": "Et voluptatem fugit vel. Enim quaerat in quibusdam. Natus adipisci debitis et autem et quam eligendi. Et accusantium qui architecto sed."
+  },
+  "chef": {
+    "name": "Pietro Reis",
+    "background": "Sit culpa quia ipsam aliquam et occaecati ipsum rem."
+  },
+  "keywords": [
+    "brasileira",
+    "savassi",
+    "belo horizonte"
+  ],
+  "nearbyAttractions": [
+    "Museu",
+    "Centro Comercial",
+    "Shopping"
+  ],
+  "relatedQueries": [
+    "melhor restaurante brasileira em belo horizonte",
+    "restaurante brasileira tradicional",
+    "brasileira em savassi"
+  ],
+  "images": [
+    {
+      "url": "/images/moreira-costa-savassi/fachada.jpg",
+      "alt": "Fachada do Moreira - Costa em Savassi",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/moreira-costa-savassi/interior.jpg",
+      "alt": "Ambiente interno do Moreira - Costa",
+      "type": "interior"
+    },
+    {
+      "url": "/images/moreira-costa-savassi/prato.jpg",
+      "alt": "Prato especial do Moreira - Costa",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Brasileira de Belo Horizonte 2018",
+    "Destaque Gastronômico - Revista Gourmet 2018"
+  ],
+  "events": [
+    "Menu Degustação",
+    "Festival Gastronômico"
+  ],
+  "dietaryOptions": [
+    "Opções sem Glúten",
+    "Opções Vegetarianas"
+  ]
+}

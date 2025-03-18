@@ -1,0 +1,149 @@
+{
+  "id": "carvalho-souza-boa vista",
+  "name": "Carvalho - Souza",
+  "slug": "carvalho-souza-boa vista",
+  "city": "Porto Alegre",
+  "neighborhood": "Boa Vista",
+  "state": "RS",
+  "address": {
+    "street": "Lara Marginal",
+    "number": "8042",
+    "zipCode": "79220-937",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Italiana"
+  ],
+  "specialties": [
+    "Ravioli",
+    "Pizza",
+    "Risotto"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": true,
+  "delivery": false,
+  "takeout": true,
+  "phone": "(80) 6615-5902",
+  "website": "https://www.carvalho-souza-boa vista.com.br",
+  "socialMedia": {
+    "instagram": "@carvalhosouzaboa vista",
+    "facebook": "carvalhosouzaboa vista"
+  },
+  "rating": 3.9,
+  "reviewCount": 127,
+  "ambience": [
+    "Familiar",
+    "Tradicional"
+  ],
+  "features": [
+    "Terraço",
+    "Estacionamento",
+    "Wi-Fi"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1982,
+    "founder": "Gustavo Martins",
+    "story": "Mollitia voluptate velit labore eum ut. Aut ad unde amet. Labore dolores similique exercitationem et. Beatae autem vitae voluptatem eius aliquam."
+  },
+  "chef": {
+    "name": "Ana Laura Melo",
+    "background": "Vel placeat quidem sit tempore quasi doloribus necessitatibus sed."
+  },
+  "keywords": [
+    "italiana",
+    "boa vista",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Museu",
+    "Centro Comercial",
+    "Shopping"
+  ],
+  "relatedQueries": [
+    "melhor restaurante italiana em porto alegre",
+    "italiana em boa vista",
+    "restaurante italiana tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/carvalho-souza-boa vista/fachada.jpg",
+      "alt": "Fachada do Carvalho - Souza em Boa Vista",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/carvalho-souza-boa vista/interior.jpg",
+      "alt": "Ambiente interno do Carvalho - Souza",
+      "type": "interior"
+    },
+    {
+      "url": "/images/carvalho-souza-boa vista/prato.jpg",
+      "alt": "Prato especial do Carvalho - Souza",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Spaghetti alla Carbonara",
+      "preco": 58,
+      "descricao": "Massa fresca com molho cremoso de ovos, queijo pecorino e pancetta",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Risotto ai Funghi",
+      "preco": 65,
+      "descricao": "Arroz arbóreo com mix de cogumelos frescos e parmesão",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Pizza Margherita",
+      "preco": 45,
+      "descricao": "Pizza tradicional com molho de tomate, mussarela e manjericão",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2020",
+    "Melhor Restaurante Italiana de Porto Alegre 2022"
+  ],
+  "events": [
+    "Menu Degustação",
+    "Happy Hour Especial"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções Vegetarianas"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "braga-ltda-moema",
+  "name": "Braga LTDA",
+  "slug": "braga-ltda-moema",
+  "city": "São Paulo",
+  "neighborhood": "Moema",
+  "state": "SP",
+  "address": {
+    "street": "Tertuliano Rua",
+    "number": "1623",
+    "zipCode": "74734-525",
+    "coordinates": {
+      "latitude": -23.553,
+      "longitude": -46.634
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Tempura",
+    "Temaki",
+    "Sushi"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": false,
+  "phone": "(81) 0825-9861",
+  "website": "https://www.braga-ltda-moema.com.br",
+  "socialMedia": {
+    "instagram": "@bragaltdamoema",
+    "facebook": "bragaltdamoema"
+  },
+  "rating": 4.1,
+  "reviewCount": 346,
+  "ambience": [
+    "Romântico",
+    "Moderno"
+  ],
+  "features": [
+    "Terraço",
+    "Wi-Fi",
+    "Bar"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2011,
+    "founder": "Dra. Helena Braga",
+    "story": "Autem amet nulla aut optio amet error hic blanditiis. Laudantium deleniti quibusdam voluptatibus neque. Itaque eveniet et consequatur explicabo est voluptas a ipsa quo. Ut repellat et et fugit soluta. Eaque harum vel nostrum doloremque dolorem nobis quas sit aperiam."
+  },
+  "chef": {
+    "name": "Sra. Lorenzo Albuquerque",
+    "background": "Deserunt recusandae sit."
+  },
+  "keywords": [
+    "japonesa",
+    "moema",
+    "são paulo"
+  ],
+  "nearbyAttractions": [
+    "Shopping",
+    "Parque",
+    "Centro Comercial"
+  ],
+  "relatedQueries": [
+    "restaurante japonesa tradicional",
+    "melhor restaurante japonesa em são paulo",
+    "japonesa em moema"
+  ],
+  "images": [
+    {
+      "url": "/images/braga-ltda-moema/fachada.jpg",
+      "alt": "Fachada do Braga LTDA em Moema",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/braga-ltda-moema/interior.jpg",
+      "alt": "Ambiente interno do Braga LTDA",
+      "type": "interior"
+    },
+    {
+      "url": "/images/braga-ltda-moema/prato.jpg",
+      "alt": "Prato especial do Braga LTDA",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Japonesa de São Paulo 2023",
+    "Destaque Gastronômico - Revista Gourmet 2021"
+  ],
+  "events": [
+    "Menu Degustação",
+    "Festival Gastronômico"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções Veganas"
+  ]
+}

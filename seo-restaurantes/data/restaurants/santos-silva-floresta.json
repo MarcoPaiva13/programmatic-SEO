@@ -1,0 +1,149 @@
+{
+  "id": "santos-silva-floresta",
+  "name": "Santos - Silva",
+  "slug": "santos-silva-floresta",
+  "city": "Porto Alegre",
+  "neighborhood": "Floresta",
+  "state": "RS",
+  "address": {
+    "street": "Silva Travessa",
+    "number": "8103",
+    "zipCode": "05502-764",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Pão de Queijo",
+    "Acarajé",
+    "Feijoada"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": true,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(22) 4004-0143",
+  "website": "https://www.santos-silva-floresta.com.br",
+  "socialMedia": {
+    "instagram": "@santossilvafloresta",
+    "facebook": "santossilvafloresta"
+  },
+  "rating": 4.2,
+  "reviewCount": 230,
+  "ambience": [
+    "Familiar",
+    "Casual Elegante"
+  ],
+  "features": [
+    "Wi-Fi",
+    "Acessibilidade",
+    "Bar"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1993,
+    "founder": "Kléber Nogueira",
+    "story": "Eveniet praesentium illo aliquam hic magni. Possimus labore et omnis ea aliquid sapiente sit repudiandae. Labore ipsa nihil iste qui autem omnis id dicta."
+  },
+  "chef": {
+    "name": "Margarida Silva",
+    "background": "Itaque animi vel quam totam."
+  },
+  "keywords": [
+    "brasileira",
+    "floresta",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Centro Comercial",
+    "Museu",
+    "Parque"
+  ],
+  "relatedQueries": [
+    "brasileira em floresta",
+    "restaurante brasileira tradicional",
+    "melhor restaurante brasileira em porto alegre"
+  ],
+  "images": [
+    {
+      "url": "/images/santos-silva-floresta/fachada.jpg",
+      "alt": "Fachada do Santos - Silva em Floresta",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/santos-silva-floresta/interior.jpg",
+      "alt": "Ambiente interno do Santos - Silva",
+      "type": "interior"
+    },
+    {
+      "url": "/images/santos-silva-floresta/prato.jpg",
+      "alt": "Prato especial do Santos - Silva",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2023",
+    "Melhor Restaurante Brasileira de Porto Alegre 2021"
+  ],
+  "events": [
+    "Noites de Degustação",
+    "Festival Gastronômico"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções Vegetarianas"
+  ]
+}

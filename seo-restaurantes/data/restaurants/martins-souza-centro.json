@@ -1,0 +1,149 @@
+{
+  "id": "martins-souza-centro",
+  "name": "Martins - Souza",
+  "slug": "martins-souza-centro",
+  "city": "Porto Alegre",
+  "neighborhood": "Centro",
+  "state": "RS",
+  "address": {
+    "street": "Carvalho Marginal",
+    "number": "1384",
+    "zipCode": "47134-838",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Italiana"
+  ],
+  "specialties": [
+    "Ravioli",
+    "Risotto",
+    "Pasta"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": false,
+  "phone": "(14) 0803-0634",
+  "website": "https://www.martins-souza-centro.com.br",
+  "socialMedia": {
+    "instagram": "@martinssouzacentro",
+    "facebook": "martinssouzacentro"
+  },
+  "rating": 4.1,
+  "reviewCount": 234,
+  "ambience": [
+    "Tradicional",
+    "Moderno"
+  ],
+  "features": [
+    "Terraço",
+    "Ar Condicionado",
+    "Estacionamento"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2020,
+    "founder": "Ana Luiza Moraes",
+    "story": "In ex non officiis ea consectetur itaque dolorem. Soluta natus autem aut dolorem quidem quasi. Cumque exercitationem corrupti sed cum at quo repellendus nesciunt similique. In in possimus quasi. Quaerat in commodi officia dolore voluptas laborum. Distinctio asperiores eos in numquam."
+  },
+  "chef": {
+    "name": "Maria Nogueira",
+    "background": "Quos alias et excepturi provident qui dicta repudiandae officiis quia."
+  },
+  "keywords": [
+    "italiana",
+    "centro",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Museu",
+    "Parque",
+    "Centro Comercial"
+  ],
+  "relatedQueries": [
+    "italiana em centro",
+    "melhor restaurante italiana em porto alegre",
+    "restaurante italiana tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/martins-souza-centro/fachada.jpg",
+      "alt": "Fachada do Martins - Souza em Centro",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/martins-souza-centro/interior.jpg",
+      "alt": "Ambiente interno do Martins - Souza",
+      "type": "interior"
+    },
+    {
+      "url": "/images/martins-souza-centro/prato.jpg",
+      "alt": "Prato especial do Martins - Souza",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Spaghetti alla Carbonara",
+      "preco": 58,
+      "descricao": "Massa fresca com molho cremoso de ovos, queijo pecorino e pancetta",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Risotto ai Funghi",
+      "preco": 65,
+      "descricao": "Arroz arbóreo com mix de cogumelos frescos e parmesão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Pizza Margherita",
+      "preco": 45,
+      "descricao": "Pizza tradicional com molho de tomate, mussarela e manjericão",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2021",
+    "Melhor Restaurante Italiana de Porto Alegre 2020"
+  ],
+  "events": [
+    "Noites de Degustação",
+    "Menu Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções Veganas"
+  ]
+}

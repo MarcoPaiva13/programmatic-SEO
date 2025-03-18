@@ -1,0 +1,226 @@
+/* styles/SEODashboard.module.css */
+.dashboardContainer {
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+}
+
+.dashboardHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.dashboardHeader h1 {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: #212529;
+}
+
+.dateRangeSelector {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.dateRangeSelector span {
+  font-weight: 500;
+  color: #495057;
+}
+
+.dateRangeSelector select {
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  border: 1px solid #ced4da;
+  background-color: white;
+  font-size: 0.9rem;
+  color: #212529;
+  cursor: pointer;
+}
+
+.dashboardContent {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.dashboardSection {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  padding: 1.5rem;
+}
+
+.dashboardSection h2 {
+  margin: 0 0 1.5rem 0;
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #343a40;
+  border-bottom: 1px solid #e9ecef;
+  padding-bottom: 0.75rem;
+}
+
+.metricsRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.metricsRow:last-child {
+  margin-bottom: 0;
+}
+
+.metricCard {
+  flex: 1;
+  min-width: 300px;
+  background-color: #f8f9fa;
+  border-radius: 6px;
+  padding: 1.25rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.metricCard h3 {
+  margin: 0 0 1rem 0;
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: #495057;
+  text-align: center;
+}
+
+.chartContainer {
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.metricSummary {
+  margin-top: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 0.5rem;
+}
+
+.metricSummary p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #6c757d;
+}
+
+.goodMetric {
+  color: #198754 !important;
+  font-weight: 500;
+}
+
+.needsImprovementMetric {
+  color: #ffc107 !important;
+  font-weight: 500;
+}
+
+.poorMetric {
+  color: #dc3545 !important;
+  font-weight: 500;
+}
+
+.loadingContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 400px;
+  gap: 1rem;
+}
+
+.spinner {
+  width: 48px;
+  height: 48px;
+  border: 5px solid #e9ecef;
+  border-bottom-color: #0d6efd;
+  border-radius: 50%;
+  animation: spinner 1s linear infinite;
+}
+
+@keyframes spinner {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .dashboardHeader {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+  
+  .metricsRow {
+    flex-direction: column;
+  }
+  
+  .metricCard {
+    min-width: 100%;
+  }
+}
+
+/* Modo escuro */
+@media (prefers-color-scheme: dark) {
+  .dashboardContainer {
+    background-color: #212529;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .dashboardHeader h1 {
+    color: #f8f9fa;
+  }
+  
+  .dateRangeSelector span {
+    color: #adb5bd;
+  }
+  
+  .dateRangeSelector select {
+    background-color: #343a40;
+    border-color: #495057;
+    color: #e9ecef;
+  }
+  
+  .dashboardSection {
+    background-color: #343a40;
+  }
+  
+  .dashboardSection h2 {
+    color: #f8f9fa;
+    border-bottom-color: #495057;
+  }
+  
+  .metricCard {
+    background-color: #212529;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  }
+  
+  .metricCard h3 {
+    color: #e9ecef;
+  }
+  
+  .metricSummary p {
+    color: #adb5bd;
+  }
+  
+  .spinner {
+    border-color: #495057;
+    border-bottom-color: #0d6efd;
+  }
+} 

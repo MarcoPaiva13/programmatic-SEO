@@ -1,0 +1,149 @@
+{
+  "id": "franco-eireli-savassi",
+  "name": "Franco EIRELI",
+  "slug": "franco-eireli-savassi",
+  "city": "Belo Horizonte",
+  "neighborhood": "Savassi",
+  "state": "MG",
+  "address": {
+    "street": "Marina Avenida",
+    "number": "8377",
+    "zipCode": "34885-290",
+    "coordinates": {
+      "latitude": -19.917,
+      "longitude": -43.935
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Feijoada",
+    "Acarajé",
+    "Churrasco"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": false,
+  "delivery": false,
+  "takeout": true,
+  "phone": "(38) 6505-2957",
+  "website": "https://www.franco-eireli-savassi.com.br",
+  "socialMedia": {
+    "instagram": "@francoeirelisavassi",
+    "facebook": "francoeirelisavassi"
+  },
+  "rating": 4,
+  "reviewCount": 107,
+  "ambience": [
+    "Tradicional",
+    "Romântico"
+  ],
+  "features": [
+    "Wi-Fi",
+    "Bar",
+    "Estacionamento"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1985,
+    "founder": "Samuel Carvalho",
+    "story": "Consequatur totam mollitia non ut molestiae. Aut voluptatibus reiciendis consequatur cumque velit. Sed laudantium tenetur harum aliquid voluptatem eaque. Accusantium soluta facere dolorem maiores nihil qui."
+  },
+  "chef": {
+    "name": "Janaína Albuquerque",
+    "background": "Earum omnis sint."
+  },
+  "keywords": [
+    "brasileira",
+    "savassi",
+    "belo horizonte"
+  ],
+  "nearbyAttractions": [
+    "Museu",
+    "Shopping",
+    "Parque"
+  ],
+  "relatedQueries": [
+    "brasileira em savassi",
+    "melhor restaurante brasileira em belo horizonte",
+    "restaurante brasileira tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/franco-eireli-savassi/fachada.jpg",
+      "alt": "Fachada do Franco EIRELI em Savassi",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/franco-eireli-savassi/interior.jpg",
+      "alt": "Ambiente interno do Franco EIRELI",
+      "type": "interior"
+    },
+    {
+      "url": "/images/franco-eireli-savassi/prato.jpg",
+      "alt": "Prato especial do Franco EIRELI",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2018",
+    "Melhor Restaurante Brasileira de Belo Horizonte 2021"
+  ],
+  "events": [
+    "Happy Hour Especial",
+    "Menu Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções sem Glúten",
+    "Opções Veganas"
+  ]
+}

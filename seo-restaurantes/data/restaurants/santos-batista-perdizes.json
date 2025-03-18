@@ -1,0 +1,149 @@
+{
+  "id": "santos-batista-perdizes",
+  "name": "Santos - Batista",
+  "slug": "santos-batista-perdizes",
+  "city": "São Paulo",
+  "neighborhood": "Perdizes",
+  "state": "SP",
+  "address": {
+    "street": "Davi Lucca Rua",
+    "number": "157",
+    "zipCode": "71779-129",
+    "coordinates": {
+      "latitude": -23.562,
+      "longitude": -46.634
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Sashimi",
+    "Yakisoba",
+    "Tempura"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": false,
+  "delivery": false,
+  "takeout": true,
+  "phone": "(32) 6897-3871",
+  "website": "https://www.santos-batista-perdizes.com.br",
+  "socialMedia": {
+    "instagram": "@santosbatistaperdizes",
+    "facebook": "santosbatistaperdizes"
+  },
+  "rating": 3.5,
+  "reviewCount": 140,
+  "ambience": [
+    "Moderno",
+    "Romântico"
+  ],
+  "features": [
+    "Estacionamento",
+    "Terraço",
+    "Acessibilidade"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2002,
+    "founder": "Sra. Ígor Oliveira",
+    "story": "Sit quos quas voluptatibus rerum error corrupti aut aut. Eaque consequatur laboriosam distinctio. Facere cupiditate earum in alias expedita dolores nam. Saepe est distinctio aut et voluptas deleniti temporibus provident dicta. Doloremque odit rem eaque eaque velit tempore accusamus quis."
+  },
+  "chef": {
+    "name": "Sra. Karla Carvalho",
+    "background": "Pariatur dolores quo."
+  },
+  "keywords": [
+    "japonesa",
+    "perdizes",
+    "são paulo"
+  ],
+  "nearbyAttractions": [
+    "Centro Comercial",
+    "Shopping",
+    "Parque"
+  ],
+  "relatedQueries": [
+    "restaurante japonesa tradicional",
+    "melhor restaurante japonesa em são paulo",
+    "japonesa em perdizes"
+  ],
+  "images": [
+    {
+      "url": "/images/santos-batista-perdizes/fachada.jpg",
+      "alt": "Fachada do Santos - Batista em Perdizes",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/santos-batista-perdizes/interior.jpg",
+      "alt": "Ambiente interno do Santos - Batista",
+      "type": "interior"
+    },
+    {
+      "url": "/images/santos-batista-perdizes/prato.jpg",
+      "alt": "Prato especial do Santos - Batista",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Japonesa de São Paulo 2020",
+    "Destaque Gastronômico - Revista Gourmet 2019"
+  ],
+  "events": [
+    "Noites de Degustação",
+    "Menu Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções sem Glúten"
+  ]
+}

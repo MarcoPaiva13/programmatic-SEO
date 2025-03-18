@@ -1,0 +1,149 @@
+{
+  "id": "souza-oliveira-and-xavier-bela vista",
+  "name": "Souza, Oliveira and Xavier",
+  "slug": "souza-oliveira-and-xavier-bela vista",
+  "city": "Porto Alegre",
+  "neighborhood": "Bela Vista",
+  "state": "RS",
+  "address": {
+    "street": "Moraes Rodovia",
+    "number": "9720",
+    "zipCode": "60105-322",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Italiana"
+  ],
+  "specialties": [
+    "Pasta",
+    "Pizza",
+    "Tiramisu"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(26) 1922-9387",
+  "website": "https://www.souza-oliveira-and-xavier-bela vista.com.br",
+  "socialMedia": {
+    "instagram": "@souzaoliveiraandxavierbela vista",
+    "facebook": "souzaoliveiraandxavierbela vista"
+  },
+  "rating": 4.7,
+  "reviewCount": 393,
+  "ambience": [
+    "Casual Elegante",
+    "Familiar"
+  ],
+  "features": [
+    "Bar",
+    "Ar Condicionado",
+    "Terraço"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1982,
+    "founder": "Lavínia Carvalho",
+    "story": "Quidem quis qui dicta voluptatem et. Deleniti illo voluptatum molestiae suscipit laboriosam accusamus at dolores. Non et mollitia. Velit ut temporibus aliquid sit unde delectus."
+  },
+  "chef": {
+    "name": "Lorenzo Moreira",
+    "background": "Vel qui quis."
+  },
+  "keywords": [
+    "italiana",
+    "bela vista",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Parque",
+    "Museu",
+    "Teatro"
+  ],
+  "relatedQueries": [
+    "italiana em bela vista",
+    "restaurante italiana tradicional",
+    "melhor restaurante italiana em porto alegre"
+  ],
+  "images": [
+    {
+      "url": "/images/souza-oliveira-and-xavier-bela vista/fachada.jpg",
+      "alt": "Fachada do Souza, Oliveira and Xavier em Bela Vista",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/souza-oliveira-and-xavier-bela vista/interior.jpg",
+      "alt": "Ambiente interno do Souza, Oliveira and Xavier",
+      "type": "interior"
+    },
+    {
+      "url": "/images/souza-oliveira-and-xavier-bela vista/prato.jpg",
+      "alt": "Prato especial do Souza, Oliveira and Xavier",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Spaghetti alla Carbonara",
+      "preco": 58,
+      "descricao": "Massa fresca com molho cremoso de ovos, queijo pecorino e pancetta",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Risotto ai Funghi",
+      "preco": 65,
+      "descricao": "Arroz arbóreo com mix de cogumelos frescos e parmesão",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Pizza Margherita",
+      "preco": 45,
+      "descricao": "Pizza tradicional com molho de tomate, mussarela e manjericão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Italiana de Porto Alegre 2020",
+    "Destaque Gastronômico - Revista Gourmet 2018"
+  ],
+  "events": [
+    "Festival Gastronômico",
+    "Noites de Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções sem Glúten"
+  ]
+}

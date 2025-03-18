@@ -1,0 +1,149 @@
+{
+  "id": "moreira-s-a--flamengo",
+  "name": "Moreira S.A.",
+  "slug": "moreira-s-a--flamengo",
+  "city": "Rio de Janeiro",
+  "neighborhood": "Flamengo",
+  "state": "RJ",
+  "address": {
+    "street": "Martins Avenida",
+    "number": "6780",
+    "zipCode": "90895-915",
+    "coordinates": {
+      "latitude": -22.907,
+      "longitude": -43.173
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Pão de Queijo",
+    "Moqueca",
+    "Acarajé"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(59) 3936-7739",
+  "website": "https://www.moreira-s-a--flamengo.com.br",
+  "socialMedia": {
+    "instagram": "@moreirasaflamengo",
+    "facebook": "moreirasaflamengo"
+  },
+  "rating": 4.5,
+  "reviewCount": 70,
+  "ambience": [
+    "Moderno",
+    "Casual Elegante"
+  ],
+  "features": [
+    "Terraço",
+    "Estacionamento",
+    "Ar Condicionado"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1980,
+    "founder": "Bernardo Albuquerque",
+    "story": "Ratione ut rerum et sint id. Nostrum earum et rerum dolore qui. Autem numquam vel reiciendis nihil quia non asperiores tempora. Et ullam sequi sed doloribus pariatur recusandae modi quaerat ea. Animi voluptatibus blanditiis cupiditate et enim."
+  },
+  "chef": {
+    "name": "Maria Clara Albuquerque",
+    "background": "Tenetur hic quas laudantium enim porro ratione consequatur iusto iure."
+  },
+  "keywords": [
+    "brasileira",
+    "flamengo",
+    "rio de janeiro"
+  ],
+  "nearbyAttractions": [
+    "Parque",
+    "Centro Comercial",
+    "Shopping"
+  ],
+  "relatedQueries": [
+    "restaurante brasileira tradicional",
+    "brasileira em flamengo",
+    "melhor restaurante brasileira em rio de janeiro"
+  ],
+  "images": [
+    {
+      "url": "/images/moreira-s-a--flamengo/fachada.jpg",
+      "alt": "Fachada do Moreira S.A. em Flamengo",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/moreira-s-a--flamengo/interior.jpg",
+      "alt": "Ambiente interno do Moreira S.A.",
+      "type": "interior"
+    },
+    {
+      "url": "/images/moreira-s-a--flamengo/prato.jpg",
+      "alt": "Prato especial do Moreira S.A.",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Brasileira de Rio de Janeiro 2021",
+    "Destaque Gastronômico - Revista Gourmet 2022"
+  ],
+  "events": [
+    "Noites de Degustação",
+    "Festival Gastronômico"
+  ],
+  "dietaryOptions": [
+    "Opções sem Glúten",
+    "Opções Vegetarianas"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "pereira-e-associados-jardins",
+  "name": "Pereira e Associados",
+  "slug": "pereira-e-associados-jardins",
+  "city": "São Paulo",
+  "neighborhood": "Jardins",
+  "state": "SP",
+  "address": {
+    "street": "Batista Rua",
+    "number": "2064",
+    "zipCode": "02503-042",
+    "coordinates": {
+      "latitude": -23.556,
+      "longitude": -46.639
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Churrasco",
+    "Feijoada",
+    "Moqueca"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": true,
+  "delivery": false,
+  "takeout": false,
+  "phone": "(62) 5182-8031",
+  "website": "https://www.pereira-e-associados-jardins.com.br",
+  "socialMedia": {
+    "instagram": "@pereiraeassociadosjardins",
+    "facebook": "pereiraeassociadosjardins"
+  },
+  "rating": 4.1,
+  "reviewCount": 59,
+  "ambience": [
+    "Familiar",
+    "Romântico"
+  ],
+  "features": [
+    "Estacionamento",
+    "Bar",
+    "Acessibilidade"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1989,
+    "founder": "Dr. Esther Moreira",
+    "story": "Nulla inventore magni distinctio magnam unde ipsa perspiciatis aut. Dolorem esse sunt nemo quae architecto. Eaque quisquam nihil. Sed veniam recusandae ex."
+  },
+  "chef": {
+    "name": "Sr. Guilherme Saraiva",
+    "background": "Pariatur rerum ex consequatur qui magnam commodi libero."
+  },
+  "keywords": [
+    "brasileira",
+    "jardins",
+    "são paulo"
+  ],
+  "nearbyAttractions": [
+    "Parque",
+    "Museu",
+    "Teatro"
+  ],
+  "relatedQueries": [
+    "restaurante brasileira tradicional",
+    "melhor restaurante brasileira em são paulo",
+    "brasileira em jardins"
+  ],
+  "images": [
+    {
+      "url": "/images/pereira-e-associados-jardins/fachada.jpg",
+      "alt": "Fachada do Pereira e Associados em Jardins",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/pereira-e-associados-jardins/interior.jpg",
+      "alt": "Ambiente interno do Pereira e Associados",
+      "type": "interior"
+    },
+    {
+      "url": "/images/pereira-e-associados-jardins/prato.jpg",
+      "alt": "Prato especial do Pereira e Associados",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2022",
+    "Melhor Restaurante Brasileira de São Paulo 2019"
+  ],
+  "events": [
+    "Festival Gastronômico",
+    "Menu Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções sem Glúten"
+  ]
+}

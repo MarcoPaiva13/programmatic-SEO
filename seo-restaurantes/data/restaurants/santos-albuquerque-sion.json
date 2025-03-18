@@ -1,0 +1,149 @@
+{
+  "id": "santos-albuquerque-sion",
+  "name": "Santos - Albuquerque",
+  "slug": "santos-albuquerque-sion",
+  "city": "Belo Horizonte",
+  "neighborhood": "Sion",
+  "state": "MG",
+  "address": {
+    "street": "Braga Travessa",
+    "number": "2268",
+    "zipCode": "04334-271",
+    "coordinates": {
+      "latitude": -19.917,
+      "longitude": -43.935
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Yakisoba",
+    "Sashimi",
+    "Sushi"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(18) 4112-0052",
+  "website": "https://www.santos-albuquerque-sion.com.br",
+  "socialMedia": {
+    "instagram": "@santosalbuquerquesion",
+    "facebook": "santosalbuquerquesion"
+  },
+  "rating": 4.4,
+  "reviewCount": 377,
+  "ambience": [
+    "Familiar",
+    "Romântico"
+  ],
+  "features": [
+    "Acessibilidade",
+    "Ar Condicionado",
+    "Terraço"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2016,
+    "founder": "Larissa Nogueira",
+    "story": "Velit consequatur reiciendis et alias sint quo. Ab error illo eum inventore. Hic est consequatur expedita."
+  },
+  "chef": {
+    "name": "Giovanna Nogueira",
+    "background": "Laborum dolorem quis facere dolor."
+  },
+  "keywords": [
+    "japonesa",
+    "sion",
+    "belo horizonte"
+  ],
+  "nearbyAttractions": [
+    "Teatro",
+    "Museu",
+    "Centro Comercial"
+  ],
+  "relatedQueries": [
+    "restaurante japonesa tradicional",
+    "melhor restaurante japonesa em belo horizonte",
+    "japonesa em sion"
+  ],
+  "images": [
+    {
+      "url": "/images/santos-albuquerque-sion/fachada.jpg",
+      "alt": "Fachada do Santos - Albuquerque em Sion",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/santos-albuquerque-sion/interior.jpg",
+      "alt": "Ambiente interno do Santos - Albuquerque",
+      "type": "interior"
+    },
+    {
+      "url": "/images/santos-albuquerque-sion/prato.jpg",
+      "alt": "Prato especial do Santos - Albuquerque",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Japonesa de Belo Horizonte 2018",
+    "Destaque Gastronômico - Revista Gourmet 2021"
+  ],
+  "events": [
+    "Festival Gastronômico",
+    "Noites de Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções sem Glúten"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "santos-com-rcio-vila madalena",
+  "name": "Santos Comércio",
+  "slug": "santos-com-rcio-vila madalena",
+  "city": "São Paulo",
+  "neighborhood": "Vila Madalena",
+  "state": "SP",
+  "address": {
+    "street": "Alice Rua",
+    "number": "6006",
+    "zipCode": "30944-249",
+    "coordinates": {
+      "latitude": -23.551,
+      "longitude": -46.657
+    }
+  },
+  "cuisine": [
+    "Italiana"
+  ],
+  "specialties": [
+    "Pizza",
+    "Tiramisu",
+    "Ravioli"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": true,
+  "delivery": false,
+  "takeout": true,
+  "phone": "(89) 0605-7991",
+  "website": "https://www.santos-com-rcio-vila madalena.com.br",
+  "socialMedia": {
+    "instagram": "@santoscomrciovila madalena",
+    "facebook": "santoscomrciovila madalena"
+  },
+  "rating": 3.9,
+  "reviewCount": 251,
+  "ambience": [
+    "Familiar",
+    "Casual Elegante"
+  ],
+  "features": [
+    "Wi-Fi",
+    "Bar",
+    "Estacionamento"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1998,
+    "founder": "Gabriel Silva Neto",
+    "story": "Et maiores nulla ea eius repudiandae at debitis voluptate officia. Autem dolores et accusantium id. Ad temporibus dolorem incidunt nisi sit unde ut. Enim voluptate ex pariatur at eveniet recusandae et. Deserunt quam vero."
+  },
+  "chef": {
+    "name": "Dra. Washington Nogueira",
+    "background": "Qui autem reiciendis ut totam velit excepturi est ut velit."
+  },
+  "keywords": [
+    "italiana",
+    "vila madalena",
+    "são paulo"
+  ],
+  "nearbyAttractions": [
+    "Shopping",
+    "Centro Comercial",
+    "Teatro"
+  ],
+  "relatedQueries": [
+    "restaurante italiana tradicional",
+    "melhor restaurante italiana em são paulo",
+    "italiana em vila madalena"
+  ],
+  "images": [
+    {
+      "url": "/images/santos-com-rcio-vila madalena/fachada.jpg",
+      "alt": "Fachada do Santos Comércio em Vila Madalena",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/santos-com-rcio-vila madalena/interior.jpg",
+      "alt": "Ambiente interno do Santos Comércio",
+      "type": "interior"
+    },
+    {
+      "url": "/images/santos-com-rcio-vila madalena/prato.jpg",
+      "alt": "Prato especial do Santos Comércio",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Spaghetti alla Carbonara",
+      "preco": 58,
+      "descricao": "Massa fresca com molho cremoso de ovos, queijo pecorino e pancetta",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Risotto ai Funghi",
+      "preco": 65,
+      "descricao": "Arroz arbóreo com mix de cogumelos frescos e parmesão",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Pizza Margherita",
+      "preco": 45,
+      "descricao": "Pizza tradicional com molho de tomate, mussarela e manjericão",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2020",
+    "Melhor Restaurante Italiana de São Paulo 2021"
+  ],
+  "events": [
+    "Menu Degustação",
+    "Noites de Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções Vegetarianas"
+  ]
+}

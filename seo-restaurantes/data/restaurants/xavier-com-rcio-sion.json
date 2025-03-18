@@ -1,0 +1,149 @@
+{
+  "id": "xavier-com-rcio-sion",
+  "name": "Xavier Comércio",
+  "slug": "xavier-com-rcio-sion",
+  "city": "Belo Horizonte",
+  "neighborhood": "Sion",
+  "state": "MG",
+  "address": {
+    "street": "Maria Avenida",
+    "number": "1782",
+    "zipCode": "12687-049",
+    "coordinates": {
+      "latitude": -19.917,
+      "longitude": -43.935
+    }
+  },
+  "cuisine": [
+    "Italiana"
+  ],
+  "specialties": [
+    "Risotto",
+    "Pasta",
+    "Ravioli"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": false,
+  "delivery": false,
+  "takeout": true,
+  "phone": "(32) 8885-1083",
+  "website": "https://www.xavier-com-rcio-sion.com.br",
+  "socialMedia": {
+    "instagram": "@xaviercomrciosion",
+    "facebook": "xaviercomrciosion"
+  },
+  "rating": 3.7,
+  "reviewCount": 149,
+  "ambience": [
+    "Romântico",
+    "Moderno"
+  ],
+  "features": [
+    "Estacionamento",
+    "Terraço",
+    "Acessibilidade"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2003,
+    "founder": "Maria Alice Pereira Filho",
+    "story": "Laborum est neque ea eos ut minus consequatur. Corrupti aut omnis repellat animi. Dolorem cumque non voluptatem quasi et at earum recusandae. Ad rerum nisi explicabo."
+  },
+  "chef": {
+    "name": "Larissa Moraes",
+    "background": "Vel aut nisi iusto nemo quas adipisci eaque modi iusto."
+  },
+  "keywords": [
+    "italiana",
+    "sion",
+    "belo horizonte"
+  ],
+  "nearbyAttractions": [
+    "Shopping",
+    "Centro Comercial",
+    "Parque"
+  ],
+  "relatedQueries": [
+    "melhor restaurante italiana em belo horizonte",
+    "restaurante italiana tradicional",
+    "italiana em sion"
+  ],
+  "images": [
+    {
+      "url": "/images/xavier-com-rcio-sion/fachada.jpg",
+      "alt": "Fachada do Xavier Comércio em Sion",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/xavier-com-rcio-sion/interior.jpg",
+      "alt": "Ambiente interno do Xavier Comércio",
+      "type": "interior"
+    },
+    {
+      "url": "/images/xavier-com-rcio-sion/prato.jpg",
+      "alt": "Prato especial do Xavier Comércio",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Spaghetti alla Carbonara",
+      "preco": 58,
+      "descricao": "Massa fresca com molho cremoso de ovos, queijo pecorino e pancetta",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Risotto ai Funghi",
+      "preco": 65,
+      "descricao": "Arroz arbóreo com mix de cogumelos frescos e parmesão",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Pizza Margherita",
+      "preco": 45,
+      "descricao": "Pizza tradicional com molho de tomate, mussarela e manjericão",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2020",
+    "Melhor Restaurante Italiana de Belo Horizonte 2019"
+  ],
+  "events": [
+    "Noites de Degustação",
+    "Happy Hour Especial"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções Veganas"
+  ]
+}

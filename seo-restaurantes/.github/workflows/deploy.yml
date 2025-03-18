@@ -1,0 +1,140 @@
+name: Deploy e Otimização
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+    branches:
+      - main
+      - master
+
+jobs:
+  # Job para validação e teste
+  validate:
+    name: 📋 Validar e Testar
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v3
+
+      - name: Configuração do Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+          cache: 'npm'
+
+      - name: Instalar dependências
+        run: npm ci
+        
+      - name: Verificar formatação
+        run: npm run format:check
+        
+      - name: Executar Linter
+        run: npm run lint
+        
+      - name: Executar testes
+        run: npm run test
+
+  # Job para análise do bundle 
+  analyze:
+    name: 📊 Analisar Bundle
+    needs: validate
+    runs-on: ubuntu-latest
+    env:
+      ANALYZE: true
+    
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v3
+        
+      - name: Configuração do Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+          cache: 'npm'
+          
+      - name: Instalar dependências
+        run: npm ci
+        
+      - name: Build com análise de bundle
+        run: |
+          echo "ANALYZE=true" >> .env.local
+          npm run build
+          
+      - name: Arquivar relatórios de bundle
+        uses: actions/upload-artifact@v3
+        with:
+          name: bundle-analysis
+          path: .next/analyze
+
+  # Job para deployar em produção (via Vercel)
+  deploy:
+    name: 🚀 Deploy Vercel
+    needs: [validate, analyze]
+    runs-on: ubuntu-latest
+    environment:
+      name: production
+      url: ${{ steps.deploy-vercel.outputs.preview-url }}
+    outputs:
+      deployment-url: ${{ steps.deploy-vercel.outputs.preview-url }}
+    
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v3
+        
+      - name: Deploy para Vercel
+        id: deploy-vercel
+        uses: amondnet/vercel-action@v20
+        with:
+          vercel-token: ${{ secrets.VERCEL_TOKEN }}
+          vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
+          vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
+          working-directory: ./
+          vercel-args: '--prod'
+          
+      - name: Verificar deploy
+        run: |
+          echo "Deployed to ${{ steps.deploy-vercel.outputs.preview-url }}"
+          
+  # Job para testes de performance após deploy
+  performance:
+    name: 🔍 Testar Performance
+    needs: deploy
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Teste de Lighthouse
+        uses: treosh/lighthouse-ci-action@v9
+        with:
+          urls: |
+            ${{ needs.deploy.outputs.deployment-url }}
+            ${{ needs.deploy.outputs.deployment-url }}/restaurantes/example-restaurant
+          temporaryPublicStorage: true
+          configPath: './.github/lighthouse-config.json'
+          
+      - name: Publicar resultados do Lighthouse
+        uses: actions/upload-artifact@v3
+        with:
+          name: lighthouse-results
+          path: '.lighthouseci'
+          
+  # Job para notificação de sucesso
+  notify:
+    name: 🔔 Notificar equipe
+    needs: [deploy, performance]
+    runs-on: ubuntu-latest
+    if: success()
+    
+    steps:
+      - name: Enviar notificação de sucesso
+        uses: rtCamp/action-slack-notify@v2
+        env:
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_URL }}
+          SLACK_CHANNEL: deploys
+          SLACK_COLOR: good
+          SLACK_ICON: https://github.com/rtCamp.png?size=48
+          SLACK_TITLE: 'Deploy Concluído ✅'
+          SLACK_MESSAGE: 'O deploy em produção foi concluído com sucesso!'
+          SLACK_FOOTER: 'SEO Restaurantes Project' 

@@ -1,0 +1,149 @@
+{
+  "id": "macedo-ltda-floresta",
+  "name": "Macedo LTDA",
+  "slug": "macedo-ltda-floresta",
+  "city": "Belo Horizonte",
+  "neighborhood": "Floresta",
+  "state": "MG",
+  "address": {
+    "street": "Carla Marginal",
+    "number": "2570",
+    "zipCode": "39192-880",
+    "coordinates": {
+      "latitude": -19.917,
+      "longitude": -43.935
+    }
+  },
+  "cuisine": [
+    "Italiana"
+  ],
+  "specialties": [
+    "Pasta",
+    "Risotto",
+    "Pizza"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": false,
+  "delivery": false,
+  "takeout": false,
+  "phone": "(07) 3721-9804",
+  "website": "https://www.macedo-ltda-floresta.com.br",
+  "socialMedia": {
+    "instagram": "@macedoltdafloresta",
+    "facebook": "macedoltdafloresta"
+  },
+  "rating": 4.2,
+  "reviewCount": 393,
+  "ambience": [
+    "Familiar",
+    "Moderno"
+  ],
+  "features": [
+    "Wi-Fi",
+    "Ar Condicionado",
+    "Estacionamento"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1993,
+    "founder": "Júlio César Albuquerque",
+    "story": "Totam eius quis nihil. Officia quisquam et deserunt voluptates eius ullam optio quae. Aperiam esse consectetur tempore. Quos nobis enim cumque. Qui ea velit tempore."
+  },
+  "chef": {
+    "name": "Bruna Martins",
+    "background": "Nihil et repellat hic ut autem."
+  },
+  "keywords": [
+    "italiana",
+    "floresta",
+    "belo horizonte"
+  ],
+  "nearbyAttractions": [
+    "Teatro",
+    "Shopping",
+    "Centro Comercial"
+  ],
+  "relatedQueries": [
+    "restaurante italiana tradicional",
+    "italiana em floresta",
+    "melhor restaurante italiana em belo horizonte"
+  ],
+  "images": [
+    {
+      "url": "/images/macedo-ltda-floresta/fachada.jpg",
+      "alt": "Fachada do Macedo LTDA em Floresta",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/macedo-ltda-floresta/interior.jpg",
+      "alt": "Ambiente interno do Macedo LTDA",
+      "type": "interior"
+    },
+    {
+      "url": "/images/macedo-ltda-floresta/prato.jpg",
+      "alt": "Prato especial do Macedo LTDA",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Spaghetti alla Carbonara",
+      "preco": 58,
+      "descricao": "Massa fresca com molho cremoso de ovos, queijo pecorino e pancetta",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Risotto ai Funghi",
+      "preco": 65,
+      "descricao": "Arroz arbóreo com mix de cogumelos frescos e parmesão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Pizza Margherita",
+      "preco": 45,
+      "descricao": "Pizza tradicional com molho de tomate, mussarela e manjericão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Italiana de Belo Horizonte 2018",
+    "Destaque Gastronômico - Revista Gourmet 2018"
+  ],
+  "events": [
+    "Happy Hour Especial",
+    "Noites de Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções sem Glúten"
+  ]
+}

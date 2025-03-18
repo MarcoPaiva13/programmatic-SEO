@@ -1,0 +1,149 @@
+{
+  "id": "martins-costa-and-saraiva-leblon",
+  "name": "Martins, Costa and Saraiva",
+  "slug": "martins-costa-and-saraiva-leblon",
+  "city": "Rio de Janeiro",
+  "neighborhood": "Leblon",
+  "state": "RJ",
+  "address": {
+    "street": "Santos Alameda",
+    "number": "1409",
+    "zipCode": "58191-863",
+    "coordinates": {
+      "latitude": -22.907,
+      "longitude": -43.173
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Tempura",
+    "Yakisoba",
+    "Sashimi"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": true,
+  "delivery": false,
+  "takeout": true,
+  "phone": "(98) 6751-6500",
+  "website": "https://www.martins-costa-and-saraiva-leblon.com.br",
+  "socialMedia": {
+    "instagram": "@martinscostaandsaraivaleblon",
+    "facebook": "martinscostaandsaraivaleblon"
+  },
+  "rating": 3.7,
+  "reviewCount": 222,
+  "ambience": [
+    "Moderno",
+    "Casual Elegante"
+  ],
+  "features": [
+    "Estacionamento",
+    "Wi-Fi",
+    "Bar"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2004,
+    "founder": "Isabella Souza",
+    "story": "Ea sint in in non sint. Fuga rem consequatur ad quis labore iusto ab tempore. Harum at eos sunt reprehenderit laborum occaecati. Consequatur rem impedit et eaque qui et minima praesentium."
+  },
+  "chef": {
+    "name": "Marli Saraiva",
+    "background": "Voluptatem ut explicabo explicabo."
+  },
+  "keywords": [
+    "japonesa",
+    "leblon",
+    "rio de janeiro"
+  ],
+  "nearbyAttractions": [
+    "Shopping",
+    "Museu",
+    "Parque"
+  ],
+  "relatedQueries": [
+    "japonesa em leblon",
+    "restaurante japonesa tradicional",
+    "melhor restaurante japonesa em rio de janeiro"
+  ],
+  "images": [
+    {
+      "url": "/images/martins-costa-and-saraiva-leblon/fachada.jpg",
+      "alt": "Fachada do Martins, Costa and Saraiva em Leblon",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/martins-costa-and-saraiva-leblon/interior.jpg",
+      "alt": "Ambiente interno do Martins, Costa and Saraiva",
+      "type": "interior"
+    },
+    {
+      "url": "/images/martins-costa-and-saraiva-leblon/prato.jpg",
+      "alt": "Prato especial do Martins, Costa and Saraiva",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2022",
+    "Melhor Restaurante Japonesa de Rio de Janeiro 2023"
+  ],
+  "events": [
+    "Noites de Degustação",
+    "Happy Hour Especial"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções sem Glúten"
+  ]
+}

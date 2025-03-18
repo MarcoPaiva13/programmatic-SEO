@@ -1,0 +1,149 @@
+{
+  "id": "costa-moreira-jardim botânico",
+  "name": "Costa - Moreira",
+  "slug": "costa-moreira-jardim botânico",
+  "city": "Rio de Janeiro",
+  "neighborhood": "Jardim Botânico",
+  "state": "RJ",
+  "address": {
+    "street": "João Pedro Travessa",
+    "number": "7912",
+    "zipCode": "60353-391",
+    "coordinates": {
+      "latitude": -22.907,
+      "longitude": -43.173
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Yakisoba",
+    "Sushi",
+    "Tempura"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": false,
+  "phone": "(19) 6233-0565",
+  "website": "https://www.costa-moreira-jardim botânico.com.br",
+  "socialMedia": {
+    "instagram": "@costamoreirajardim botânico",
+    "facebook": "costamoreirajardim botânico"
+  },
+  "rating": 4.1,
+  "reviewCount": 386,
+  "ambience": [
+    "Romântico",
+    "Moderno"
+  ],
+  "features": [
+    "Estacionamento",
+    "Acessibilidade",
+    "Bar"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1995,
+    "founder": "Lavínia Franco",
+    "story": "Dolore qui laudantium. Adipisci dolorem esse qui. Quia aspernatur consequuntur aliquam."
+  },
+  "chef": {
+    "name": "Janaína Costa",
+    "background": "Deleniti ut hic quod ea deleniti excepturi quis et voluptatem."
+  },
+  "keywords": [
+    "japonesa",
+    "jardim botânico",
+    "rio de janeiro"
+  ],
+  "nearbyAttractions": [
+    "Parque",
+    "Teatro",
+    "Centro Comercial"
+  ],
+  "relatedQueries": [
+    "japonesa em jardim botânico",
+    "restaurante japonesa tradicional",
+    "melhor restaurante japonesa em rio de janeiro"
+  ],
+  "images": [
+    {
+      "url": "/images/costa-moreira-jardim botânico/fachada.jpg",
+      "alt": "Fachada do Costa - Moreira em Jardim Botânico",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/costa-moreira-jardim botânico/interior.jpg",
+      "alt": "Ambiente interno do Costa - Moreira",
+      "type": "interior"
+    },
+    {
+      "url": "/images/costa-moreira-jardim botânico/prato.jpg",
+      "alt": "Prato especial do Costa - Moreira",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Japonesa de Rio de Janeiro 2022",
+    "Destaque Gastronômico - Revista Gourmet 2018"
+  ],
+  "events": [
+    "Happy Hour Especial",
+    "Menu Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções Vegetarianas"
+  ]
+}

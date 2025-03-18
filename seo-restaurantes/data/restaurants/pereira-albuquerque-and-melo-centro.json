@@ -1,0 +1,149 @@
+{
+  "id": "pereira-albuquerque-and-melo-centro",
+  "name": "Pereira, Albuquerque and Melo",
+  "slug": "pereira-albuquerque-and-melo-centro",
+  "city": "Porto Alegre",
+  "neighborhood": "Centro",
+  "state": "RS",
+  "address": {
+    "street": "Maria Júlia Rodovia",
+    "number": "7768",
+    "zipCode": "02432-730",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Pão de Queijo",
+    "Moqueca",
+    "Feijoada"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": true,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(79) 1428-9140",
+  "website": "https://www.pereira-albuquerque-and-melo-centro.com.br",
+  "socialMedia": {
+    "instagram": "@pereiraalbuquerqueandmelocentro",
+    "facebook": "pereiraalbuquerqueandmelocentro"
+  },
+  "rating": 4.2,
+  "reviewCount": 273,
+  "ambience": [
+    "Familiar",
+    "Casual Elegante"
+  ],
+  "features": [
+    "Ar Condicionado",
+    "Bar",
+    "Terraço"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1994,
+    "founder": "Cauã Carvalho",
+    "story": "Consequuntur ad distinctio doloremque vel mollitia repellendus id odit et. Expedita qui est aut rerum illum. Sit praesentium rerum. Atque ducimus vel voluptas tempora tempore in quia autem eos."
+  },
+  "chef": {
+    "name": "Dr. Fabiano Albuquerque",
+    "background": "Omnis quibusdam voluptas est debitis."
+  },
+  "keywords": [
+    "brasileira",
+    "centro",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Centro Comercial",
+    "Parque",
+    "Museu"
+  ],
+  "relatedQueries": [
+    "brasileira em centro",
+    "restaurante brasileira tradicional",
+    "melhor restaurante brasileira em porto alegre"
+  ],
+  "images": [
+    {
+      "url": "/images/pereira-albuquerque-and-melo-centro/fachada.jpg",
+      "alt": "Fachada do Pereira, Albuquerque and Melo em Centro",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/pereira-albuquerque-and-melo-centro/interior.jpg",
+      "alt": "Ambiente interno do Pereira, Albuquerque and Melo",
+      "type": "interior"
+    },
+    {
+      "url": "/images/pereira-albuquerque-and-melo-centro/prato.jpg",
+      "alt": "Prato especial do Pereira, Albuquerque and Melo",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Brasileira de Porto Alegre 2018",
+    "Destaque Gastronômico - Revista Gourmet 2023"
+  ],
+  "events": [
+    "Festival Gastronômico",
+    "Happy Hour Especial"
+  ],
+  "dietaryOptions": [
+    "Opções sem Glúten",
+    "Opções Vegetarianas"
+  ]
+}

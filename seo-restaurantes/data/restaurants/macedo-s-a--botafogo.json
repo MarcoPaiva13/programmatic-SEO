@@ -1,0 +1,149 @@
+{
+  "id": "macedo-s-a--botafogo",
+  "name": "Macedo S.A.",
+  "slug": "macedo-s-a--botafogo",
+  "city": "Rio de Janeiro",
+  "neighborhood": "Botafogo",
+  "state": "RJ",
+  "address": {
+    "street": "Silva Avenida",
+    "number": "1195",
+    "zipCode": "78307-887",
+    "coordinates": {
+      "latitude": -22.907,
+      "longitude": -43.173
+    }
+  },
+  "cuisine": [
+    "Italiana"
+  ],
+  "specialties": [
+    "Pizza",
+    "Pasta",
+    "Risotto"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": true,
+  "delivery": false,
+  "takeout": true,
+  "phone": "(81) 2477-1657",
+  "website": "https://www.macedo-s-a--botafogo.com.br",
+  "socialMedia": {
+    "instagram": "@macedosabotafogo",
+    "facebook": "macedosabotafogo"
+  },
+  "rating": 4,
+  "reviewCount": 500,
+  "ambience": [
+    "Casual Elegante",
+    "Familiar"
+  ],
+  "features": [
+    "Acessibilidade",
+    "Wi-Fi",
+    "Estacionamento"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1998,
+    "founder": "Dr. Isabelly Barros",
+    "story": "Sed itaque pariatur totam quaerat omnis laudantium voluptates. Ipsum possimus neque id. Dolores voluptatum quos expedita ad beatae et."
+  },
+  "chef": {
+    "name": "Júlio César Moreira",
+    "background": "Nulla sed dolores est."
+  },
+  "keywords": [
+    "italiana",
+    "botafogo",
+    "rio de janeiro"
+  ],
+  "nearbyAttractions": [
+    "Parque",
+    "Teatro",
+    "Museu"
+  ],
+  "relatedQueries": [
+    "restaurante italiana tradicional",
+    "melhor restaurante italiana em rio de janeiro",
+    "italiana em botafogo"
+  ],
+  "images": [
+    {
+      "url": "/images/macedo-s-a--botafogo/fachada.jpg",
+      "alt": "Fachada do Macedo S.A. em Botafogo",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/macedo-s-a--botafogo/interior.jpg",
+      "alt": "Ambiente interno do Macedo S.A.",
+      "type": "interior"
+    },
+    {
+      "url": "/images/macedo-s-a--botafogo/prato.jpg",
+      "alt": "Prato especial do Macedo S.A.",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Spaghetti alla Carbonara",
+      "preco": 58,
+      "descricao": "Massa fresca com molho cremoso de ovos, queijo pecorino e pancetta",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Risotto ai Funghi",
+      "preco": 65,
+      "descricao": "Arroz arbóreo com mix de cogumelos frescos e parmesão",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Pizza Margherita",
+      "preco": 45,
+      "descricao": "Pizza tradicional com molho de tomate, mussarela e manjericão",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Italiana de Rio de Janeiro 2023",
+    "Destaque Gastronômico - Revista Gourmet 2018"
+  ],
+  "events": [
+    "Happy Hour Especial",
+    "Menu Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções sem Glúten"
+  ]
+}

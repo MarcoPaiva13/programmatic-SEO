@@ -1,0 +1,149 @@
+{
+  "id": "albuquerque-moreira-and-moreira-cidade jardim",
+  "name": "Albuquerque, Moreira and Moreira",
+  "slug": "albuquerque-moreira-and-moreira-cidade jardim",
+  "city": "Belo Horizonte",
+  "neighborhood": "Cidade Jardim",
+  "state": "MG",
+  "address": {
+    "street": "Nataniel Travessa",
+    "number": "4729",
+    "zipCode": "90786-863",
+    "coordinates": {
+      "latitude": -19.917,
+      "longitude": -43.935
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Moqueca",
+    "Pão de Queijo",
+    "Feijoada"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": true,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(38) 2572-9207",
+  "website": "https://www.albuquerque-moreira-and-moreira-cidade jardim.com.br",
+  "socialMedia": {
+    "instagram": "@albuquerquemoreiraandmoreiracidade jardim",
+    "facebook": "albuquerquemoreiraandmoreiracidade jardim"
+  },
+  "rating": 4.6,
+  "reviewCount": 175,
+  "ambience": [
+    "Moderno",
+    "Romântico"
+  ],
+  "features": [
+    "Acessibilidade",
+    "Bar",
+    "Estacionamento"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1989,
+    "founder": "Janaína Oliveira Jr.",
+    "story": "Fugiat quo error optio delectus laborum est. Illum consectetur repellendus voluptatem voluptatem architecto et fugit. Commodi autem et dolores saepe eum similique. Qui ea iure enim error neque explicabo."
+  },
+  "chef": {
+    "name": "Benício Martins",
+    "background": "Quasi tempore illo aut."
+  },
+  "keywords": [
+    "brasileira",
+    "cidade jardim",
+    "belo horizonte"
+  ],
+  "nearbyAttractions": [
+    "Centro Comercial",
+    "Shopping",
+    "Teatro"
+  ],
+  "relatedQueries": [
+    "restaurante brasileira tradicional",
+    "melhor restaurante brasileira em belo horizonte",
+    "brasileira em cidade jardim"
+  ],
+  "images": [
+    {
+      "url": "/images/albuquerque-moreira-and-moreira-cidade jardim/fachada.jpg",
+      "alt": "Fachada do Albuquerque, Moreira and Moreira em Cidade Jardim",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/albuquerque-moreira-and-moreira-cidade jardim/interior.jpg",
+      "alt": "Ambiente interno do Albuquerque, Moreira and Moreira",
+      "type": "interior"
+    },
+    {
+      "url": "/images/albuquerque-moreira-and-moreira-cidade jardim/prato.jpg",
+      "alt": "Prato especial do Albuquerque, Moreira and Moreira",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Brasileira de Belo Horizonte 2022",
+    "Destaque Gastronômico - Revista Gourmet 2022"
+  ],
+  "events": [
+    "Menu Degustação",
+    "Noites de Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções Veganas"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "pereira-macedo-and-martins-higienópolis",
+  "name": "Pereira, Macedo and Martins",
+  "slug": "pereira-macedo-and-martins-higienópolis",
+  "city": "São Paulo",
+  "neighborhood": "Higienópolis",
+  "state": "SP",
+  "address": {
+    "street": "Eduarda Rua",
+    "number": "1783",
+    "zipCode": "42653-279",
+    "coordinates": {
+      "latitude": -23.555,
+      "longitude": -46.652
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Tempura",
+    "Yakisoba",
+    "Sushi"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": true,
+  "delivery": false,
+  "takeout": true,
+  "phone": "(17) 1990-0025",
+  "website": "https://www.pereira-macedo-and-martins-higienópolis.com.br",
+  "socialMedia": {
+    "instagram": "@pereiramacedoandmartinshigienópolis",
+    "facebook": "pereiramacedoandmartinshigienópolis"
+  },
+  "rating": 3.7,
+  "reviewCount": 184,
+  "ambience": [
+    "Familiar",
+    "Tradicional"
+  ],
+  "features": [
+    "Ar Condicionado",
+    "Acessibilidade",
+    "Bar"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1995,
+    "founder": "Bryan Saraiva",
+    "story": "Officia fuga optio sint placeat. Impedit dolor dolor quam. Nisi omnis sint. Perspiciatis voluptas quae eos ducimus hic qui magni quia. Odit quo ut voluptatem consectetur quo et inventore fugit. Aut laboriosam explicabo aperiam qui similique rerum accusamus temporibus consectetur."
+  },
+  "chef": {
+    "name": "Théo Silva",
+    "background": "Vel quos saepe expedita voluptates ad itaque quia magnam rerum."
+  },
+  "keywords": [
+    "japonesa",
+    "higienópolis",
+    "são paulo"
+  ],
+  "nearbyAttractions": [
+    "Centro Comercial",
+    "Parque",
+    "Teatro"
+  ],
+  "relatedQueries": [
+    "restaurante japonesa tradicional",
+    "japonesa em higienópolis",
+    "melhor restaurante japonesa em são paulo"
+  ],
+  "images": [
+    {
+      "url": "/images/pereira-macedo-and-martins-higienópolis/fachada.jpg",
+      "alt": "Fachada do Pereira, Macedo and Martins em Higienópolis",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/pereira-macedo-and-martins-higienópolis/interior.jpg",
+      "alt": "Ambiente interno do Pereira, Macedo and Martins",
+      "type": "interior"
+    },
+    {
+      "url": "/images/pereira-macedo-and-martins-higienópolis/prato.jpg",
+      "alt": "Prato especial do Pereira, Macedo and Martins",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2020",
+    "Melhor Restaurante Japonesa de São Paulo 2019"
+  ],
+  "events": [
+    "Festival Gastronômico",
+    "Happy Hour Especial"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções Vegetarianas"
+  ]
+}

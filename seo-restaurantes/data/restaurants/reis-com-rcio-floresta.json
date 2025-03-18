@@ -1,0 +1,149 @@
+{
+  "id": "reis-com-rcio-floresta",
+  "name": "Reis Comércio",
+  "slug": "reis-com-rcio-floresta",
+  "city": "Porto Alegre",
+  "neighborhood": "Floresta",
+  "state": "RS",
+  "address": {
+    "street": "Franco Avenida",
+    "number": "6565",
+    "zipCode": "47715-816",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Tempura",
+    "Sashimi",
+    "Yakisoba"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": false,
+  "delivery": false,
+  "takeout": true,
+  "phone": "(70) 0480-4448",
+  "website": "https://www.reis-com-rcio-floresta.com.br",
+  "socialMedia": {
+    "instagram": "@reiscomrciofloresta",
+    "facebook": "reiscomrciofloresta"
+  },
+  "rating": 4,
+  "reviewCount": 408,
+  "ambience": [
+    "Moderno",
+    "Romântico"
+  ],
+  "features": [
+    "Wi-Fi",
+    "Estacionamento",
+    "Acessibilidade"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2020,
+    "founder": "Laura Melo",
+    "story": "Aut molestiae qui quia qui omnis et ea consequuntur qui. Totam tempore et corrupti harum eaque quasi nihil illo. Laudantium eligendi inventore quia pariatur accusantium voluptatem fugit veniam."
+  },
+  "chef": {
+    "name": "Lorena Saraiva",
+    "background": "Aut soluta illo fugiat necessitatibus natus."
+  },
+  "keywords": [
+    "japonesa",
+    "floresta",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Museu",
+    "Parque",
+    "Centro Comercial"
+  ],
+  "relatedQueries": [
+    "melhor restaurante japonesa em porto alegre",
+    "restaurante japonesa tradicional",
+    "japonesa em floresta"
+  ],
+  "images": [
+    {
+      "url": "/images/reis-com-rcio-floresta/fachada.jpg",
+      "alt": "Fachada do Reis Comércio em Floresta",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/reis-com-rcio-floresta/interior.jpg",
+      "alt": "Ambiente interno do Reis Comércio",
+      "type": "interior"
+    },
+    {
+      "url": "/images/reis-com-rcio-floresta/prato.jpg",
+      "alt": "Prato especial do Reis Comércio",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2023",
+    "Melhor Restaurante Japonesa de Porto Alegre 2020"
+  ],
+  "events": [
+    "Festival Gastronômico",
+    "Happy Hour Especial"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções sem Glúten"
+  ]
+}

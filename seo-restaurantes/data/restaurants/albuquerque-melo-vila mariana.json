@@ -1,0 +1,149 @@
+{
+  "id": "albuquerque-melo-vila mariana",
+  "name": "Albuquerque - Melo",
+  "slug": "albuquerque-melo-vila mariana",
+  "city": "São Paulo",
+  "neighborhood": "Vila Mariana",
+  "state": "SP",
+  "address": {
+    "street": "Murilo Marginal",
+    "number": "5790",
+    "zipCode": "32276-474",
+    "coordinates": {
+      "latitude": -23.553,
+      "longitude": -46.654
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Sashimi",
+    "Temaki",
+    "Yakisoba"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(95) 0152-4284",
+  "website": "https://www.albuquerque-melo-vila mariana.com.br",
+  "socialMedia": {
+    "instagram": "@albuquerquemelovila mariana",
+    "facebook": "albuquerquemelovila mariana"
+  },
+  "rating": 4.8,
+  "reviewCount": 427,
+  "ambience": [
+    "Casual Elegante",
+    "Moderno"
+  ],
+  "features": [
+    "Terraço",
+    "Ar Condicionado",
+    "Wi-Fi"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2006,
+    "founder": "Noah Carvalho",
+    "story": "Ex optio expedita itaque quia et excepturi aut quos veniam. Minus illo facere voluptas iste quas qui nihil qui tempora. Laborum ullam voluptates qui quae a quo. Sit sit et iure."
+  },
+  "chef": {
+    "name": "Alessandro Moreira",
+    "background": "Ratione eius qui et fugiat perspiciatis aut ut."
+  },
+  "keywords": [
+    "japonesa",
+    "vila mariana",
+    "são paulo"
+  ],
+  "nearbyAttractions": [
+    "Teatro",
+    "Centro Comercial",
+    "Parque"
+  ],
+  "relatedQueries": [
+    "japonesa em vila mariana",
+    "melhor restaurante japonesa em são paulo",
+    "restaurante japonesa tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/albuquerque-melo-vila mariana/fachada.jpg",
+      "alt": "Fachada do Albuquerque - Melo em Vila Mariana",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/albuquerque-melo-vila mariana/interior.jpg",
+      "alt": "Ambiente interno do Albuquerque - Melo",
+      "type": "interior"
+    },
+    {
+      "url": "/images/albuquerque-melo-vila mariana/prato.jpg",
+      "alt": "Prato especial do Albuquerque - Melo",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2023",
+    "Melhor Restaurante Japonesa de São Paulo 2018"
+  ],
+  "events": [
+    "Noites de Degustação",
+    "Festival Gastronômico"
+  ],
+  "dietaryOptions": [
+    "Opções sem Glúten",
+    "Opções Veganas"
+  ]
+}

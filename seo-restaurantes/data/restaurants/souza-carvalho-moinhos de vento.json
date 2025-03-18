@@ -1,0 +1,149 @@
+{
+  "id": "souza-carvalho-moinhos de vento",
+  "name": "Souza - Carvalho",
+  "slug": "souza-carvalho-moinhos de vento",
+  "city": "Porto Alegre",
+  "neighborhood": "Moinhos de Vento",
+  "state": "RS",
+  "address": {
+    "street": "Bernardo Rodovia",
+    "number": "7131",
+    "zipCode": "15496-162",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Tempura",
+    "Yakisoba",
+    "Temaki"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(65) 1060-4370",
+  "website": "https://www.souza-carvalho-moinhos de vento.com.br",
+  "socialMedia": {
+    "instagram": "@souzacarvalhomoinhos de vento",
+    "facebook": "souzacarvalhomoinhos de vento"
+  },
+  "rating": 3.5,
+  "reviewCount": 93,
+  "ambience": [
+    "Moderno",
+    "Tradicional"
+  ],
+  "features": [
+    "Ar Condicionado",
+    "Estacionamento",
+    "Acessibilidade"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1998,
+    "founder": "Srta. Lorena Silva",
+    "story": "Nisi ad quis ea temporibus modi veritatis quaerat quis. Id maiores beatae earum dignissimos. Voluptatem quo modi."
+  },
+  "chef": {
+    "name": "Meire Moreira",
+    "background": "Dolores odio ut dolore sed incidunt amet eos dolor."
+  },
+  "keywords": [
+    "japonesa",
+    "moinhos de vento",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Shopping",
+    "Museu",
+    "Teatro"
+  ],
+  "relatedQueries": [
+    "japonesa em moinhos de vento",
+    "restaurante japonesa tradicional",
+    "melhor restaurante japonesa em porto alegre"
+  ],
+  "images": [
+    {
+      "url": "/images/souza-carvalho-moinhos de vento/fachada.jpg",
+      "alt": "Fachada do Souza - Carvalho em Moinhos de Vento",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/souza-carvalho-moinhos de vento/interior.jpg",
+      "alt": "Ambiente interno do Souza - Carvalho",
+      "type": "interior"
+    },
+    {
+      "url": "/images/souza-carvalho-moinhos de vento/prato.jpg",
+      "alt": "Prato especial do Souza - Carvalho",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Japonesa de Porto Alegre 2022",
+    "Destaque Gastronômico - Revista Gourmet 2023"
+  ],
+  "events": [
+    "Menu Degustação",
+    "Happy Hour Especial"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções Vegetarianas"
+  ]
+}

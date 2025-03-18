@@ -1,0 +1,149 @@
+{
+  "id": "moraes-franco-tristeza",
+  "name": "Moraes - Franco",
+  "slug": "moraes-franco-tristeza",
+  "city": "Porto Alegre",
+  "neighborhood": "Tristeza",
+  "state": "RS",
+  "address": {
+    "street": "Batista Alameda",
+    "number": "3193",
+    "zipCode": "62538-568",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Moqueca",
+    "Acarajé",
+    "Churrasco"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": true,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(36) 9530-4177",
+  "website": "https://www.moraes-franco-tristeza.com.br",
+  "socialMedia": {
+    "instagram": "@moraesfrancotristeza",
+    "facebook": "moraesfrancotristeza"
+  },
+  "rating": 5,
+  "reviewCount": 369,
+  "ambience": [
+    "Moderno",
+    "Casual Elegante"
+  ],
+  "features": [
+    "Estacionamento",
+    "Terraço",
+    "Acessibilidade"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2006,
+    "founder": "Cecília Silva",
+    "story": "Quos ab perspiciatis suscipit praesentium. Placeat in at voluptate vel dolores commodi. Ut quam quam recusandae officia facilis nesciunt reiciendis vero. Quia neque consequatur voluptates vel neque. Ipsum officiis nam. Ea nemo rem et sit."
+  },
+  "chef": {
+    "name": "Alessandra Franco Filho",
+    "background": "Voluptas blanditiis nihil."
+  },
+  "keywords": [
+    "brasileira",
+    "tristeza",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Parque",
+    "Museu",
+    "Teatro"
+  ],
+  "relatedQueries": [
+    "melhor restaurante brasileira em porto alegre",
+    "restaurante brasileira tradicional",
+    "brasileira em tristeza"
+  ],
+  "images": [
+    {
+      "url": "/images/moraes-franco-tristeza/fachada.jpg",
+      "alt": "Fachada do Moraes - Franco em Tristeza",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/moraes-franco-tristeza/interior.jpg",
+      "alt": "Ambiente interno do Moraes - Franco",
+      "type": "interior"
+    },
+    {
+      "url": "/images/moraes-franco-tristeza/prato.jpg",
+      "alt": "Prato especial do Moraes - Franco",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Brasileira de Porto Alegre 2019",
+    "Destaque Gastronômico - Revista Gourmet 2019"
+  ],
+  "events": [
+    "Menu Degustação",
+    "Festival Gastronômico"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções Veganas"
+  ]
+}

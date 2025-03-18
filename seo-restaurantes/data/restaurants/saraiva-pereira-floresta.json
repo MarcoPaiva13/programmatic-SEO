@@ -1,0 +1,149 @@
+{
+  "id": "saraiva-pereira-floresta",
+  "name": "Saraiva - Pereira",
+  "slug": "saraiva-pereira-floresta",
+  "city": "Porto Alegre",
+  "neighborhood": "Floresta",
+  "state": "RS",
+  "address": {
+    "street": "Maria Travessa",
+    "number": "6870",
+    "zipCode": "12083-290",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Tempura",
+    "Temaki",
+    "Yakisoba"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": true,
+  "delivery": false,
+  "takeout": true,
+  "phone": "(12) 1466-9561",
+  "website": "https://www.saraiva-pereira-floresta.com.br",
+  "socialMedia": {
+    "instagram": "@saraivapereirafloresta",
+    "facebook": "saraivapereirafloresta"
+  },
+  "rating": 3.6,
+  "reviewCount": 69,
+  "ambience": [
+    "Tradicional",
+    "Familiar"
+  ],
+  "features": [
+    "Terraço",
+    "Wi-Fi",
+    "Estacionamento"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2003,
+    "founder": "João Pedro Nogueira",
+    "story": "Sunt corporis magnam. Vero officiis alias laudantium nostrum recusandae. Rerum fugiat omnis sapiente sapiente quod."
+  },
+  "chef": {
+    "name": "Kléber Moraes",
+    "background": "Earum ad ipsum dolores in sit quibusdam rem."
+  },
+  "keywords": [
+    "japonesa",
+    "floresta",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Museu",
+    "Parque",
+    "Shopping"
+  ],
+  "relatedQueries": [
+    "melhor restaurante japonesa em porto alegre",
+    "restaurante japonesa tradicional",
+    "japonesa em floresta"
+  ],
+  "images": [
+    {
+      "url": "/images/saraiva-pereira-floresta/fachada.jpg",
+      "alt": "Fachada do Saraiva - Pereira em Floresta",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/saraiva-pereira-floresta/interior.jpg",
+      "alt": "Ambiente interno do Saraiva - Pereira",
+      "type": "interior"
+    },
+    {
+      "url": "/images/saraiva-pereira-floresta/prato.jpg",
+      "alt": "Prato especial do Saraiva - Pereira",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2023",
+    "Melhor Restaurante Japonesa de Porto Alegre 2021"
+  ],
+  "events": [
+    "Noites de Degustação",
+    "Festival Gastronômico"
+  ],
+  "dietaryOptions": [
+    "Opções sem Glúten",
+    "Opções Veganas"
+  ]
+}

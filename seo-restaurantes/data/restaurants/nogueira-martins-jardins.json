@@ -1,0 +1,149 @@
+{
+  "id": "nogueira-martins-jardins",
+  "name": "Nogueira - Martins",
+  "slug": "nogueira-martins-jardins",
+  "city": "São Paulo",
+  "neighborhood": "Jardins",
+  "state": "SP",
+  "address": {
+    "street": "Vicente Marginal",
+    "number": "1353",
+    "zipCode": "94758-663",
+    "coordinates": {
+      "latitude": -23.562,
+      "longitude": -46.645
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Yakisoba",
+    "Tempura",
+    "Temaki"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": true,
+  "delivery": false,
+  "takeout": false,
+  "phone": "(08) 4539-6958",
+  "website": "https://www.nogueira-martins-jardins.com.br",
+  "socialMedia": {
+    "instagram": "@nogueiramartinsjardins",
+    "facebook": "nogueiramartinsjardins"
+  },
+  "rating": 4.8,
+  "reviewCount": 344,
+  "ambience": [
+    "Familiar",
+    "Tradicional"
+  ],
+  "features": [
+    "Wi-Fi",
+    "Terraço",
+    "Acessibilidade"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2004,
+    "founder": "João Barros Filho",
+    "story": "Fuga officiis nisi non laboriosam quos omnis veniam. Aspernatur et voluptas cumque ut iure provident rem perferendis et. Et itaque sequi aut sunt. Doloremque sint blanditiis et repudiandae ipsa aliquam."
+  },
+  "chef": {
+    "name": "Ana Luiza Carvalho",
+    "background": "Sequi est sed in."
+  },
+  "keywords": [
+    "japonesa",
+    "jardins",
+    "são paulo"
+  ],
+  "nearbyAttractions": [
+    "Museu",
+    "Teatro",
+    "Centro Comercial"
+  ],
+  "relatedQueries": [
+    "japonesa em jardins",
+    "melhor restaurante japonesa em são paulo",
+    "restaurante japonesa tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/nogueira-martins-jardins/fachada.jpg",
+      "alt": "Fachada do Nogueira - Martins em Jardins",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/nogueira-martins-jardins/interior.jpg",
+      "alt": "Ambiente interno do Nogueira - Martins",
+      "type": "interior"
+    },
+    {
+      "url": "/images/nogueira-martins-jardins/prato.jpg",
+      "alt": "Prato especial do Nogueira - Martins",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Japonesa de São Paulo 2019",
+    "Destaque Gastronômico - Revista Gourmet 2020"
+  ],
+  "events": [
+    "Noites de Degustação",
+    "Happy Hour Especial"
+  ],
+  "dietaryOptions": [
+    "Opções sem Glúten",
+    "Opções Veganas"
+  ]
+}

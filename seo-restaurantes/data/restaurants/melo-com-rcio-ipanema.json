@@ -1,0 +1,149 @@
+{
+  "id": "melo-com-rcio-ipanema",
+  "name": "Melo Comércio",
+  "slug": "melo-com-rcio-ipanema",
+  "city": "Rio de Janeiro",
+  "neighborhood": "Ipanema",
+  "state": "RJ",
+  "address": {
+    "street": "Braga Alameda",
+    "number": "906",
+    "zipCode": "75835-394",
+    "coordinates": {
+      "latitude": -22.907,
+      "longitude": -43.173
+    }
+  },
+  "cuisine": [
+    "Italiana"
+  ],
+  "specialties": [
+    "Ravioli",
+    "Pizza",
+    "Tiramisu"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": false,
+  "delivery": false,
+  "takeout": true,
+  "phone": "(48) 8046-8221",
+  "website": "https://www.melo-com-rcio-ipanema.com.br",
+  "socialMedia": {
+    "instagram": "@melocomrcioipanema",
+    "facebook": "melocomrcioipanema"
+  },
+  "rating": 3.5,
+  "reviewCount": 97,
+  "ambience": [
+    "Familiar",
+    "Moderno"
+  ],
+  "features": [
+    "Terraço",
+    "Bar",
+    "Ar Condicionado"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1985,
+    "founder": "Bernardo Melo",
+    "story": "Culpa sit quia eum modi non possimus autem commodi provident. Harum nisi sit. Reprehenderit et consequatur sunt id sunt quae. Eos assumenda minus eius qui est ea. Atque rem quam magni id. Praesentium aut repellat aliquam nobis error assumenda dolores facere."
+  },
+  "chef": {
+    "name": "Mércia Batista",
+    "background": "Eveniet laudantium sit blanditiis impedit distinctio exercitationem non sapiente."
+  },
+  "keywords": [
+    "italiana",
+    "ipanema",
+    "rio de janeiro"
+  ],
+  "nearbyAttractions": [
+    "Teatro",
+    "Museu",
+    "Parque"
+  ],
+  "relatedQueries": [
+    "restaurante italiana tradicional",
+    "melhor restaurante italiana em rio de janeiro",
+    "italiana em ipanema"
+  ],
+  "images": [
+    {
+      "url": "/images/melo-com-rcio-ipanema/fachada.jpg",
+      "alt": "Fachada do Melo Comércio em Ipanema",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/melo-com-rcio-ipanema/interior.jpg",
+      "alt": "Ambiente interno do Melo Comércio",
+      "type": "interior"
+    },
+    {
+      "url": "/images/melo-com-rcio-ipanema/prato.jpg",
+      "alt": "Prato especial do Melo Comércio",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Spaghetti alla Carbonara",
+      "preco": 58,
+      "descricao": "Massa fresca com molho cremoso de ovos, queijo pecorino e pancetta",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Risotto ai Funghi",
+      "preco": 65,
+      "descricao": "Arroz arbóreo com mix de cogumelos frescos e parmesão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Pizza Margherita",
+      "preco": 45,
+      "descricao": "Pizza tradicional com molho de tomate, mussarela e manjericão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2022",
+    "Melhor Restaurante Italiana de Rio de Janeiro 2020"
+  ],
+  "events": [
+    "Happy Hour Especial",
+    "Noites de Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções Veganas"
+  ]
+}

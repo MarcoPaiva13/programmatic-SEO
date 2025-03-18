@@ -1,0 +1,149 @@
+{
+  "id": "franco-pereira-and-silva-higienópolis",
+  "name": "Franco, Pereira and Silva",
+  "slug": "franco-pereira-and-silva-higienópolis",
+  "city": "São Paulo",
+  "neighborhood": "Higienópolis",
+  "state": "SP",
+  "address": {
+    "street": "Norberto Travessa",
+    "number": "8047",
+    "zipCode": "84684-699",
+    "coordinates": {
+      "latitude": -23.553,
+      "longitude": -46.654
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Yakisoba",
+    "Sashimi",
+    "Temaki"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": true,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(07) 6415-0097",
+  "website": "https://www.franco-pereira-and-silva-higienópolis.com.br",
+  "socialMedia": {
+    "instagram": "@francopereiraandsilvahigienópolis",
+    "facebook": "francopereiraandsilvahigienópolis"
+  },
+  "rating": 3.5,
+  "reviewCount": 487,
+  "ambience": [
+    "Romântico",
+    "Familiar"
+  ],
+  "features": [
+    "Terraço",
+    "Estacionamento",
+    "Wi-Fi"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2018,
+    "founder": "Sirineu Martins",
+    "story": "Sit possimus ex repellat eos quia consequuntur. Officiis quos sed fugit sit placeat ullam. Fugiat ab sapiente esse. Est maxime libero facilis quo nesciunt."
+  },
+  "chef": {
+    "name": "Sara Martins",
+    "background": "Unde quis ut ut voluptates expedita quod et et velit."
+  },
+  "keywords": [
+    "japonesa",
+    "higienópolis",
+    "são paulo"
+  ],
+  "nearbyAttractions": [
+    "Museu",
+    "Shopping",
+    "Teatro"
+  ],
+  "relatedQueries": [
+    "restaurante japonesa tradicional",
+    "melhor restaurante japonesa em são paulo",
+    "japonesa em higienópolis"
+  ],
+  "images": [
+    {
+      "url": "/images/franco-pereira-and-silva-higienópolis/fachada.jpg",
+      "alt": "Fachada do Franco, Pereira and Silva em Higienópolis",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/franco-pereira-and-silva-higienópolis/interior.jpg",
+      "alt": "Ambiente interno do Franco, Pereira and Silva",
+      "type": "interior"
+    },
+    {
+      "url": "/images/franco-pereira-and-silva-higienópolis/prato.jpg",
+      "alt": "Prato especial do Franco, Pereira and Silva",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Japonesa de São Paulo 2019",
+    "Destaque Gastronômico - Revista Gourmet 2018"
+  ],
+  "events": [
+    "Festival Gastronômico",
+    "Noites de Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções sem Glúten",
+    "Opções Vegetarianas"
+  ]
+}

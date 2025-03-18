@@ -1,0 +1,149 @@
+{
+  "id": "nogueira-saraiva-and-melo-ipanema",
+  "name": "Nogueira, Saraiva and Melo",
+  "slug": "nogueira-saraiva-and-melo-ipanema",
+  "city": "Rio de Janeiro",
+  "neighborhood": "Ipanema",
+  "state": "RJ",
+  "address": {
+    "street": "Marcelo Avenida",
+    "number": "3767",
+    "zipCode": "35144-422",
+    "coordinates": {
+      "latitude": -22.907,
+      "longitude": -43.173
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Feijoada",
+    "Acarajé",
+    "Pão de Queijo"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": false,
+  "delivery": false,
+  "takeout": true,
+  "phone": "(24) 6785-1106",
+  "website": "https://www.nogueira-saraiva-and-melo-ipanema.com.br",
+  "socialMedia": {
+    "instagram": "@nogueirasaraivaandmeloipanema",
+    "facebook": "nogueirasaraivaandmeloipanema"
+  },
+  "rating": 3.7,
+  "reviewCount": 301,
+  "ambience": [
+    "Romântico",
+    "Familiar"
+  ],
+  "features": [
+    "Terraço",
+    "Wi-Fi",
+    "Bar"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2017,
+    "founder": "Cecília Moraes",
+    "story": "Sint libero ut placeat recusandae eius qui. Ratione totam quia molestias voluptates aspernatur non non reiciendis omnis. Minus facilis et eius et est minus omnis magnam sapiente. Facere nihil voluptatum qui amet est. Voluptatem laborum praesentium unde ut non nesciunt."
+  },
+  "chef": {
+    "name": "Danilo Carvalho",
+    "background": "Ad eligendi ipsam dignissimos deserunt sed est aliquid."
+  },
+  "keywords": [
+    "brasileira",
+    "ipanema",
+    "rio de janeiro"
+  ],
+  "nearbyAttractions": [
+    "Centro Comercial",
+    "Museu",
+    "Teatro"
+  ],
+  "relatedQueries": [
+    "melhor restaurante brasileira em rio de janeiro",
+    "restaurante brasileira tradicional",
+    "brasileira em ipanema"
+  ],
+  "images": [
+    {
+      "url": "/images/nogueira-saraiva-and-melo-ipanema/fachada.jpg",
+      "alt": "Fachada do Nogueira, Saraiva and Melo em Ipanema",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/nogueira-saraiva-and-melo-ipanema/interior.jpg",
+      "alt": "Ambiente interno do Nogueira, Saraiva and Melo",
+      "type": "interior"
+    },
+    {
+      "url": "/images/nogueira-saraiva-and-melo-ipanema/prato.jpg",
+      "alt": "Prato especial do Nogueira, Saraiva and Melo",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Brasileira de Rio de Janeiro 2020",
+    "Destaque Gastronômico - Revista Gourmet 2022"
+  ],
+  "events": [
+    "Noites de Degustação",
+    "Menu Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções Vegetarianas"
+  ]
+}

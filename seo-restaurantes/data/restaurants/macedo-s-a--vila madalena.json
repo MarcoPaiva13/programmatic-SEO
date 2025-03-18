@@ -1,0 +1,149 @@
+{
+  "id": "macedo-s-a--vila madalena",
+  "name": "Macedo S.A.",
+  "slug": "macedo-s-a--vila madalena",
+  "city": "São Paulo",
+  "neighborhood": "Vila Madalena",
+  "state": "SP",
+  "address": {
+    "street": "Carvalho Avenida",
+    "number": "3916",
+    "zipCode": "03359-804",
+    "coordinates": {
+      "latitude": -23.553,
+      "longitude": -46.634
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Sushi",
+    "Sashimi",
+    "Tempura"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": true,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(76) 1992-5950",
+  "website": "https://www.macedo-s-a--vila madalena.com.br",
+  "socialMedia": {
+    "instagram": "@macedosavila madalena",
+    "facebook": "macedosavila madalena"
+  },
+  "rating": 4,
+  "reviewCount": 222,
+  "ambience": [
+    "Moderno",
+    "Familiar"
+  ],
+  "features": [
+    "Terraço",
+    "Ar Condicionado",
+    "Acessibilidade"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2010,
+    "founder": "Júlio César Santos",
+    "story": "Quos adipisci et molestiae at alias perspiciatis omnis fugiat. Assumenda est nesciunt velit labore eum aut autem praesentium sit. Sed doloremque illo iure laboriosam aut molestiae. Ut in totam fuga inventore ipsam fugit ea quibusdam placeat. Quisquam ea molestias quod est sint doloremque molestiae. Eius ut reiciendis iusto illo."
+  },
+  "chef": {
+    "name": "João Carvalho",
+    "background": "Tempora ab voluptatem adipisci quis voluptatem."
+  },
+  "keywords": [
+    "japonesa",
+    "vila madalena",
+    "são paulo"
+  ],
+  "nearbyAttractions": [
+    "Teatro",
+    "Shopping",
+    "Museu"
+  ],
+  "relatedQueries": [
+    "japonesa em vila madalena",
+    "restaurante japonesa tradicional",
+    "melhor restaurante japonesa em são paulo"
+  ],
+  "images": [
+    {
+      "url": "/images/macedo-s-a--vila madalena/fachada.jpg",
+      "alt": "Fachada do Macedo S.A. em Vila Madalena",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/macedo-s-a--vila madalena/interior.jpg",
+      "alt": "Ambiente interno do Macedo S.A.",
+      "type": "interior"
+    },
+    {
+      "url": "/images/macedo-s-a--vila madalena/prato.jpg",
+      "alt": "Prato especial do Macedo S.A.",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2019",
+    "Melhor Restaurante Japonesa de São Paulo 2022"
+  ],
+  "events": [
+    "Menu Degustação",
+    "Happy Hour Especial"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções Vegetarianas"
+  ]
+}

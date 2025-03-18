@@ -1,0 +1,149 @@
+{
+  "id": "saraiva-com-rcio-boa vista",
+  "name": "Saraiva Comércio",
+  "slug": "saraiva-com-rcio-boa vista",
+  "city": "Porto Alegre",
+  "neighborhood": "Boa Vista",
+  "state": "RS",
+  "address": {
+    "street": "Martins Alameda",
+    "number": "303",
+    "zipCode": "59797-614",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Sashimi",
+    "Temaki",
+    "Tempura"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(83) 1273-9042",
+  "website": "https://www.saraiva-com-rcio-boa vista.com.br",
+  "socialMedia": {
+    "instagram": "@saraivacomrcioboa vista",
+    "facebook": "saraivacomrcioboa vista"
+  },
+  "rating": 3.9,
+  "reviewCount": 159,
+  "ambience": [
+    "Moderno",
+    "Tradicional"
+  ],
+  "features": [
+    "Acessibilidade",
+    "Wi-Fi",
+    "Ar Condicionado"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1985,
+    "founder": "Isabel Reis",
+    "story": "Quis eos explicabo est adipisci ut voluptas. Esse qui ullam doloribus praesentium amet voluptate. Vel temporibus quia ratione molestiae reprehenderit."
+  },
+  "chef": {
+    "name": "Eduarda Pereira",
+    "background": "Totam dolore nobis voluptas recusandae modi culpa atque ab."
+  },
+  "keywords": [
+    "japonesa",
+    "boa vista",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Parque",
+    "Museu",
+    "Centro Comercial"
+  ],
+  "relatedQueries": [
+    "restaurante japonesa tradicional",
+    "melhor restaurante japonesa em porto alegre",
+    "japonesa em boa vista"
+  ],
+  "images": [
+    {
+      "url": "/images/saraiva-com-rcio-boa vista/fachada.jpg",
+      "alt": "Fachada do Saraiva Comércio em Boa Vista",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/saraiva-com-rcio-boa vista/interior.jpg",
+      "alt": "Ambiente interno do Saraiva Comércio",
+      "type": "interior"
+    },
+    {
+      "url": "/images/saraiva-com-rcio-boa vista/prato.jpg",
+      "alt": "Prato especial do Saraiva Comércio",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2018",
+    "Melhor Restaurante Japonesa de Porto Alegre 2019"
+  ],
+  "events": [
+    "Noites de Degustação",
+    "Menu Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções sem Glúten",
+    "Opções Vegetarianas"
+  ]
+}

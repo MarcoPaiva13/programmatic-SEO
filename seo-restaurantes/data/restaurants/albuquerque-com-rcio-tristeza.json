@@ -1,0 +1,149 @@
+{
+  "id": "albuquerque-com-rcio-tristeza",
+  "name": "Albuquerque Comércio",
+  "slug": "albuquerque-com-rcio-tristeza",
+  "city": "Porto Alegre",
+  "neighborhood": "Tristeza",
+  "state": "RS",
+  "address": {
+    "street": "Noah Rodovia",
+    "number": "9622",
+    "zipCode": "17614-834",
+    "coordinates": {
+      "latitude": -30.035,
+      "longitude": -51.218
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Yakisoba",
+    "Tempura",
+    "Temaki"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": false,
+  "delivery": false,
+  "takeout": false,
+  "phone": "(02) 2412-5696",
+  "website": "https://www.albuquerque-com-rcio-tristeza.com.br",
+  "socialMedia": {
+    "instagram": "@albuquerquecomrciotristeza",
+    "facebook": "albuquerquecomrciotristeza"
+  },
+  "rating": 4.2,
+  "reviewCount": 308,
+  "ambience": [
+    "Tradicional",
+    "Casual Elegante"
+  ],
+  "features": [
+    "Acessibilidade",
+    "Wi-Fi",
+    "Ar Condicionado"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2001,
+    "founder": "Yasmin Albuquerque",
+    "story": "Repudiandae itaque nihil ut labore nisi. Illum atque delectus tempora cumque. Voluptatem optio aperiam numquam enim sapiente sit aliquid."
+  },
+  "chef": {
+    "name": "Isis Saraiva",
+    "background": "Minus maiores minus vel."
+  },
+  "keywords": [
+    "japonesa",
+    "tristeza",
+    "porto alegre"
+  ],
+  "nearbyAttractions": [
+    "Centro Comercial",
+    "Museu",
+    "Parque"
+  ],
+  "relatedQueries": [
+    "melhor restaurante japonesa em porto alegre",
+    "japonesa em tristeza",
+    "restaurante japonesa tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/albuquerque-com-rcio-tristeza/fachada.jpg",
+      "alt": "Fachada do Albuquerque Comércio em Tristeza",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/albuquerque-com-rcio-tristeza/interior.jpg",
+      "alt": "Ambiente interno do Albuquerque Comércio",
+      "type": "interior"
+    },
+    {
+      "url": "/images/albuquerque-com-rcio-tristeza/prato.jpg",
+      "alt": "Prato especial do Albuquerque Comércio",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2019",
+    "Melhor Restaurante Japonesa de Porto Alegre 2022"
+  ],
+  "events": [
+    "Noites de Degustação",
+    "Menu Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções Veganas"
+  ]
+}

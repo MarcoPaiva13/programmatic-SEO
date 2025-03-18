@@ -1,0 +1,149 @@
+{
+  "id": "barros-ltda-copacabana",
+  "name": "Barros LTDA",
+  "slug": "barros-ltda-copacabana",
+  "city": "Rio de Janeiro",
+  "neighborhood": "Copacabana",
+  "state": "RJ",
+  "address": {
+    "street": "Dalila Avenida",
+    "number": "8009",
+    "zipCode": "64654-669",
+    "coordinates": {
+      "latitude": -22.907,
+      "longitude": -43.173
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Sashimi",
+    "Yakisoba",
+    "Tempura"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": true,
+  "delivery": false,
+  "takeout": false,
+  "phone": "(58) 8880-3660",
+  "website": "https://www.barros-ltda-copacabana.com.br",
+  "socialMedia": {
+    "instagram": "@barrosltdacopacabana",
+    "facebook": "barrosltdacopacabana"
+  },
+  "rating": 4.4,
+  "reviewCount": 291,
+  "ambience": [
+    "Moderno",
+    "Tradicional"
+  ],
+  "features": [
+    "Acessibilidade",
+    "Terraço",
+    "Bar"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1981,
+    "founder": "Maria Macedo Neto",
+    "story": "Ut vel omnis officia. Voluptatem aut quis magnam sequi aut consectetur magni. Accusantium assumenda blanditiis assumenda voluptate aliquid cum consequatur sapiente omnis. Aut dolores consequuntur labore perspiciatis. Aperiam aut non cumque labore. Quaerat voluptatem ipsum voluptatum rerum illo et dolor consectetur atque."
+  },
+  "chef": {
+    "name": "Dra. Ígor Saraiva",
+    "background": "Minima consequatur numquam ut voluptate voluptatem ducimus dolorem."
+  },
+  "keywords": [
+    "japonesa",
+    "copacabana",
+    "rio de janeiro"
+  ],
+  "nearbyAttractions": [
+    "Parque",
+    "Museu",
+    "Centro Comercial"
+  ],
+  "relatedQueries": [
+    "melhor restaurante japonesa em rio de janeiro",
+    "japonesa em copacabana",
+    "restaurante japonesa tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/barros-ltda-copacabana/fachada.jpg",
+      "alt": "Fachada do Barros LTDA em Copacabana",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/barros-ltda-copacabana/interior.jpg",
+      "alt": "Ambiente interno do Barros LTDA",
+      "type": "interior"
+    },
+    {
+      "url": "/images/barros-ltda-copacabana/prato.jpg",
+      "alt": "Prato especial do Barros LTDA",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 3",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Japonesa de Rio de Janeiro 2020",
+    "Destaque Gastronômico - Revista Gourmet 2018"
+  ],
+  "events": [
+    "Festival Gastronômico",
+    "Menu Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções sem Glúten",
+    "Opções Vegetarianas"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "braga-e-associados-cristo rei",
+  "name": "Braga e Associados",
+  "slug": "braga-e-associados-cristo rei",
+  "city": "Curitiba",
+  "neighborhood": "Cristo Rei",
+  "state": "PR",
+  "address": {
+    "street": "Pedro Avenida",
+    "number": "8853",
+    "zipCode": "94675-549",
+    "coordinates": {
+      "latitude": -25.429,
+      "longitude": -49.274
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Tempura",
+    "Temaki",
+    "Yakisoba"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": false,
+  "delivery": true,
+  "takeout": true,
+  "phone": "(35) 4681-2859",
+  "website": "https://www.braga-e-associados-cristo rei.com.br",
+  "socialMedia": {
+    "instagram": "@bragaeassociadoscristo rei",
+    "facebook": "bragaeassociadoscristo rei"
+  },
+  "rating": 4.9,
+  "reviewCount": 163,
+  "ambience": [
+    "Romântico",
+    "Moderno"
+  ],
+  "features": [
+    "Ar Condicionado",
+    "Estacionamento",
+    "Terraço"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1983,
+    "founder": "João Pedro Pereira Filho",
+    "story": "Qui assumenda aut sapiente facere culpa et nostrum. Non aut qui dolore nisi. Deleniti voluptate saepe non tempora dolor repellat pariatur. Porro et nulla officiis esse reiciendis. Expedita voluptas quibusdam similique totam facilis sed voluptatem iure est. Id cum voluptatem voluptatem deserunt maxime."
+  },
+  "chef": {
+    "name": "Suélen Albuquerque",
+    "background": "Rerum ipsam voluptatum laboriosam molestias repudiandae."
+  },
+  "keywords": [
+    "japonesa",
+    "cristo rei",
+    "curitiba"
+  ],
+  "nearbyAttractions": [
+    "Centro Comercial",
+    "Shopping",
+    "Parque"
+  ],
+  "relatedQueries": [
+    "melhor restaurante japonesa em curitiba",
+    "japonesa em cristo rei",
+    "restaurante japonesa tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/braga-e-associados-cristo rei/fachada.jpg",
+      "alt": "Fachada do Braga e Associados em Cristo Rei",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/braga-e-associados-cristo rei/interior.jpg",
+      "alt": "Ambiente interno do Braga e Associados",
+      "type": "interior"
+    },
+    {
+      "url": "/images/braga-e-associados-cristo rei/prato.jpg",
+      "alt": "Prato especial do Braga e Associados",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 1",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2018",
+    "Melhor Restaurante Japonesa de Curitiba 2022"
+  ],
+  "events": [
+    "Noites de Degustação",
+    "Menu Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções sem Glúten"
+  ]
+}

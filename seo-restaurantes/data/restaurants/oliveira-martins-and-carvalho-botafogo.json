@@ -1,0 +1,149 @@
+{
+  "id": "oliveira-martins-and-carvalho-botafogo",
+  "name": "Oliveira, Martins and Carvalho",
+  "slug": "oliveira-martins-and-carvalho-botafogo",
+  "city": "Rio de Janeiro",
+  "neighborhood": "Botafogo",
+  "state": "RJ",
+  "address": {
+    "street": "Santos Rodovia",
+    "number": "573",
+    "zipCode": "06604-344",
+    "coordinates": {
+      "latitude": -22.907,
+      "longitude": -43.173
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Churrasco",
+    "Moqueca",
+    "Pão de Queijo"
+  ],
+  "priceRange": "$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": true,
+  "delivery": false,
+  "takeout": true,
+  "phone": "(31) 1081-0303",
+  "website": "https://www.oliveira-martins-and-carvalho-botafogo.com.br",
+  "socialMedia": {
+    "instagram": "@oliveiramartinsandcarvalhobotafogo",
+    "facebook": "oliveiramartinsandcarvalhobotafogo"
+  },
+  "rating": 3.7,
+  "reviewCount": 417,
+  "ambience": [
+    "Romântico",
+    "Moderno"
+  ],
+  "features": [
+    "Estacionamento",
+    "Ar Condicionado",
+    "Bar"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 1995,
+    "founder": "Norberto Costa",
+    "story": "Molestias dicta incidunt labore et vel tempora quia dolorem. Id doloribus beatae praesentium quo quibusdam dolorem alias. Possimus magni occaecati suscipit sint velit nulla accusamus ut. In aut id atque et facere eum recusandae fugit. Neque atque voluptas quos ipsa saepe labore. Harum illo repellat."
+  },
+  "chef": {
+    "name": "João Pedro Nogueira",
+    "background": "Nostrum ratione placeat molestiae molestiae laboriosam quisquam quia eaque rerum."
+  },
+  "keywords": [
+    "brasileira",
+    "botafogo",
+    "rio de janeiro"
+  ],
+  "nearbyAttractions": [
+    "Centro Comercial",
+    "Teatro",
+    "Parque"
+  ],
+  "relatedQueries": [
+    "melhor restaurante brasileira em rio de janeiro",
+    "brasileira em botafogo",
+    "restaurante brasileira tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/oliveira-martins-and-carvalho-botafogo/fachada.jpg",
+      "alt": "Fachada do Oliveira, Martins and Carvalho em Botafogo",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/oliveira-martins-and-carvalho-botafogo/interior.jpg",
+      "alt": "Ambiente interno do Oliveira, Martins and Carvalho",
+      "type": "interior"
+    },
+    {
+      "url": "/images/oliveira-martins-and-carvalho-botafogo/prato.jpg",
+      "alt": "Prato especial do Oliveira, Martins and Carvalho",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2023",
+    "Melhor Restaurante Brasileira de Rio de Janeiro 2020"
+  ],
+  "events": [
+    "Happy Hour Especial",
+    "Noites de Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções Vegetarianas"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "macedo-franco-jardim botânico",
+  "name": "Macedo - Franco",
+  "slug": "macedo-franco-jardim botânico",
+  "city": "Rio de Janeiro",
+  "neighborhood": "Jardim Botânico",
+  "state": "RJ",
+  "address": {
+    "street": "Alice Marginal",
+    "number": "7665",
+    "zipCode": "19618-973",
+    "coordinates": {
+      "latitude": -22.907,
+      "longitude": -43.173
+    }
+  },
+  "cuisine": [
+    "Japonesa"
+  ],
+  "specialties": [
+    "Yakisoba",
+    "Sashimi",
+    "Tempura"
+  ],
+  "priceRange": "$$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "Fechado"
+  },
+  "reservations": false,
+  "delivery": false,
+  "takeout": true,
+  "phone": "(19) 9885-8183",
+  "website": "https://www.macedo-franco-jardim botânico.com.br",
+  "socialMedia": {
+    "instagram": "@macedofrancojardim botânico",
+    "facebook": "macedofrancojardim botânico"
+  },
+  "rating": 3.9,
+  "reviewCount": 101,
+  "ambience": [
+    "Moderno",
+    "Casual Elegante"
+  ],
+  "features": [
+    "Acessibilidade",
+    "Wi-Fi",
+    "Ar Condicionado"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2009,
+    "founder": "Núbia Macedo",
+    "story": "Ut porro qui omnis sapiente dolor sit reprehenderit nesciunt. Soluta alias optio maxime beatae accusamus. Dolore vel aperiam quas sit dolorum laborum aperiam. Rerum et molestiae."
+  },
+  "chef": {
+    "name": "Enzo Gabriel Carvalho",
+    "background": "Dolor ea et voluptate mollitia et consequuntur."
+  },
+  "keywords": [
+    "japonesa",
+    "jardim botânico",
+    "rio de janeiro"
+  ],
+  "nearbyAttractions": [
+    "Shopping",
+    "Museu",
+    "Teatro"
+  ],
+  "relatedQueries": [
+    "melhor restaurante japonesa em rio de janeiro",
+    "japonesa em jardim botânico",
+    "restaurante japonesa tradicional"
+  ],
+  "images": [
+    {
+      "url": "/images/macedo-franco-jardim botânico/fachada.jpg",
+      "alt": "Fachada do Macedo - Franco em Jardim Botânico",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/macedo-franco-jardim botânico/interior.jpg",
+      "alt": "Ambiente interno do Macedo - Franco",
+      "type": "interior"
+    },
+    {
+      "url": "/images/macedo-franco-jardim botânico/prato.jpg",
+      "alt": "Prato especial do Macedo - Franco",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Combinado Especial",
+      "preco": 85,
+      "descricao": "Mix de sushis e sashimis variados",
+      "ingredients": [
+        "Ingrediente 1",
+        "Ingrediente 2",
+        "Ingrediente 3"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Temaki de Salmão",
+      "preco": 35,
+      "descricao": "Cone de alga com arroz e salmão fresco",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 1",
+        "Ingrediente 2"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Yakisoba de Frango",
+      "preco": 48,
+      "descricao": "Macarrão frito com legumes e frango",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    }
+  ],
+  "awards": [
+    "Melhor Restaurante Japonesa de Rio de Janeiro 2019",
+    "Destaque Gastronômico - Revista Gourmet 2021"
+  ],
+  "events": [
+    "Menu Degustação",
+    "Noites de Degustação"
+  ],
+  "dietaryOptions": [
+    "Opções Veganas",
+    "Opções Vegetarianas"
+  ]
+}

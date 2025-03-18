@@ -1,0 +1,149 @@
+{
+  "id": "macedo-batista-bigorrilho",
+  "name": "Macedo - Batista",
+  "slug": "macedo-batista-bigorrilho",
+  "city": "Curitiba",
+  "neighborhood": "Bigorrilho",
+  "state": "PR",
+  "address": {
+    "street": "Barros Rodovia",
+    "number": "2974",
+    "zipCode": "44356-067",
+    "coordinates": {
+      "latitude": -25.429,
+      "longitude": -49.274
+    }
+  },
+  "cuisine": [
+    "Brasileira"
+  ],
+  "specialties": [
+    "Pão de Queijo",
+    "Churrasco",
+    "Acarajé"
+  ],
+  "priceRange": "$$",
+  "operatingHours": {
+    "monday": "12:00-22:00",
+    "tuesday": "12:00-22:00",
+    "wednesday": "12:00-22:00",
+    "thursday": "12:00-23:00",
+    "friday": "12:00-23:00",
+    "saturday": "12:00-23:00",
+    "sunday": "12:00-16:00"
+  },
+  "reservations": true,
+  "delivery": true,
+  "takeout": false,
+  "phone": "(66) 1980-5291",
+  "website": "https://www.macedo-batista-bigorrilho.com.br",
+  "socialMedia": {
+    "instagram": "@macedobatistabigorrilho",
+    "facebook": "macedobatistabigorrilho"
+  },
+  "rating": 4.4,
+  "reviewCount": 264,
+  "ambience": [
+    "Moderno",
+    "Casual Elegante"
+  ],
+  "features": [
+    "Estacionamento",
+    "Acessibilidade",
+    "Terraço"
+  ],
+  "paymentOptions": [
+    "Crédito",
+    "Débito",
+    "Dinheiro",
+    "Pix"
+  ],
+  "establishment": {
+    "foundedYear": 2010,
+    "founder": "Yango Franco",
+    "story": "Nulla dolores rerum necessitatibus magni tempore odio. Optio et ut iusto et. Consequatur repellat ad. Aliquid quidem voluptas enim voluptates adipisci est. Ad dolorem provident iure vero."
+  },
+  "chef": {
+    "name": "Enzo Moraes",
+    "background": "Repellendus possimus molestiae iste."
+  },
+  "keywords": [
+    "brasileira",
+    "bigorrilho",
+    "curitiba"
+  ],
+  "nearbyAttractions": [
+    "Museu",
+    "Centro Comercial",
+    "Parque"
+  ],
+  "relatedQueries": [
+    "melhor restaurante brasileira em curitiba",
+    "restaurante brasileira tradicional",
+    "brasileira em bigorrilho"
+  ],
+  "images": [
+    {
+      "url": "/images/macedo-batista-bigorrilho/fachada.jpg",
+      "alt": "Fachada do Macedo - Batista em Bigorrilho",
+      "type": "exterior"
+    },
+    {
+      "url": "/images/macedo-batista-bigorrilho/interior.jpg",
+      "alt": "Ambiente interno do Macedo - Batista",
+      "type": "interior"
+    },
+    {
+      "url": "/images/macedo-batista-bigorrilho/prato.jpg",
+      "alt": "Prato especial do Macedo - Batista",
+      "type": "food"
+    }
+  ],
+  "menuHighlights": [
+    {
+      "nome": "Feijoada Completa",
+      "preco": 75,
+      "descricao": "Feijoada tradicional com todas as carnes e acompanhamentos",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    },
+    {
+      "nome": "Picanha na Brasa",
+      "preco": 95,
+      "descricao": "Picanha grelhada com arroz, farofa e vinagrete",
+      "ingredients": [
+        "Ingrediente 2",
+        "Ingrediente 3",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": true
+    },
+    {
+      "nome": "Moqueca de Peixe",
+      "preco": 85,
+      "descricao": "Moqueca de peixe com arroz e pirão",
+      "ingredients": [
+        "Ingrediente 3",
+        "Ingrediente 2",
+        "Ingrediente 1"
+      ],
+      "isSignatureDish": false
+    }
+  ],
+  "awards": [
+    "Destaque Gastronômico - Revista Gourmet 2018",
+    "Melhor Restaurante Brasileira de Curitiba 2019"
+  ],
+  "events": [
+    "Festival Gastronômico",
+    "Happy Hour Especial"
+  ],
+  "dietaryOptions": [
+    "Opções Vegetarianas",
+    "Opções Veganas"
+  ]
+}
