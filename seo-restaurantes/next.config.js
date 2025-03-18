@@ -14,13 +14,6 @@ module.exports = withBundleAnalyzer({
     minimumCacheTTL: 60, // Cache em segundos
   },
   
-  // Configurações de otimização para Pages Router
-  experimental: {
-    // Otimização para páginas estáticas
-    optimizeCss: true,
-    scrollRestoration: true,
-  },
-  
   // Compressão e otimização
   compress: true,
   
