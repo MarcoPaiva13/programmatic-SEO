@@ -66,105 +66,96 @@ yarn dev
 
 ```
 seo-restaurantes/
-├── components/
-│   ├── Avatar/
-│   │   ├── __tests__/
-│   │   │   └── Avatar.test.js
-│   │   └── index.js
-│   ├── Badge/
-│   │   ├── __tests__/
-│   │   │   └── Badge.test.js
-│   │   └── index.js
-│   ├── Button/
-│   │   ├── __tests__/
-│   │   │   └── Button.test.js
-│   │   └── index.js
-│   ├── Card/
-│   │   ├── __tests__/
-│   │   │   └── Card.test.js
-│   │   └── index.js
-│   ├── Checkbox/
-│   │   ├── __tests__/
-│   │   │   └── Checkbox.test.js
-│   │   └── index.js
-│   ├── ErrorBoundary/
-│   │   ├── __tests__/
-│   │   │   └── ErrorBoundary.test.js
-│   │   └── index.js
-│   ├── Input/
-│   │   ├── __tests__/
-│   │   │   └── Input.test.js
-│   │   └── index.js
-│   ├── Modal/
-│   │   ├── __tests__/
-│   │   │   └── Modal.test.js
-│   │   └── index.js
-│   ├── Progress/
-│   │   ├── __tests__/
-│   │   │   └── Progress.test.js
-│   │   └── index.js
-│   ├── Radio/
-│   │   ├── __tests__/
-│   │   │   └── Radio.test.js
-│   │   └── index.js
-│   ├── Select/
-│   │   ├── __tests__/
-│   │   │   └── Select.test.js
-│   │   └── index.js
-│   ├── Slider/
-│   │   ├── __tests__/
-│   │   │   └── Slider.test.js
-│   │   └── index.js
-│   ├── Switch/
-│   │   ├── __tests__/
-│   │   │   └── Switch.test.js
-│   │   └── index.js
-│   ├── Tooltip/
-│   │   ├── __tests__/
-│   │   │   └── Tooltip.test.js
-│   │   └── index.js
-│   ├── filters/
-│   │   ├── CuisineFilter.js
-│   │   ├── FilterBar.js
-│   │   ├── LocationFilter.js
-│   │   ├── PriceFilter.js
-│   │   ├── RatingFilter.js
-│   │   └── SearchBar.js
-│   └── search/
-│       ├── __tests__/
-│       │   ├── FilterBuilder.test.js
-│       │   └── ViewSelector.test.js
-│       ├── FilterBuilder.js
-│       ├── ResultsMap.js
-│       ├── ResultsTable.js
-│       ├── SavedSearches.js
-│       ├── SearchHistory.js
-│       └── ViewSelector.js
-├── data/
-│   └── restaurants/
-├── pages/
-│   ├── __tests__/
-│   │   └── index.test.js
-│   ├── search/
-│   │   ├── __tests__/
-│   │   │   └── SearchPage.test.js
-│   │   └── index.js
-│   ├── _app.js
-│   └── index.js
-├── public/
-│   └── images/
-├── styles/
-│   └── Home.module.css
-├── scripts/
-│   └── generateRestaurants.js
-├── jest.config.js
-├── jest.setup.js
-├── next.config.js
-├── .gitignore
-├── .eslintrc.json
-├── .babelrc
-├── package.json
-└── README.md
+├── .github/                       # Configurações do GitHub
+├── .next/                         # Build do Next.js
+├── components/                    # Componentes React reutilizáveis
+│   ├── Map/                       # Componentes relacionados a mapas
+│   │   └── Map.js                 # Implementação do componente de mapa
+│   ├── OptimizedImage/            # Componente de imagem otimizada
+│   ├── RestaurantCard/            # Card de exibição de restaurante
+│   │   ├── index.js               # Implementação do cartão de restaurante
+│   │   └── RestaurantCard.module.css # Estilos do cartão
+│   ├── RestaurantGallery/         # Galeria de fotos de restaurantes
+│   ├── RestaurantImage/           # Componente de imagem de restaurante
+│   ├── ReviewForm/                # Formulário de avaliação
+│   ├── ShareModal/                # Modal de compartilhamento
+│   ├── admin/                     # Componentes da área administrativa
+│   ├── filters/                   # Componentes de filtros de busca
+│   │   ├── CuisineFilter.js       # Filtro de tipos de cozinha
+│   │   ├── FilterBar.js           # Barra de filtros
+│   │   ├── LocationFilter.js      # Filtro de localização
+│   │   ├── PriceFilter.js         # Filtro de preço
+│   │   ├── RatingFilter.js        # Filtro de avaliação
+│   │   ├── SearchBar.js           # Barra de busca
+│   │   └── SortOptions.js         # Opções de ordenação
+│   ├── search/                    # Componentes relacionados à busca
+│   │   ├── AdvancedSearchBar.js   # Barra de busca avançada
+│   │   ├── AdvancedSearchBar.module.css # Estilos da busca avançada
+│   │   ├── FilterBuilder.js       # Construtor de filtros
+│   │   ├── ResultsList.js         # Lista de resultados
+│   │   ├── ResultsList.module.css # Estilos da lista de resultados
+│   │   ├── ResultsMap.js          # Visualização em mapa
+│   │   ├── ResultsTable.js        # Visualização em tabela
+│   │   ├── SavedSearches.js       # Gerenciamento de buscas salvas
+│   │   ├── SearchHistory.js       # Histórico de buscas
+│   │   └── ViewSelector.js        # Seletor de visualização
+│   ├── templates/                 # Templates de página
+│   ├── ConsentBanner.js           # Banner de consentimento de cookies
+│   └── PreferencesModal.js        # Modal de preferências do usuário
+├── data/                          # Dados do aplicativo
+│   ├── analytics/                 # Dados de análise
+│   ├── indices/                   # Índices para busca
+│   └── restaurants/               # Dados dos restaurantes
+├── hooks/                         # Hooks personalizados do React
+├── lib/                           # Bibliotecas e funções utilitárias
+├── node_modules/                  # Dependências do projeto
+├── pages/                         # Páginas da aplicação
+│   ├── api/                       # Endpoints da API
+│   │   ├── analytics/             # API de análises
+│   │   ├── restaurants/           # API de restaurantes
+│   │   ├── revalidate.js          # Endpoint para revalidação
+│   │   ├── revalidate-batch.js    # Revalidação em lote
+│   │   ├── robots.js              # Configuração de robots.txt
+│   │   └── sitemap.xml.js         # Gerador de sitemap
+│   ├── restaurantes/              # Páginas de restaurantes
+│   ├── _app.js                    # Configuração principal do Next.js
+│   ├── busca-avancada.js          # Página de busca avançada
+│   └── index.js                   # Página inicial
+├── public/                        # Arquivos públicos estáticos
+│   ├── robots.txt                 # Arquivo robots.txt
+│   ├── vercel.svg                 # Logo da Vercel
+│   ├── next.svg                   # Logo do Next.js
+│   ├── globe.svg                  # Ícone de globo
+│   ├── file.svg                   # Ícone de arquivo
+│   └── window.svg                 # Ícone de janela
+├── reducers/                      # Reducers (para gerenciamento de estado)
+├── scripts/                       # Scripts de utilitários
+├── styles/                        # Estilos globais
+│   ├── ConsentBanner.module.css   # Estilos do banner de consentimento
+│   ├── globals.css                # Estilos globais
+│   ├── Home.module.css            # Estilos da página inicial
+│   ├── PreferencesModal.module.css # Estilos do modal de preferências
+│   └── SEODashboard.module.css    # Estilos do dashboard de SEO
+├── utils/                         # Funções utilitárias
+├── .env.example                   # Exemplo de variáveis de ambiente
+├── .eslintrc.json                 # Configuração do ESLint
+├── .gitignore                     # Configuração do Git ignore
+├── .prettierrc                    # Configuração do Prettier
+├── LICENSE                        # Licença do projeto
+├── OTIMIZACOES.md                 # Documentação de otimizações
+├── eslint.config.mjs              # Configuração adicional do ESLint
+├── jest.config.js                 # Configuração de testes
+├── jest.setup.js                  # Configuração adicional de testes
+├── next-env.d.ts                  # Tipos do Next.js
+├── next-sitemap.config.js         # Configuração do sitemap
+├── next.config.js                 # Configuração do Next.js
+├── package-lock.json              # Lock de dependências
+├── package.json                   # Dependências e scripts
+├── postcss.config.js              # Configuração do PostCSS
+├── postcss.config.mjs             # Configuração adicional do PostCSS
+├── tailwind.config.js             # Configuração do Tailwind CSS
+├── tsconfig.json                  # Configuração do TypeScript
+└── vercel.json                    # Configuração da Vercel
 ```
 
 ## Scripts Disponíveis
