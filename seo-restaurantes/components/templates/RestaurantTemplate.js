@@ -143,7 +143,7 @@ export default function RestaurantTemplate({ restaurant, relatedRestaurants }) {
                 <div key={index} className={styles.menuItem}>
                   <h3>{dish.name} {dish.isSignatureDish && '⭐'}</h3>
                   <p>{dish.description}</p>
-                  <p className={styles.price}>R$ {dish.price.toFixed(2)}</p>
+                  <p className={styles.price}>R$ {typeof dish.price === 'number' ? dish.price.toFixed(2) : '0.00'}</p>
                 </div>
               ))}
             </div>
