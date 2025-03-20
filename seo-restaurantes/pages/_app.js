@@ -257,26 +257,63 @@ function MyApp({ Component, pageProps }) {
 
 // Configuração para monitoramento de Web Vitals
 export function reportWebVitals(metric) {
-  // Esta função será chamada automaticamente pelo Next.js
-  // Apenas reportar se consentimento foi dado
-  if (typeof window !== 'undefined') {
-    try {
+  // Registrar a métrica no console para debug
+  if (process.env.NODE_ENV === 'development') {
+    console.log(`Core Web Vital: ${metric.name}`, metric);
+  }
+
+  // Enviar a métrica para o endpoint de API interno
+  try {
+    // Somente enviar se estiver no navegador
+    if (typeof window !== 'undefined') {
+      // Verificar consentimento para analytics se necessário
       const consentGiven = localStorage.getItem('cookieConsent');
       const analyticsAllowed = consentGiven === 'accepted' || 
         (consentGiven === 'customized' && 
           JSON.parse(localStorage.getItem('cookiePreferences') || '{}').analytics);
       
-      if (analyticsAllowed && window.gtag) {
-        window.gtag('event', 'web_vitals', {
-          metric_name: metric.name,
-          metric_value: metric.value,
-          metric_delta: metric.delta,
-          metric_id: metric.id,
+      // Se analytics estiver permitido ou estivermos em desenvolvimento
+      if (analyticsAllowed || process.env.NODE_ENV === 'development') {
+        // Preparar payload com informações adicionais
+        const body = {
+          name: metric.name,
+          id: metric.id,
+          value: metric.value,
+          delta: metric.delta,
+          rating: metric.rating, // 'good', 'needs-improvement', ou 'poor'
+          navigationType: metric.navigationType,
+          page: window.location.pathname,
+          userAgent: window.navigator.userAgent,
+          timestamp: new Date().toISOString(),
+        };
+
+        // Enviar para o endpoint interno via fetch
+        fetch('/api/vitals', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify(body),
+          // Usar keepalive para garantir que a requisição complete mesmo durante navegação
+          keepalive: true,
+        }).catch(error => {
+          console.error('Erro ao enviar métricas Web Vitals:', error);
         });
+
+        // Enviar para Google Analytics (se disponível)
+        if (window.gtag) {
+          window.gtag('event', 'web_vitals', {
+            metric_name: metric.name,
+            metric_value: metric.value,
+            metric_delta: metric.delta,
+            metric_id: metric.id,
+            metric_rating: metric.rating,
+          });
+        }
       }
-    } catch (error) {
-      console.error('Erro ao reportar web vitals:', error);
     }
+  } catch (error) {
+    console.error('Erro ao processar métricas Web Vitals:', error);
   }
 }
 

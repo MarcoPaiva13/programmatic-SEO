@@ -1,0 +1,6 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "cd seo-restaurantes && npm run build",
+  "installCommand": "cd seo-restaurantes && npm install --legacy-peer-deps",
+  "outputDirectory": "seo-restaurantes/.next"
+} 
